@@ -544,13 +544,19 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
-- Up to 2000 EUR + VAT / person / year (incl. travel costs)
-- Monthly max. 3000 EUR + VAT on the company level. Biz role approval is needed about this monthly budget.
+- Up to 170 EUR + VAT / Full time Partner / month (incl. travel costs), about 2000 EUR + VAT / Full Time Partner / year
+- Part time Partners can spend in proportion to their % of full time employment
+- A Partner's budget can be cummulated, so if a Partner does not use his/her budget in the given month or year, it can be used later on
+- Monthly learning spending requires approval from the Biz role in order to secure cash flow, if: spending ≥ Number of Partners * 170 EUR + VAT
 - Get an invoice for the the company. Pay by company card/transfer if possible.
-- This includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
+- Learning budget includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
-- Make a brownbag talk if possible.
-- If someone spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
+- Make a brownbag talk about your learning if applicable
+- If a Partner spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
+- If a Partner leaves the company, s/he needs to pay the balanec over the proportional usage of the learning budget in that given year. (For example if the Partner leaves by the end of Oct and her/his learning budget for the given year was 1800 EUR than s/he owes the company 133 EUR (2000/12*10-
+- Learning budget over 2000 EUR / year is the domain of the Biz role as it becomes an investment for the company. If the Partner leaves the company before his/her cummulative learning budget balance is over the 2000 EUR / year average, the person need to pay it back proportionally to the company. (For example the Partner has worked 24 months for the company and has spent 6000 EUR on learning, then the Partner owes 1000 EUR to the company.) This policy is in force from the 23rd of November 2015. (Before that date there was only one relevant case: Adam Banko agreed to stay at least one more year after participating at the Practitioner Certification Training (Vienna), 13th - November 17th, 2015.) 
+- In case a Partner does not want to use a larger learning budget, as the agreed one (just as described above), s/he has the option to access the budget against his or her preferred dividend stocks. (For example 10k HUF budget overuse would mean getting 10k less preferred dividend stocks in that given year.) In this case there is no employment commitment or repayment obligation.
+
 
 ##### Policy: Employee Benefits (for everyone and all circles in the Lab)
 
