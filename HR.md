@@ -47,6 +47,12 @@ Domain:
 
 Purpose: Hire the right people
 
+### Adventures - Banyo, BanMarci, Aniko, Cassus, Petak
+Purpose: Community of happy and healthy Partners
+
+Accountabilities:
+- Organizing team events
+
 ### Employee onboarding handbook editor - Latest hire
 Purpose: Useful employee handbook
 
