@@ -718,6 +718,11 @@ Since the disagreement is private, all parties are expected to respect confident
 
  1. In an ultimate step, the Top Level Circle Lead Link, can be called into the panel, to further reinforce the panel’s moral weight (but not to impose a solution).
 
+## Domain of Strategy: Advisor selection and dismissal
+- Three months probation period before signing anything, prolongation on mutual agreement
+- 6 months cliff
+- No stock purchase, but stock option for the ease of administration
+- Master seniority, proportional shares based on ownership formula
 
 ## Domain of Office and Supply: Office hygiene and safety
 Leave the office clean every day so it's a welcoming place for us and our guests.
