@@ -115,6 +115,7 @@ Domains:
 - Bank
 - Financial best practices
 - Tax payments and optimization
+- Petty cash
 
 
 ### Corporate lawyer - Nora Kiss
@@ -740,6 +741,9 @@ Leave the office clean every day so it's a welcoming place for us and our guests
 - the last one leaving the office has to close all the windows, alarm the office and lock the external doors
 - Authorize at least two people to take your packages. Us the below, official form:
 https://www.posta.hu/static/internet/download/Meghatalmazas_nyomtatvany_20141021.pdf
+
+## Domain of Finance and Controlling: Petty Cash
+No one can use the petty cash without permission from the Finance and Controlling role. Preferably, use Splitwise.
 
 -##### Policy: Office guests
 - Share the door code with your guests when you invite them to help us focus and reduce office noise.
