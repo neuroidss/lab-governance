@@ -373,7 +373,7 @@ Domains:
 ## Domain: Client work
 
 ##### Policy: Third party client licenses
-On all client and venture building projects the role / circle needs to maintain a list of the used third party service and code licenses (including open soruce licenses, for example GNU, GPL etc.). Only use third party source code or service if you are sure it's legal for the project. Check with Legal when in doubt.
+On all client and venture building projects the role / circle needs to maintain a list of the used third party service and code licenses, including open soruce licenses, for example GNU, GPL etc.
 
 ##### Policy: Bugfixing for clients
 Risk of bugs is managed in the planning phase preferably.
