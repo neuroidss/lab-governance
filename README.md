@@ -143,6 +143,9 @@ Accountabilities:
 - Check partner and client company backgrounds before signing the contract
 - Working with the corporate lawyer
 - Negotiating legal documents
+- Managing legal issues
+- Overseeing sure the company's operations and the Partners' work, if it is all legal and follows all the legal obligations
+- Acting, if any action would break the law or legal obligations
 
 Domains:
 - Choose corporate lawyer
