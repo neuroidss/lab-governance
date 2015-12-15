@@ -44,6 +44,7 @@ Purpose: todo
 
 Domains:
 - Ownership system
+- Social and environmental responsibility (CSR)
 
 ### Resource clarity - Marci Banyo
 Purpose:
