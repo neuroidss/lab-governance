@@ -21,6 +21,7 @@ Accountabilities:
 - Managing marketing channels, for example Adwords
 - Writing copy
 - Proofreading
+- Ghostwriting
 
 Domains:
 
