@@ -146,6 +146,7 @@ Accountabilities:
 - Managing legal issues
 - Overseeing sure the company's operations and the Partners' work, if it is all legal and follows all the legal obligations
 - Acting, if any action would break the law or legal obligations
+- Checking the good standing of the company before sgining a contract with it
 
 Domains:
 - Choose corporate lawyer
