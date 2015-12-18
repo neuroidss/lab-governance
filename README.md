@@ -430,6 +430,7 @@ Accountabilities:
 - Conductng orderly peer-reviews
 - Organizing team retreats
 - Facilitating team learning
+- Coaching people out of underperformance
 
 Domains:
 - Employee/Partner compensation
