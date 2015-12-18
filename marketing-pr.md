@@ -5,9 +5,9 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ## Roles
 
 ### Lead Link - Dani
-### Rep Link - Anikó
-### Facilitator - Anikó
-### Secretary - Dani
+### Rep Link - Anikó, mandate: 14 Jan 2016
+### Facilitator - Anikó, mandate: 14 Jan 2016
+### Secretary - Dani, mandate: 14 Jan 2016
 Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Async governance process](#async-governance-process))
 
