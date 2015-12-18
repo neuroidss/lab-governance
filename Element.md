@@ -17,8 +17,8 @@ Accountabilities:
 Purpose: Released product
 
 Accountabilities:
-- planning sprints with the client
-- establishing and checking acceptance criteria
+- planning sprints with the client, designers and developers
+- establishing and checking acceptance criteria of development user stories
 
 ### Developer
 
@@ -37,8 +37,8 @@ Accountability:
 ### Admin - Nagy Dani
 
 Accountability:
-- handling client related administration (contract, certificate of completion, timesheet)
-
+- handling client related administration (contract, invoices, certificate of completion, timesheet)
+- check for paid invoices
 
 
 ## All functions & activities within the Circle
