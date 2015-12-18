@@ -757,7 +757,7 @@ https://www.posta.hu/static/internet/download/Meghatalmazas_nyomtatvany_20141021
 ## Domain of Finance and Controlling: Petty Cash
 No one can use the petty cash without permission from the Finance and Controlling role. Preferably, use Splitwise.
 
--##### Policy: Office guests
+##### Policy: Office guests
 - Share the door code with your guests when you invite them to help us focus and reduce office noise.
 
 ## Domain of Office and Supply: Office company food
