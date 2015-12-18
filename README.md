@@ -21,6 +21,7 @@ Purpose:
 ### Secretary - Dani
 Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
+ - Keeping governance records accurate language-wise.
 
 ### Admin - Virag
 Purpose:
