@@ -279,7 +279,7 @@ Purpose:
 Accountability:
  - Estimating initial product backlog
 
-### How We Work and Service Design - Juli, Banyó, Dávid
+### How We Work and Service Design - Feri
 
 Purpose:
  - Great processes
@@ -288,8 +288,13 @@ Purpose:
 
 Accountability:
  - Setting up the key work processes
- - Designing the services we offer
+ - Designing the service logic we offer
  - Making quotation template
+ - Interviewing senior devs, designers, POs, sales etc to reflect their learnings in the document
+ - Aggregating knowledge
+ - Creating and updating comprehensive docs, like How We Work
+ - Enhancing sales and service processes, client persona
+ - Facilitating workshops to gain input for How We Work, service design and processes
 
 Domain:
 
