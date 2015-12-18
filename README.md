@@ -770,3 +770,6 @@ No one can use the petty cash without permission from the Finance and Controllin
  - yogurt
  - cereals
  - 'szörp'
+
+## Domain of Biz: Relocation cost coverage
+The company covers the flight cost of the relocating Partners.
