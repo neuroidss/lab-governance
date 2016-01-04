@@ -354,8 +354,32 @@ Accountability:
 
 Domain:
  - Client relations
- 
- 
+
+
+### Visibl Point of Contact
+Purpose:
+- Satisfied Visibl
+
+Accountabilities:
+- Following the client contract
+- Making minimum €25000 / month / 3.5 FTE
+- Keeping contact and communicating with the client (first point of contact)
+- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- Notifying sales if upsell or conflict resolution is needed
+- Define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
+- Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
+
+Domain:
+- Visibl client relationship
+- technical resources of the Visibl project, including code and 3rd party services
+
+### Visibl Developer
+
+Purpose: Product
+
+Accountabilities:
+- taking tasks from the backlog and implementing them
+- representing your own work to Visibl
 
 ## CIRCLES
 
@@ -384,20 +408,6 @@ Domains:
 - Client relation
 - working methods
 - Architecture
-
-
-### Visibl - Erik
-Purpose:
- - Satisfied Visibl
-
-Accountabilities:
-- Following the client contract
-- Making minimum €25000 / month / 3.5 FTE
-- Keeping contact and communicating with the client (first point of contact)
-- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
-- Notifying sales if upsell or conflict resolution is needed
-- Define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
-- Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
 ### Element22 - David Judik
 Purpose:
@@ -490,7 +500,7 @@ FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours
   - Legal representative
   - HR Circle LL
   - Resource Clarity
-  
+
 - Advising process is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
@@ -563,7 +573,7 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - Make a brownbag talk about your learning if applicable
 - If a Partner spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
 - If a Partner leaves the company, s/he needs to pay the balanec over the proportional usage of the learning budget in that given year. (For example if the Partner leaves by the end of Oct and her/his learning budget for the given year was 1800 EUR than s/he owes the company 133 EUR (2000/12*10-
-- Learning budget over 2000 EUR / year is the domain of the Biz role as it becomes an investment for the company. If the Partner leaves the company before his/her cummulative learning budget balance is over the 2000 EUR / year average, the person need to pay it back proportionally to the company. (For example the Partner has worked 24 months for the company and has spent 6000 EUR on learning, then the Partner owes 1000 EUR to the company.) This policy is in force from the 23rd of November 2015. (Before that date there was only one relevant case: Adam Banko agreed to stay at least one more year after participating at the Practitioner Certification Training (Vienna), 13th - November 17th, 2015.) 
+- Learning budget over 2000 EUR / year is the domain of the Biz role as it becomes an investment for the company. If the Partner leaves the company before his/her cummulative learning budget balance is over the 2000 EUR / year average, the person need to pay it back proportionally to the company. (For example the Partner has worked 24 months for the company and has spent 6000 EUR on learning, then the Partner owes 1000 EUR to the company.) This policy is in force from the 23rd of November 2015. (Before that date there was only one relevant case: Adam Banko agreed to stay at least one more year after participating at the Practitioner Certification Training (Vienna), 13th - November 17th, 2015.)
 - In case a Partner does not want to use a larger learning budget, as the agreed one (just as described above), s/he has the option to access the budget against his or her preferred dividend stocks. (For example 10k HUF budget overuse would mean getting 10k less preferred dividend stocks in that given year.) In this case there is no employment commitment or repayment obligation.
 
 
@@ -773,3 +783,6 @@ No one can use the petty cash without permission from the Finance and Controllin
 
 ## Domain of Biz: Relocation cost coverage
 The company covers the flight cost of the relocating Partners.
+
+## Domains of Visibl Point of Contact: client relationship and technical resources
+Visibl developers have access to these domains.
