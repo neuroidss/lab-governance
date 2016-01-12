@@ -351,8 +351,6 @@ Accountability:
  - Following the client contract
  - Keeping contact and communicating with the client (first point of contact)
  - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
- - Arranging new office space
- - Decorating new office space
 
 Domain:
  - Client relations
@@ -367,9 +365,12 @@ Accountability:
  - Choosing new office space
  - Negotiating lease contract
  - Collaborating with potential partners (Colabs, GreenFox, iMind, DiNa...)
+ - Arranging new office space
+ - Decorating new office space
 
 Domain:
  - New office
+ - Office design
 
 ## CIRCLES
 
