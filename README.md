@@ -110,6 +110,7 @@ Accountabilities:
 - Reimbursing
 - Dealing with the bank
 - Securing our financial operations and tax payments
+- Developing and operating financial processes
 
 Domains:
 - Accountant
@@ -117,6 +118,7 @@ Domains:
 - Financial best practices
 - Tax payments and optimization
 - Petty cash
+- Financial processes
 
 
 ### Corporate lawyer - Nora Kiss
