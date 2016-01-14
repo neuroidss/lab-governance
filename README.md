@@ -422,11 +422,9 @@ Accountabilities:
 Domains:
 
 
-### HR Circle - Cassus
+### People and Partners Circle - Cassus
 
-Purpose:
-- Satisfied and happy partners
-- A-class people
+Purpose: Right people love to work together, efficiently
 
 Accountabilities:
 - Explaining ownership and Partner compensation system
