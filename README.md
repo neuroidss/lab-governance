@@ -51,10 +51,11 @@ Purpose:
 - Clarity on our commitments and available resources
 
 Accountabilities:
-- Tracking allocation information for sales
+- Tracking allocation information
 - Giving info to biz for return calibaration
 - Setting up and running time tracking system
 - Tracking role based time allocation and reporting on request
+- Making dedicated time clear
 
 Domains:
 - Company-wide time tracking system
