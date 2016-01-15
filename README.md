@@ -356,7 +356,7 @@ Domain:
  - Client relations
 
 
-### Visibl Point of Contact
+### Visibler - 
 Purpose:
 - Satisfied Visibl
 
@@ -372,14 +372,6 @@ Accountabilities:
 Domain:
 - Visibl client relationship
 - technical resources of the Visibl project, including code and 3rd party services
-
-### Visibl Developer
-
-Purpose: Product
-
-Accountabilities:
-- taking tasks from the backlog and implementing them
-- representing your own work to Visibl
 
 ## CIRCLES
 
@@ -783,6 +775,3 @@ No one can use the petty cash without permission from the Finance and Controllin
 
 ## Domain of Biz: Relocation cost coverage
 The company covers the flight cost of the relocating Partners.
-
-## Domains of Visibl Point of Contact: client relationship and technical resources
-Visibl developers have access to these domains.
