@@ -639,7 +639,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 ##### Policy: Calendar and meetings
 Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. Have your calendar email address at "Personal data + Contact sheet" sheet: https://goo.gl/NTI6Dl
 
-Give permission to co-workers to modify the events in your business calendar.
+Give permission to co-workers to modify your business calendar.
 
 You can book the meeting room to gain primary access by marking your meeting in the Meeting Room Calendar. https://calendar.google.com/calendar/embed?src=r5328r0nh8i3amjio867tia20o%40group.calendar.google.com&ctz=Europe/Budapest
 
