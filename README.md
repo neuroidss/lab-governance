@@ -424,7 +424,7 @@ Domains:
 
 ### People and Partners Circle - Cassus
 
-Purpose: Right people love to work together, efficiently
+Purpose: The right amount of right people, who love to work together, efficiently
 
 Accountabilities:
 - Explaining ownership and Partner compensation system
