@@ -363,7 +363,22 @@ Accountability:
 Domain:
  - Client relations
  
- 
+### New Office - Peták, Anikó, Juli
+
+Purpose:
+ - Perfect office: happy partners, location, work environment
+
+Accountability:
+ - Checking potential office spaces
+ - Choosing new office space
+ - Negotiating lease contract
+ - Collaborating with potential partners (Colabs, GreenFox, iMind, DiNa...)
+ - Arranging new office space
+ - Decorating new office space
+
+Domain:
+ - New office
+ - Office design
 
 ## CIRCLES
 
