@@ -673,6 +673,8 @@ Share your private calendar free-busy status publicly (or with everyone in the C
 
 In case you work part-time share your other work calendar's free-busy status and add it to the above contact sheet or mark the time periods as "busy" when you know in advance that you are going to be unavailable for the Lab in your Lab calendar.
 
+Give permission to co-workers to modify your business calendar.
+
 You can book the meeting room to gain primary access by marking your meeting in the Meeting Room Calendar. https://calendar.google.com/calendar/embed?src=r5328r0nh8i3amjio867tia20o%40group.calendar.google.com&ctz=Europe/Budapest
 
 
