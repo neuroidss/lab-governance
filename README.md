@@ -256,9 +256,11 @@ Accountability:
  - Matching the estimation with: cilent resources - Lab.Coop resources - timeframe
  - Rating client
  - Capturing client complaints and giving feedback to the team, when approached by the client with team isssues
+ - Overseeing all client leads
 
 Domain:
  - Sales CRM
+ - Choice of clients
 
 ### Biz analyst - all senior+
 Purpose:
