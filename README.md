@@ -153,6 +153,7 @@ Accountabilities:
 - Overseeing sure the company's operations and the Partners' work, if it is all legal and follows all the legal obligations
 - Acting, if any action would break the law or legal obligations
 - Checking the good standing of a company before signing a contract with it
+- Reminding clients and partners, if they would not follow any of the agreements / contract, moreover would not fulfill any of their legal duties
 
 Domains:
 - Choose corporate lawyer
