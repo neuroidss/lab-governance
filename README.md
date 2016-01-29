@@ -22,6 +22,7 @@ Purpose:
 Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
  - Keeping governance records accurate language-wise.
+ - Making guidelines what should be in the TLC tactical board
 
 ### Admin - Virag
 Purpose:
