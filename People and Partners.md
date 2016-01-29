@@ -34,6 +34,7 @@ Accountabilities:
 - Arranging recruitment process
 - Building freelancer pool
 - Matching freelancers and hires with potential clients through an advising process
+- Geting in touch and possibly collaborate with external headhunter, if there is a sold role, starting within 30 days, but we won't have the available resources.
 
 Domain:
 - Selection process
@@ -117,6 +118,7 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 - Managed in Asana.
 - When you start the selection process with someone in the Recruitment pipeline, copy the subtasks from `= template =` to the person
 - Mark the subtasks done and comment about your results and impressions on the person-card as the person progresses through the hiring process.
+
 
 ## Domain: Bootcamp (newcommer onboarding)
 
