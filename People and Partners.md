@@ -74,8 +74,12 @@ Accountabilities:
 - Arranging NVC practices
 - Helping newcommers learn it
 
-### Holocracy learning
-Purpose: Lab understands Holocracy.
+### Holacracy coach
+Purpose: Lab practices Holacracy.
+
+Accountabilities:
+- Training Facilitators, Secretaries, LeadLinks on the role
+- Monitoring the holacracy practice of Roles; offering feedback to enhance the quality of the practice
 
 ### English lesson organizer - David
 Purpose: Unspecified.
