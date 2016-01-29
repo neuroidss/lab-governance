@@ -114,10 +114,13 @@ Accountabilities:
 ##### Policy: Async governance process
 We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
 
-##### Policy: Hiring process
+##### Policy: Hiring and Firing Process
 - Managed in Asana.
+- Follow this prcess for hiring https://app.asana.com/0/33571529181921/52945793670150
 - When you start the selection process with someone in the Recruitment pipeline, copy the subtasks from `= template =` to the person
 - Mark the subtasks done and comment about your results and impressions on the person-card as the person progresses through the hiring process.
+- New hires must have a proposed role at the time of hiring
+- Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all  of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
 
 
 ## Domain: Bootcamp (newcommer onboarding)
