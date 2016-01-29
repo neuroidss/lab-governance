@@ -162,3 +162,6 @@ Assessments based on Level and Glue indicators.
 
 ##### Policy: Peer review frequency
 Peer reviews are every 3 months after the divident payments.
+
+##### Policy: Learning - FedExDay
+There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd month. (First occasion: 2015-07-03) Every kind of project is welcomed (does not have to be Lab related). The teams have to arrive with a proposal and deliver the full project at the end of the day.
