@@ -81,6 +81,13 @@ Accountabilities:
 - Training Facilitators, Secretaries, LeadLinks on the role
 - Monitoring the holacracy practice of Roles; offering feedback to enhance the quality of the practice
 
+### Shaman
+Purpose: Strong tribe
+
+Accountabilities:
+- Greeting new people into the community
+- Conducting rituals on significant events of the person in the community
+
 ### English lesson organizer - David
 Purpose: Unspecified.
 
