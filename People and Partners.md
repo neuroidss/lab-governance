@@ -67,6 +67,12 @@ Purpose: Professional and expert developers
 Accountabilities:
  - Facilitating weekly Dev learning workshop
 
+### Tool developer - Cassus, Laci (focus PeerReview tool)
+Purpose: Smooth and fast HR processes
+
+Accountabilities:
+- Aligning the peerReview tools with HR needs
+
 ### NVC learning
 Purpose: Lab practices NVC.
 
