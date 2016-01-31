@@ -25,3 +25,6 @@
  ![](https://raw.githubusercontent.com/Brickflow/lab-governance/master/images/cont_4.png) 
 
  2. Change the other files and when you commit choose the: `Commit directly to the cassus-hr-cards-log branch`. (If you only see master, start it over from step #1.)
+
+## For deeper understading of github and pull requests
+ [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
