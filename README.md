@@ -307,22 +307,6 @@ Accountability:
 
 Domain:
 
-### NextTV - Juli
-
-Purpose:
- - Satisfied clients
- - Earn 112.500 HUF + VAT / day
- - Upselling
-
-Accountability:
- - Following the client contract
-
-Domain:
- - Client relations
-
-
-
-
 ### GreenFox Academy Owner - Peták
 
 Purpose:
