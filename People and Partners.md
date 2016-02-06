@@ -1,4 +1,4 @@
-# Lab / People and Partners
+# People and Partners
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles

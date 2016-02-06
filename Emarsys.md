@@ -1,4 +1,4 @@
-# Lab / Emarsys
+# Emarsys
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles

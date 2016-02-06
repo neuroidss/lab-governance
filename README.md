@@ -446,7 +446,7 @@ Accountabilities:
 Domains:
 
 
-### People and Partners Circle - Cassus
+### People and Partners - Cassus
 
 Purpose: The right amount of right people, who love to work together, efficiently
 

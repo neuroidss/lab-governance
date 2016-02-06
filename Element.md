@@ -1,4 +1,4 @@
-# Lab / Element22
+# Element22
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
