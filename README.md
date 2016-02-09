@@ -48,6 +48,17 @@ Domains:
 - Ownership system
 - Social and environmental responsibility (CSR) strategy and mindset
 
+### Mr. Wolf - Peták
+Purpose:
+- Every risky situation have been solved
+- Everything can be broken, but everything can be fixed
+
+Accountabilities:
+ - Engaging on request, invited by any Partner, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon.
+
+Domains:
+- Action plan
+
 ### Resource clarity - Marci Banyo
 Purpose:
 - Clarity on our commitments and available resources
