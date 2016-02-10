@@ -560,7 +560,7 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 
 ##### Policy: Holidays / Learning Time / Home office / Sick leave notification and approval
-- Clearly distinguish between Holidays / Learning Time / Home office / Sick leave
+- Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
 - Mark everything in your calendar as soon as you're aware of it.
 - Holidays / Learning Time self-approval check-list to make your absence safe
  - I've notified all my circle-mates over Slack not later then 2x workdsays of its length, but minimum 5 workdays and there was no objection
