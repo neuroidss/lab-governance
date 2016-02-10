@@ -54,10 +54,10 @@ Purpose:
 - Everything can be broken, but everything can be fixed
 
 Accountabilities:
- - Engaging on request, invited by any Partner, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon.
+ - Engaging on request, invited by any Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon.
 
 Domains:
-- Action plan
+- Action plan, if invited by a Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon
 
 ### Resource clarity - Marci Banyo
 Purpose:
