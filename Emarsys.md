@@ -36,7 +36,7 @@ Accountabilities:
 Domains:
 - relations with EMS / PM / third parties
 
-### Dev - Laci, Tojas, Marci, Simon, Denes
+### Dev - Laci, Tojas, Marci, Simon, Denes, GólyaÁdám
 Accountabilities:
 - implementing software based on user stories which meets the DoD
 
