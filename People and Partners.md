@@ -95,6 +95,7 @@ Purpose: Strong tribe
 Accountabilities:
 - Greeting new people into the community
 - Conducting rituals on significant events of the person in the community
+- Conducting appreciation spaces
 
 ### English lesson organizer - David
 Purpose: Unspecified.
