@@ -96,6 +96,14 @@ Accountabilities:
 - Greeting new people into the community
 - Conducting rituals on significant events of the person in the community
 
+### Tribal RepLink
+Purpose: Tensions in the Tribal/Community/Personal space relevant to process in the circle are channeled out and resolved.
+
+Accountabilities:
+- Removing constraints within the broader Organization that limit the Tribe/Community/People
+- Seeking to understand Tensions conveyed by Tribe Members, and discerning those appropriate to process in the circle
+
+
 ### English lesson organizer - David
 Purpose: Unspecified.
 
