@@ -472,14 +472,15 @@ Domains:
 
 ### Marketing-PR - Dani
 
-####Purpose
+#### Purpose
 - Having continuous good reputation and reach
 - Inbound leads through good reputation
 - Strong brand (business, emloyer, professional branding)
 
-####Accountabilities
+#### Accountabilities
+- Blogging
 
-####Domains
+#### Domains
 - Company image, design, brand
 - PR
 - Marketing communication
