@@ -45,6 +45,7 @@ Domain:
 - Tojas (focus: Dev skills)
 - David (focus: Dev skills as backup)
 - Juli (focus: Design skills)
+- Petak (focus: Biz skills)
 
 Purpose: Hire the right people
 
