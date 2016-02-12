@@ -560,13 +560,21 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 
-##### Policy: Holidays / Home office / Sick leave notification and approval
-You have to clearly distinguish between holidays, home office and sick leave. Mark it in your calendar as soon as you're aware of it.
-- Holidays: Let your circles (on Slack) and your clients know your planned holiday not later then 2x workdsays of its length, but minimum 5 workdays.
-- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
-In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but  can be declined, if your plan is not safe to fail.
+##### Policy: Holidays / Learning Time / Home office / Sick leave notification and approval
+- Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
+- Mark everything in your calendar as soon as you're aware of it.
+- Holidays / Learning Time self-approval check-list to make your absence safe
+ - I've notified all my circle-mates over Slack not later then 2x workdsays of its length, but minimum 5 workdays and there was no objection
+ - There is no big/key release, milestone, contract, meeting, which require me
+ - There is no project start / end, which involves me
+ - I have notified resource clarity.
+ - If the leave is longer than 5 work days, Resource Clarity has acknowledged my leave.
+ - If needed, there is someone to take my Role or Task over, who I have exactly told what to do and what did I agree with the involved Roles or Client etc. with. If there is a substitute it's added to Github.
+ - The fellow partners' holidays and planned sick leaves are not in conflict with mine
+ - In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
 - Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
-- In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
+- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
+In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but can be declined, if your plan is not safe to fail.
 
 ##### Policy: Work hours
 We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
