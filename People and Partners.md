@@ -96,7 +96,7 @@ Accountabilities:
 - Greeting new people into the community
 - Conducting rituals on significant events of the person in the community
 
-### Tribal RepLink
+### Tribal RepLink - Erik
 Purpose: Tensions in the Tribal/Community/Personal space relevant to process in the circle are channeled out and resolved.
 
 Accountabilities:
