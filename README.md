@@ -507,8 +507,8 @@ Risk of bugs is managed in the planning phase preferably.
 When time is needed for bugfixing it is communicated towards clients transparently, and financially dealt with according to the contract.
 
 ##### Policy: Client relations
-Each project has a responsible.
-Sales hands over the project once the deal is signed.
+Each project has a single lead responsible for the relationship.
+The Sales role hands over the project once the deal is signed.
 
 ##### Policy: Client timeboxing
 If someone needs to work on a client job outside of the allocated timebox let the others (especially TLC lead link) know
