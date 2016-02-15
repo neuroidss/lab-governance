@@ -381,6 +381,14 @@ Domain:
  - New office
  - Office design
 
+### OpenSource Contributor - Dávid, Jeszi, Marci Bán, Ryan
+
+Purpose:
+- Lab.Coop's and Partner's great open source community reputation and professional appearance
+
+Accountabilities:
+- Writing great code
+- Explaining in a blog post
 
 ### Visibler - 
 Purpose:
