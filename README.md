@@ -196,7 +196,7 @@ Accountabilities:
 Domains:
 - Go-no-go of spin-offs through advising process
 
-### Strategy - Petak
+### Strategy - Petak, Tojas
 
 Purpose:
 - Clear strategy for the organization
