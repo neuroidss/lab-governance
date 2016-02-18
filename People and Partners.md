@@ -112,13 +112,6 @@ Accountabilities:
 
 - Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
 
-### German lesson organizer - Dani
-Purpose: Unspecified.
-
-Accountabilities:
-
-- Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
-
 ## Domain: All functions & activities within the Circle
 
 ##### Policy: Async governance process
