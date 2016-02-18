@@ -576,7 +576,7 @@ Each product development role must:
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
 
 ##### Policy: Asana for top level boards
-Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
+Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
 
 ##### Policy: Holidays / Learning Time / Home office / Sick leave notification and approval
 - Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
