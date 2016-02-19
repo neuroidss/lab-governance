@@ -515,8 +515,7 @@ If someone needs to work on a client job outside of the allocated timebox let th
 Dedicate weekly 4 hours for the tactical and governance meeting.
 
 ##### Policy: Project leading
-Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project → mini project management
-No other person (TLC lead link) should get into mini-projects
+Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project.
 
 ##### Policy: FTE definition
 FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave.
