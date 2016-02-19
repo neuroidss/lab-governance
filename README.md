@@ -507,8 +507,8 @@ Risk of bugs is managed in the planning phase preferably.
 When time is needed for bugfixing it is communicated towards clients transparently, and financially dealt with according to the contract.
 
 ##### Policy: Client relations
-Each project has a responsible.
-Sales hands over the project once the deal is signed.
+Each project has a single lead responsible for the relationship.
+The Sales role hands over the project once the deal is signed.
 
 ##### Policy: Client timeboxing
 If someone needs to work on a client job outside of the allocated timebox let the others (especially TLC lead link) know
@@ -538,7 +538,7 @@ FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours
   - Contract
   - Price, pricing
   - Project timeframe
-- The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail. Moreover, it is highly preferred not to change within 6 months, and change at the time of contract change.
+- The above listed roles can block the above listed changes up to 2 weeks before the legal minimum stated (usually 4 weeks), if the roles decide within their domains that the upcoming change is not safe to fail. Moreover, it is highly preferred not to change within 6 months, and to change at the time of contract change.
 - Minimum 6 months on a client project, except agreed otherwise with the client.
 - No more than 1 person should be replaced within one month, except agreed otherwise with the client.
 
