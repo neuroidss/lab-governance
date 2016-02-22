@@ -4,8 +4,8 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ## Roles
 ### Lead Link - Banyo Marci
 ### Rep Link - Laci	
-### Facilitator - Tojas
-### Secretary - Marci
+### Facilitator - Ádám
+### Secretary - Dénes
 
 ### Process Facilitator - Denes, Tojas
 Purpose: stable velocity
