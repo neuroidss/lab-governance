@@ -102,7 +102,7 @@ Every task have to be QA-d by its assigner in JIRA with special attention to edg
 
 ##### Policy: Meetings and schedule
 - Governance meeting / retro: every second week on Friday (14:00)
-- Standup: Daily, (9:30)
+- Standup: Daily, (10:00) via Standupbot at #emarsys-standup
 - Demo: Weekly, Thursday (15:00)
 
 ##### Policy: Demo
