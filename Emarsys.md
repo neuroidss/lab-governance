@@ -7,7 +7,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - Ádám
 ### Secretary - Dénes
 
-### Process Facilitator - Denes, Tojas
+### Process Facilitator - Dénes
 Purpose: stable velocity
 
 Accountabilities:
@@ -36,7 +36,7 @@ Accountabilities:
 Domains:
 - relations with EMS / PM / third parties
 
-### Dev - Laci, Tojas, Marci, Simon, Denes, GólyaÁdám
+### Dev - Ádám, Dénes, Laci, Simon
 Accountabilities:
 - implementing software based on user stories which meets the DoD
 
