@@ -592,7 +592,7 @@ Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle bo
  - I've notified all my circle-mates over Slack not later then 2x workdsays of its length, but minimum 5 workdays and there was no objection
  - There is no big/key release, milestone, contract, meeting, which require me
  - There is no project start / end, which involves me
- - I have notified resource clarity.
+ - I have notified the resource clarity role.
  - If the leave is longer than 5 work days, Resource Clarity has acknowledged my leave.
  - If needed, there is someone to take my Role or Task over, who I have exactly told what to do and what did I agree with the involved Roles or Client etc. with. If there is a substitute it's added to Github.
  - The fellow partners' holidays and planned sick leaves are not in conflict with mine
