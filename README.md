@@ -570,7 +570,7 @@ Each product development role must:
 
 ##### Policy: Async governance process (TLC)
 1. Create a pull request from your proposal. Put your tension in the description of the pull request.
-2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance.
+2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance. You can mark the requests on the GitHub by comments.
    - You can show your support with :+1: ( that is _colon_ + "+1" + _colon_ )
    - If you have a Clarifying Question and it block you from deciding if you have an Objection mark your question with :question: ( that is _colon_ + "question" + _colon_ ). This blocks the proposal until the proposer clarifies.
    - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
