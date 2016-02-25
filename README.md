@@ -564,8 +564,7 @@ Each product development role must:
 ## Domain: All functions & activities within the Circle
 
 ##### Policy: Agenda building and administration
- - Proposals are announced and written down in English in the beginning
- - Again at the end
+ - Proposals are announced and written down in English.
  - Put your proposal in words before the governance meeting in a Pull Request.
 
 ##### Policy: Async governance process (TLC)
