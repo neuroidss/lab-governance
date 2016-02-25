@@ -531,7 +531,7 @@ FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours
 ##### Policy: Human resource dedication
 - Partners can be dedicated to work on a Client projects
   - Each week (in average) works on the Client Project for the time agreed with the Client
-- For changing dedication, advising process is necessary with the following roles:
+- For changing dedication, permission is necessary from the following roles:
   - Biz
   - Sales
   - Recruiter
@@ -539,7 +539,7 @@ FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours
   - HR Circle LL
   - Resource Clarity
   
-- Advising process is necessary (with the above roles) in case of changes of:
+- Permission is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
   - Contract
