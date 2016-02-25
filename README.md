@@ -526,7 +526,7 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project.
 
 ##### Policy: FTE definition
-FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave.
+FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave.
 
 ##### Policy: Human resource dedication
 - Partners can be dedicated to work on a Client projects
