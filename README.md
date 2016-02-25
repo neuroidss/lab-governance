@@ -594,7 +594,7 @@ Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle bo
  - There is no project start / end, which involves me
  - I have notified the resource clarity role.
  - If the leave is longer than 5 work days, Resource Clarity has acknowledged my leave.
- - If needed, there is someone to take my Role or Task over, who I have exactly told what to do and what did I agree with the involved Roles or Client etc. with. If there is a substitute it's added to Github.
+ - If needed, there is someone to take my Role or Task over, who I have exactly told what to do and what did I agree with the involved Roles or Client etc. with. If there is a substitute it's added to Github to the header of the given role.
  - The fellow partners' holidays and planned sick leaves are not in conflict with mine
  - In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
 - Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
