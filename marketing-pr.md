@@ -94,7 +94,7 @@ Domains:
 ### Content Crafter - Zach
 
 ####Purpose
-- Having great content
+- Great company content
 
 ####Accountabilities
 - Writing and editing blogpost
