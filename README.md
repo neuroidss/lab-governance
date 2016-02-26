@@ -24,7 +24,7 @@ Accountabilities:
  - Keeping governance records accurate language-wise.
  - Making guidelines what should be in the TLC tactical board
 
-### Admin - Virag
+### Admin - Virag, István
 Purpose:
 - Run the company operations
 
@@ -105,7 +105,7 @@ Accountabilities:
 Domains:
 - Partnerships
 
-### Finance and Controlling - Virag
+### Finance and Controlling - Virag, István
 
 Purpose:
 - Optimal financial operation
@@ -220,7 +220,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supply - Virag
+### Office and Supply - Virag, István
 
 Purpose: Unspecified
 
@@ -407,7 +407,7 @@ Domain:
 - Visibl client relationship
 - technical resources of the Visibl project, including code and 3rd party services
 
-### Shiwaforce - 
+### Shiwaforce - Dani Nagy
 
 Purpose:
 - Satisfied Shiwaforce
@@ -427,7 +427,7 @@ Domain:
 - Client relations
 
 
-### FlyerBee - 
+### FlyerBee - Juli, Dani Deme, Dani Nagy, Peták
 
 Purpose:
 
@@ -436,7 +436,7 @@ Accountability:
 Domain:
 
 
-### Detecon TV - 
+### Detecon TV - Juli, Deme Dani
 
 Purpose:
 
