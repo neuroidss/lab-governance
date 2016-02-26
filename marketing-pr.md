@@ -19,9 +19,7 @@ Accountabilities:
 - Keeping the website up-to-date
 - Keeping social media channels up-to-date
 - Managing marketing channels, for example Adwords
-- Writing copy
-- Proofreading
-- Ghostwriting
+
 
 Domains:
 - Websites
@@ -95,6 +93,19 @@ Domains:
 - Lab's public visual apperance
 - Logo
 - Brand
+
+### Content Crafter - Zach
+
+####Purpose
+- Great company content
+
+####Accountabilities
+- Writing and editing blogpost
+- Writing copy
+- Proofreading
+- Ghostwriting
+
+####Domains
 
 ## Policies for All functions & activities within the Circle
 
