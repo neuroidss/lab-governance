@@ -427,6 +427,25 @@ Domain:
 - Client relations
 
 
+### FlyerBee - 
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+
+### Detecon TV - 
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+
+
 ## CIRCLES
 
 ### Emarsys - Banyo Marci
