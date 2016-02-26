@@ -87,7 +87,8 @@ Domains:
 ####Accountabilities
 - Building brand identity
 - Preparing and making visual creative
-- Branding Lab.Coop as an employer
+- Branding Lab.Coop as an employer and a partnership
+- Consulting with People&Partners Lead Link for a comprehensive employer and partner brand
 
 ####Domains
 - Lab's public visual apperance
