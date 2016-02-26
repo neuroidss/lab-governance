@@ -24,6 +24,8 @@ Accountabilities:
 - Ghostwriting
 
 Domains:
+- Websites
+- Social media channels
 
 ### PR - Feri
 
@@ -87,6 +89,7 @@ Domains:
 ####Accountabilities
 - Building brand identity
 - Preparing and making visual creative
+- Branding Lab.Coop as an employer
 
 ####Domains
 - Lab's public visual apperance
