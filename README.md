@@ -407,6 +407,26 @@ Domain:
 - Visibl client relationship
 - technical resources of the Visibl project, including code and 3rd party services
 
+### Shiwaforce - 
+
+Purpose:
+- Satisfied Shiwaforce
+- Earn money
+- Upselling
+- User acquisition
+
+
+Accountability:
+- Making channel copy tests
+- Following the client contract
+- keeping contact and communicating with the client (first point of contact)
+- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- notifying sales if upsell or conflict resolution is needed
+
+Domain:
+- Client relations
+
+
 ## CIRCLES
 
 ### Emarsys - Banyo Marci
