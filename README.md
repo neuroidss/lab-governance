@@ -243,7 +243,7 @@ Domains:
 Purpose: Unspecified
 
 Accountabilities:
-- Fixing tech stuff around office: TV, wifi, printer, updateing computers
+- Fixing tech stuff around office: TV, wifi, printer, updating computers
 - Managing tech infrastructure
 
 Domains:
@@ -611,14 +611,14 @@ Each product development role must:
 2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance.
    - You can show your support with :+1: ( that is _colon_ + "+1" + _colon_ )
    - If you have a Clarifying Question and it block you from deciding if you have an Objection mark your question with :question: ( that is _colon_ + "question" + _colon_ ). This blocks the proposal until the proposer clarifies.
-   - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
+   - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current form of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
    - If you had have questions and/or objections, and those got resolved, you need to mark the proposal good-to-go by :white_check_mark: (that is  _colon_ + "white_check_mark" + _colon_ ).
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
 4. Any core circle member can merge the pull request if there are no objections in the given period.
 
 ##### Policy: Long policies
-Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
+Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy is complex than pre-governance discussions are preferable.
 
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
