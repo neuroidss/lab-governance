@@ -591,7 +591,6 @@ FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours
 ##### Policy: Client communications, quality assurance, bug handling
 Each product development role must:
 - Define bug priorities with the client. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
-- Each 3+ FTE team has to have someone on call, available to the client within 15 min of notice during our team's normal office hours, and within 12 hours outside office hours.
 - More, than 50% of the team can only go on holidays + training + sickleave , if it is pre-approved by the client.
 - Follow the client contract
 - Keeping contact and communicating with the client (first point of contact)
