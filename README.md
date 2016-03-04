@@ -711,6 +711,7 @@ Prey application has to be installed on each and every company cell phones and l
 You can invoice the company for the below things (service, devices):
 - 1. services (taxi, flgiht ticket to London but to Mallorca, etc)
 - 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF).
+
 Restrictions:
 - If using the company card, you have to pre-validate with the finance and admin roles.
 - If requested, you have to be able to bring that device to the company.
