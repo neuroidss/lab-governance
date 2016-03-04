@@ -49,7 +49,7 @@ Domains:
 - Sponsoring decisions
 - Events to organize
 
-### Evangelist - Petak
+### Evangelist - Petak, Feri
 
 Purpose:
 - Personal representation of the brand and the organization
