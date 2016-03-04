@@ -1,4 +1,4 @@
-# Lab
+# Lab (TLC - Top Level Circle)
 Purpose:
 
 - Sharing resources & risks to build ventures, learn, and get money.
