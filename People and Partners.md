@@ -69,7 +69,7 @@ Purpose: Professional and expert developers
 Accountabilities:
  - Facilitating weekly Dev learning workshop
 
-### Tool developer - Cassus, Laci (focus PeerReview tool)
+### Tool developer - Cassus
 Purpose: Smooth and fast HR processes
 
 Accountabilities:
