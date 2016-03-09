@@ -390,7 +390,7 @@ Accountabilities:
 - Writing great code
 - Explaining in a blog post
 
-### Visibler - Erik, Viktor
+### Visibler - Erik, Viktor, Aze
 Purpose:
 - Satisfied Visibl
 
