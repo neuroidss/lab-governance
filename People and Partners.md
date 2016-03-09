@@ -55,14 +55,6 @@ Purpose: Community of happy and healthy Partners
 Accountabilities:
 - Organizing team events
 
-### Employee onboarding handbook editor - Latest hire
-Purpose: Useful employee handbook
-
-Accountabilities:
-- Update 'Welcome to the Lab (employee onboarding handbook)' https://docs.google.com/document/d/1-MZNLsxHXaOlziC_skAsBJCFVnMcms3URl7xqrsdiZ0/edit?usp=sharing
-
-Domain: Employee handbook
-
 ### Engineering learning - Tojas
 Purpose: Professional and expert developers
 
