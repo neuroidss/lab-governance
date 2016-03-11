@@ -510,6 +510,7 @@ Accountabilities:
 - Organizing team retreats
 - Facilitating team learning
 - Coaching people out of underperformance
+- Coaching partners in GTD on request
 
 Domains:
 - Employee/Partner compensation
