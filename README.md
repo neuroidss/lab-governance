@@ -346,6 +346,8 @@ Accountabilities:
 - Teaching at GreenFox Academy
 - Participating in sales events
 - Developing GreenFox Academy education design
+- Tracking time spent per project
+  in the spreadsheets linked in the asana project cards
 
 Domains:
 - What and how to teach (syllabus)
