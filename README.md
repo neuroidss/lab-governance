@@ -1,17 +1,6 @@
 # Lab (TLC - Top Level Circle)
-Purpose:
 
-- Sharing resources & risks to build ventures, learn, and get money.
-- Sharing risk & resources between entrepreneurs to learn & improve through building ventures.
-- Doing what you are good at while learning from those who are better than you.
-- A community of A class partners to learn from and build tech ventures with while having fun in an innovative organization.
-- A community that lets partners experiment, learn & build by sharing risks and resources.
-- Learning new technologies from professional people.
-- An entrepreneur community where you share risk, earn money, learn, build ventures & have fun.
-- A fun way how partners are sharing risks and working towards building ventures.
-- An entrepreneurial community of A class partners building tech ventures and providing each other a stable, motivating & challenging work environment.
-- Risk & resource community of entrepreneurs aiming to build scalable tech ventures, learn, and have fun in order to create financial wealth together.
-- A constantly evolving community of constantly evolving partners.
+Purpose: Building Ventures. Together.
 
 
 ## ROLES
