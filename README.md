@@ -58,6 +58,7 @@ Accountabilities:
 - Setting up and running time tracking system
 - Tracking role based time allocation and reporting on request
 - Making dedicated time clear
+- Planning company-wide and national holidays and sending calendar invites to everyone
 
 Domains:
 - Company-wide time tracking system
