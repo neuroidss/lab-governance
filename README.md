@@ -381,14 +381,16 @@ Domain:
  - New office
  - Office design
 
-### OpenSource Contributor - Dávid, Jeszi, Marci Bán, Ryan
+### Free Floating Developer - Dávid, Jeszi, Marci Bán, Ryan
 
 Purpose:
-- Lab.Coop's and Partner's great open source community reputation and professional appearance
+- Well spent developer time
 
 Accountabilities:
-- Writing great code
-- Explaining in a blog post
+- Contributing to the open source eco-system
+- Writing blogposts
+- Learning things that could be useful for further projects
+- Pitching their free time to LLs
 
 ### Visibler - Erik, Viktor, Aze
 Purpose:
