@@ -114,13 +114,6 @@ Purpose: Smooth and fast HR processes
 Accountabilities:
 - Aligning the peerReview tools with HR needs
 
-### NVC learning
-Purpose: Lab practices NVC.
-
-Accountabilities:
-- Arranging NVC practices
-- Helping newcommers learn it
-
 ### Holacracy coach
 Purpose: Lab practices Holacracy.
 
