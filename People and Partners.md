@@ -119,6 +119,7 @@ Purpose: Lab practices Holacracy.
 Accountabilities:
 - Training Facilitators, Secretaries, LeadLinks on the role
 - Monitoring the holacracy practice of Roles; offering feedback to enhance the quality of the practice
+- Providing Holacarcy articles and resources on request from Marketing
 
 ### Shaman - Aniko
 Purpose: Strong tribe
