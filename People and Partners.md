@@ -192,7 +192,7 @@ A Partner will be granted the Badge when at least two people who already hold th
 If no mechanism is specified along with a Badge definition for how a Partner loses that Badge, then, as a default mechanism, the following will apply:
 The Badge grant will automatically expire 6 months after grant, unless renewed via the same mechanism required for the initial grant. Further, the Badge grant may be revoked sooner by any two people who already hold the Badge asking for a re-qualification, and the Partner failing to promptly re-qualify for the Badge using whatever mechanism is required for the initial grant of the Badge.
 
-If a Partner from their own personal preference chooses not to spend significant time in some area of work then that Partner looses the badges relating to that area of work.
+If a Partner from their own personal preference chooses not to spend significant time in some area of work then that Partner looses the badges relating to that area of work. If a Partner does not spend significant time in a Role to align with Organizational priorities and not by personal preference, the partner does not loose badges.
 
 ##### Policy: Badge Valuation
 The "Badge Valuation Database" is a listing of specific sets of Badges, with each set mapped to a specific compensation tier using the tiers defined by Compensation Architect. The full-time compensation level for a Partner may only be set at the highest tier that matches a set of Badges the Partner holds (or the pro-rated equivalent for a part-time commitment).
@@ -206,7 +206,7 @@ At a Badge Valuation Meeting, the Partner who scheduled the meeting may propose 
 Through the process defined above, the valuation tied to any Badge set may be lowered, or more Badges may be added to an existing set. In these cases, any Partner whose compensation level was tied to that Badge set may keep their compensation level calculated using the old Badge set and associated valuation for a period of 3 months following the change; at that point, compensation levels due to legacy Badge sets or valuations will automatically expire.
 
 ##### Policy: Transitioning to Badge-Based Compensation
-Any role extending offers for new Partners to join the Organization may give those new Partners an initial compensation level based on a set of Badges the role-filler assumes the new Partner is likely to earn (additional governance may define or limit this authority further). Partner's compensation may not drop below this initial tier placement for a period of 12 months after joining the Organization (except due to a shift to a part-time relationship or removal from the Organization).
+Any role extending offers for new Partners to join the Organization may give those new Partners an initial compensation level based on a set of Badges the role-filler assumes the new Partner is likely to earn (additional governance may define or limit this authority further). Partner's compensation may not drop below this initial tier placement for a period of 3 months after joining the Organization (except due to a shift to a part-time relationship or removal from the Organization).
 
 Partners who joined the company before the roll-out of the Badge-based Compensation System may opt to keep their compensation level calculated under the old system until a badge matching the previous category and seniority level is provided for them.
 
