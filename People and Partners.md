@@ -49,6 +49,45 @@ Domain:
 
 Purpose: Hire the right people
 
+### Badge Librarian
+Purpose: Badges that represent clear, clean, and useful distinctions for the organization
+
+Accountable For:
+- Maintaining and publishing the organization’s official Badge Library
+- Reviewing and assessing proposed additions or changes to the Badge Library, when
+complete Badge proposals are submitted by any Role or Partner in the Organization
+- Assisting other Roles and Partners in crafting Badge proposals, upon their request and upon confirmation that a Role with the power to assign Partners to Roles believes the
+potential Badge represents a significant consideration in the choice of assignment
+
+### Badge Bootstrapper
+Purpose: Highly discerning and conservative Badge grants to bootstrap just enough people into new Badges
+
+Accountable For:
+- Assessing Partners for Badges upon their self-nomination, when there aren't yet enough people who actually hold the Badge and work with the Partner who can reasonably assess
+
+### Compensation Architect
+Purpose: The right compensation system for the Organization and its Partners
+
+Accountable For:
+- Designing, implementing, and evolving the Organization’s overall systems & related processes for determining Partner compensation
+ Defining and publishing the organization's possible compensation tiers, along with general criteria or sample profiles to guide the tagging of a Badge set to an appropriate tier placement
+
+### Compensation Guardian
+Purpose: Fair relative compensation levels for Badge sets, aligned with @Compensation_Architect's guidance
+
+Accountable For:
+- Assessing Badge valuation proposals against other valuations already in the Badge Valuation Database and against the general guidance published by @Compensation_Architect
+
+### Compensation Administrator
+Purpose: Accurate recordkeeping of Badges held per Partner and resulting compensation levels
+
+Accountable For:
+- Defining and publishing an authoritative source of which Partners hold which Badges
+- Publishing and maintaining the official mapping of Badge sets to compensation tiers (the "Badge Valuation Database")
+- Identifying and publishing a target compensation tier for each Partner based on his/her most valuable Badge set listed in the Badge Valuation Database
+- Reviewing evidence submitted by any Partner that a Partner has earned or lost a Badge, given the process or mechanism defined in the Badge, and updating Badge and compensation records if clear and compelling evidence indicates a Badge has been earned or lost
+- Tracking time-based and event-based triggers that expire Badges, and, upon an expiration, notifying affected parties and updating relevant records
+
 ### Adventures - Banyo, BanMarci, Aniko, Cassus, Petak
 Purpose: Community of happy and healthy Partners
 
@@ -133,6 +172,36 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 
 ##### Policy: Employee money
 Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1voxCpH29Lr8OlSuG7JL51BQSAwQPfVzkdpkM7aR9GbU/edit#gid=118044564
+
+##### Policy: Defining Badges
+The Organization's official “Badge Library” lists “Badges” that are available for Partners to earn in recognition of their skills, talents, capacities, and achievements. Each Badge definition must include a description of the skill, talent, capacity, or achievement that the Badge represents, and may optionally include a process or another mechanism for Partners to gain the Badge and/or lose the Badge.
+
+No one may add, modify, or remove Badges from the Badge Library unless each @Badge_Librarian first confirms he/she sees no Objections to the change, or fails to respond with an Objection within a week of a proposed change. In any case however, no Badge in the Badge Library may be modified or removed while another process or active decision relies on the Badge (although it may be marked as "inactive" and made unavailable for new use, and an updated version may be added for new use instead).
+
+##### Policy: Earning & Losing Badges
+If no mechanism is specified along with a Badge definition for how a Partner gains that Badge, then, as a default mechanism, the following will apply:
+A Partner will be granted the Badge when at least two people who already hold the Badge assert that they have clearly and repeatedly seen the candidate demonstrate the skill or capacity described by the Badge. However, if there aren't enough people who actually hold the Badge and have worked with the candidate to assess that, then the @Badge_Bootstrapper's may instead grant the badge using any evidence they see fit, as long as a majority of the @Badge_Bootstrapper's advocate for the grant and none actively advocate against it. If the candidate for this grant is also a @Badge_Bootstrapper, he/she shall not count for the purpose of assessing his/heir own Badge nomination.
+
+If no mechanism is specified along with a Badge definition for how a Partner loses that Badge, then, as a default mechanism, the following will apply:
+The Badge grant will automatically expire 6 months after grant, unless renewed via the same mechanism required for the initial grant. Further, the Badge grant may be revoked sooner by any two people who already hold the Badge asking for a re-qualification, and the Partner failing to promptly re-qualify for the Badge using whatever mechanism is required for the initial grant of the Badge.
+
+If a Partner from their own personal preference chooses not to spend significant time in some area of work then that Partner looses the badges relating to that area of work. If a Partner does not spend significant time in a Role to align with Organizational priorities and not by personal preference, the partner does not loose badges.
+
+##### Policy: Badge Valuation
+The "Badge Valuation Database" is a listing of specific sets of Badges, with each set mapped to a specific compensation tier using the tiers defined by Compensation Architect. The full-time compensation level for a Partner may only be set at the highest tier that matches a set of Badges the Partner holds (or the pro-rated equivalent for a part-time commitment).
+
+Compensation changes for Partners can only take effect in quarterly batches, after dividend pay.
+
+The Badge Valuation Database may only be modified via a Proposal that results in no Objections from all @Compensation_Guardian's, using the Integrative Decision-Making Process. This Proposal may be made asynchronously to just the @Compensation_Guardian's, using the Constitution's rules for asynchronous processing, or via a special "Badge Valuation Meeting" scheduled by any Partner. All @Compensation_Guardian's must be invited to this meeting, as well as this Circle's elected Facilitator, and it may only be scheduled for 30 minutes. A majority of the @Compensation_Guardian's must attend for the meeting to proceed, and even with a majority it may not proceed if any @Compensation_Guardian requests a reschedule.
+
+At a Badge Valuation Meeting, the Partner who scheduled the meeting may propose one or more new or modified badge set valuations for the Badge Valuation Database, and the facilitator of the meeting will process the Proposal via the Integrative Decision-Making Process, but with only the @Compensation_Guardian's participating in the Objection Round (if the elected Facilitator chooses not to attend, the Constitution's rules for selecting a surrogate apply). Any Proposal that fails to pass within the time allotted for the meeting is automatically dropped. No Partner may schedule a Badge Valuation Meeting within one month of the last such meeting that Partner scheduled.
+
+Through the process defined above, the valuation tied to any Badge set may be lowered, or more Badges may be added to an existing set. In these cases, any Partner whose compensation level was tied to that Badge set may keep their compensation level calculated using the old Badge set and associated valuation for a period of 3 months following the change; at that point, compensation levels due to legacy Badge sets or valuations will automatically expire.
+
+##### Policy: Transitioning to Badge-Based Compensation
+Any role extending offers for new Partners to join the Organization may give those new Partners an initial compensation level based on a set of Badges the role-filler assumes the new Partner is likely to earn (additional governance may define or limit this authority further). Partner's compensation may not drop below this initial tier placement for a period of 3 months after joining the Organization (except due to a shift to a part-time relationship or removal from the Organization).
+
+Partners who joined the company before the roll-out of the Badge-based Compensation System may opt to keep their compensation level calculated under the old system until a badge matching the previous category and seniority level is provided for them.
 
 ##### Policy: Part-time
 - If you are an `x%` part-time employee in the Lab, you get `x%` pay and `x%` ownership.
