@@ -39,6 +39,7 @@ Accountabilities:
 Domain:
 - Selection process
 - Hiring decision
+- Recruitment Pipeline in Asana
 
 ### Interviewer
 - Cassus (focus: Cultural fit)
@@ -158,8 +159,11 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 - Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all  of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
 
 
-## Domain: Bootcamp (newcommer onboarding)
+## Domain: Recruitment Pipeline in Asana
+### Policy: Recruitment Pipeline in Asana
+Anyone can impact it.
 
+## Domain: Bootcamp (newcommer onboarding)
 ### Policy: Bootcamp single source of truth
 - Bootcamp process template: https://app.asana.com/0/45872219775035/list
 
@@ -229,3 +233,4 @@ Peer reviews are every 3 months after the divident payments.
 
 ##### Policy: Learning - FedExDay
 There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd month. (First occasion: 2015-07-03) Every kind of project is welcomed (does not have to be Lab related). The teams have to arrive with a proposal and deliver the full project at the end of the day.
+
