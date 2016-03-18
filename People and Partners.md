@@ -32,14 +32,20 @@ Accountabilities:
 - Handling HR leads through the selection process
 - Taking advice on hiring decisions
 - Arranging recruitment process
-- Building freelancer pool
-- Matching freelancers and hires with potential clients through an advising process
+- Matching hires with potential clients through an advising process
 - Geting in touch and possibly collaborate with external headhunter, if there is a sold role, starting within 30 days, but we won't have the available resources.
 
 Domain:
 - Selection process
 - Hiring decision
 - Recruitment Pipeline in Asana
+
+### Freelancer Recruiter - Cassus
+Purpose: Enough freelancers to contract when we need them
+
+Accountabilities:
+- Building freelancer pool
+- Matching freelancers with potential clients
 
 ### Interviewer
 - Cassus (focus: Cultural fit)
