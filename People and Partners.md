@@ -94,11 +94,12 @@ Purpose: Community of happy and healthy Partners
 Accountabilities:
 - Organizing team events
 
-### Engineering learning - Tojas
+### Dev mentor - Tojas
 Purpose: Professional and expert developers
 
 Accountabilities:
  - Facilitating weekly Dev learning workshop
+ - Providing guidance on How and What to learn on request from @FreeFloatingDev
 
 ### Tool developer - Cassus
 Purpose: Smooth and fast HR processes
