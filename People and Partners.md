@@ -222,9 +222,10 @@ Partners who joined the company before the roll-out of the Badge-based Compensat
 ##### Policy: Part-time ratio retroactive adjustments
 If your commitment was `x%` part-time but you spent significantly more `y%` of your efforts on the Lab you can retroactively adjust your part-time ratio.
 
-- With the explicit support of the two people you most worked with.
-- You may only change your part-time ratio for periods after last divident pay.
-- Update your part-time percent value in the slary sheet.
+You may only change your part-time ratio
+- with the explicit support of the two people you most worked with,
+- only after you signed a new employment contract on `y%` part-time,
+- for periods after last divident pay.
 
 ##### Policy: Salary process
 Assessments based on Level and Glue indicators.
