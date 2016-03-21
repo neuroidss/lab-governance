@@ -618,7 +618,7 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
 
 ##### Policy: Vacation and Learning Time Limit
-If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of the whatever client contracts apply to you, using the FTE definition given below.
+If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of whatever client contracts apply to you, using the FTE definition given below.
 
 ##### Policy: Holidays / Learning Time / Home office / Sick leave notification and approval
 - Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
