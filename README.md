@@ -676,6 +676,7 @@ Above ones are NOT available for part time or during probation time.
  - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to virag.kurti@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
  - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
+ - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
 
 Devices
 - Cell phone up to 400 EUR + VAT. iPhone (as it is more expensive) can only be paid, if the person is an iOS developer or if it is a must have for his or her work for another reason. If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
