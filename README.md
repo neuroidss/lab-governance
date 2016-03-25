@@ -468,19 +468,6 @@ Domains:
 - working methods
 - Architecture
 
-### Vénusz - DemeDani, Juli
-Purpose:
-- Following quotation
-- Satisfied Vénusz and Kiro
-
-Accountabilities:
-- Keeping contact and communicating with the client (first point of contact)
-- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
-- Notifying sales if upsell or conflict resolution is needed
-- Pushing Kiro to negotiate contract and fulfill their legal requirements
-
-Domains:
-
 
 ### Element22 - David Judik
 Purpose:
