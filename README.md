@@ -341,20 +341,6 @@ Accountabilities:
 
 Domains:
 - What and how to teach (syllabus)
-
-### MOME - Anikó, Tojás
-
-Purpose:
- - Great education
- - Making money
-
-Accountability:
- - Following the client contract
- - Keeping contact and communicating with the client (first point of contact)
- - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
-
-Domain:
- - Client relations
  
 ### New Office - Peták, Anikó, Juli
 
