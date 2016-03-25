@@ -425,6 +425,18 @@ Accountability:
 Domain:
 
 
+### Streamit dev
+
+Purpose: 
+- fullfil client contract expecations
+
+Accountability: 
+- Following the client contract
+- Keeping contact and communicating with the client (first point of contact)
+- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- Notifying sales if upsell or conflict resolution is needed
+
+Domain:
 
 ## CIRCLES
 
