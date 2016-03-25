@@ -235,6 +235,7 @@ Purpose: Unspecified
 Accountabilities:
 - Fixing tech stuff around office: TV, wifi, printer, updating computers
 - Managing tech infrastructure
+- Removing the accounts of people who leave the company
 
 Domains:
 - Choosing the best fit devices and service for each usecase
