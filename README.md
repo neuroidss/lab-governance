@@ -426,7 +426,7 @@ Accountability:
 Domain:
 
 
-### Streamit dev
+### Stream.it dev - Aze, Ryan, Marci Bán
 
 Purpose: 
 - fullfil client contract expecations
