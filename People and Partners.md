@@ -1,6 +1,12 @@
 # People and Partners
 Purpose, Domains, Accountabilities defined by parent circle.
 
+## Strategy
+- Improve the quality of how we work together even over growth
+- Recruit professional people we can learn from even over fast growth
+- Sufficient freelancer pool even over having new partners
+- Have impact in one area quickly even over having small improvements across the board.
+
 ## Roles
 
 ### Lead Link - Cassus
