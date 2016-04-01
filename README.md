@@ -342,7 +342,7 @@ Accountabilities:
 
 Domains:
 - What and how to teach (syllabus)
- 
+
 ### New Office - Peták, Anikó, Juli
 
 Purpose:
@@ -428,10 +428,10 @@ Domain:
 
 ### Stream.it dev - Aze, Ryan, Marci Bán
 
-Purpose: 
+Purpose:
 - fullfil client contract expecations
 
-Accountability: 
+Accountability:
 - Following the client contract
 - Keeping contact and communicating with the client (first point of contact)
 - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
@@ -546,7 +546,7 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project.
 
 ##### Policy: FTE definition
-FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave.
+FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month.
 
 ##### Policy: Human resource dedication
 - Partners can be dedicated to work on a Client projects
@@ -558,7 +558,7 @@ FTE, full time employee is a measurement unit, it could be one or more person an
   - Legal representative
   - HR Circle LL
   - Resource Clarity
-  
+
 - Permission is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
