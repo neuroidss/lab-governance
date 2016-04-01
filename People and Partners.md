@@ -33,18 +33,15 @@ Accountabilities:
 Purpose: unspecified
 
 Accountabilities:
-- Proposing changes to the Operating Agreement and evolving the Member Grant Agreement to capture needed partner level agreements for a healthy organization
+- Evolving the Member Grant Agreement to capture needed partner level agreements for a healthy organization
+- Notifying all Partners of any new or amended Partner expectations or constraints, including any enacted by a change to the attached Constitution
+- Onboarding new Partners to their expectations and priviledges
  
 Domains:
 - Member Grant Agreements
 
-### Partner Communicator 
-Purpose: unspecified
-
-Accountabilities:
-- Communicating new policies and policy changes to Partners affected by such policies
-- Notifying all Partners of any new or amended Partner expectations or constraints, including any enacted by a change to the Company's Operating Agreement or attached Constitution
-
+Note:
+ Member Grant Agreements are written agreements signed by handshake between individual Partners and the Company. They are intended to capture expectations towards Partners (not towards Roles) and benefits, vacation time, learning time etc.
 
 ### Recruiter - Cassus
 Purpose: Hire great people
