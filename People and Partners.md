@@ -29,6 +29,23 @@ Purpose: Introduce great people to Lab.Coop
 Accountabilities:
 - Attracting partner candidates
 
+### Partner Agreement Steward
+Purpose: unspecified
+
+Accountabilities:
+- Proposing changes to the Operating Agreement and evolving the Member Grant Agreement to capture needed partner level agreements for a healthy organization
+ 
+Domains:
+- Member Grant Agreements
+
+### Partner Communicator 
+Purpose: unspecified
+
+Accountabilities:
+- Communicating new policies and policy changes to Partners affected by such policies
+- Notifying all Partners of any new or amended Partner expectations or constraints, including any enacted by a change to the Company's Operating Agreement or attached Constitution
+
+
 ### Recruiter - Cassus
 Purpose: Hire great people
 
