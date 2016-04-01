@@ -650,7 +650,7 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - If a Partner leaves the company and his/her cummulative learning budget balance is over the 170 EUR / month average, the Partner need to pay back the budget overuse proportionally to the company. For example the Partner has worked 20 months for the company and has spent 4400 EUR on learning, then the Partner owes 1000 EUR to the company. (20*170=3400 vs. 4400)
 - In case a Partner does not want to use a larger learning budget, as the agreed one (just as described above), s/he has the option to access the budget against his or her preferred dividend stocks. (For example 10k HUF budget overuse would mean getting 10k less preferred dividend stocks in that given quarter or year.) In this case there is no employment commitment or repayment obligation.
 - A team training, workshop, course etc.'s cost needs to be administrated in splits between the participants. For example: English lesson.
-- Secreatry Interpretation: Exam/certification fees can also be financed from the learning budget.
+- Secretary Interpretation: Exam/certification fees can also be financed from the learning budget.
 
 ##### Policy: Employee Benefits (for everyone and all circles in the Lab)
 
