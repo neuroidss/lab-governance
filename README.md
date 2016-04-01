@@ -13,7 +13,7 @@ Accountabilities:
  - Keeping governance records accurate language-wise.
  - Making guidelines what should be in the TLC tactical board
 
-### Admin - Virag, István
+### Admin - István
 Purpose:
 - Run the company operations
 
@@ -95,7 +95,7 @@ Accountabilities:
 Domains:
 - Partnerships
 
-### Finance and Controlling - Virag, István
+### Finance and Controlling - István
 
 Purpose:
 - Optimal financial operation
@@ -210,7 +210,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supply - Virag, István
+### Office and Supply -Jeszi, István
 
 Purpose: Unspecified
 
@@ -327,7 +327,7 @@ Domains:
 - Hiring and firing the Lead Link of GreenFox Academy in consensus with the CEO of Digital Natives as co-owner
 - Investment to GreenFox Academy
 
-### GreenFox Academy Teacher - Tojás, Anikó, Viktor
+### GreenFox Academy Teacher - Tojás, Anikó, Aze
 
 Purpose:
 - Deliver great education
@@ -343,7 +343,7 @@ Accountabilities:
 Domains:
 - What and how to teach (syllabus)
  
-### New Office - Peták, Anikó, Juli
+### New Office - Peták, Anikó
 
 Purpose:
  - Perfect office: happy partners, location, work environment
@@ -360,7 +360,7 @@ Domain:
  - New office
  - Office design
 
-### Free Floating Developer - Dávid, Jeszi, Marci Bán, Ryan
+### Free Floating Developer - Dávid, Jeszi, Bán Marci
 
 Purpose:
 - Well spent developer time
@@ -371,7 +371,7 @@ Accountabilities:
 - Learning things that could be useful for further projects
 - Pitching their free time to LLs
 
-### Visibler - Erik, Viktor, Aze
+### Visibler - Erik, Viktor
 Purpose:
 - Satisfied Visibl
 
@@ -408,7 +408,7 @@ Domain:
 - Client relations
 
 
-### FlyerBee - Juli, Dani Deme, Dani Nagy, Peták
+### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták
 
 Purpose:
 
@@ -417,7 +417,7 @@ Accountability:
 Domain:
 
 
-### Detecon TV - Juli, Deme Dani
+### Detecon TV - Juli
 
 Purpose:
 
