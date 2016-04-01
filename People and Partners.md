@@ -62,7 +62,7 @@ Accountabilities:
 
 Purpose: Hire the right people
 
-### Badge Librarian
+### Badge Librarian - Cassus
 Purpose: Badges that represent clear, clean, and useful distinctions for the organization
 
 Accountable For:
@@ -72,26 +72,26 @@ complete Badge proposals are submitted by any Role or Partner in the Organizatio
 - Assisting other Roles and Partners in crafting Badge proposals, upon their request and upon confirmation that a Role with the power to assign Partners to Roles believes the
 potential Badge represents a significant consideration in the choice of assignment
 
-### Badge Bootstrapper
+### Badge Bootstrapper - Cassus
 Purpose: Highly discerning and conservative Badge grants to bootstrap just enough people into new Badges
 
 Accountable For:
 - Assessing Partners for Badges upon their self-nomination, when there aren't yet enough people who actually hold the Badge and work with the Partner who can reasonably assess
 
-### Compensation Architect
+### Compensation Architect - Cassus
 Purpose: The right compensation system for the Organization and its Partners
 
 Accountable For:
 - Designing, implementing, and evolving the Organization’s overall systems & related processes for determining Partner compensation
  Defining and publishing the organization's possible compensation tiers, along with general criteria or sample profiles to guide the tagging of a Badge set to an appropriate tier placement
 
-### Compensation Guardian
+### Compensation Guardian - Cassus
 Purpose: Fair relative compensation levels for Badge sets, aligned with @Compensation_Architect's guidance
 
 Accountable For:
 - Assessing Badge valuation proposals against other valuations already in the Badge Valuation Database and against the general guidance published by @Compensation_Architect
 
-### Compensation Administrator
+### Compensation Administrator - Cassus
 Purpose: Accurate recordkeeping of Badges held per Partner and resulting compensation levels
 
 Accountable For:
@@ -120,7 +120,7 @@ Purpose: Smooth and fast HR processes
 Accountabilities:
 - Aligning the peerReview tools with HR needs
 
-### Holacracy coach
+### Holacracy coach - Cassus
 Purpose: Lab practices Holacracy.
 
 Accountabilities:
