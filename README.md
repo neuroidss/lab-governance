@@ -740,7 +740,8 @@ Give permission to co-workers to modify your business calendar.
 
 You can book the meeting room to gain primary access by marking your meeting in the Meeting Room Calendar. https://calendar.google.com/calendar/embed?src=r5328r0nh8i3amjio867tia20o%40group.calendar.google.com&ctz=Europe/Budapest
 
-
+##### Policy: Making Hard-to-Change Decisions
+In any role, before you implement a decision that could have a significant impact on the organization and where it will be significantly difficult or expensive to undo that impact, you must first share your intent to do so with any partners who you believe could have useful information to inform the decision, or who fill roles likely to be significantly impacted by it. You must then delay your decision for a reasonable timeframe to allow those partners to consider the potential decision, respond to any clarifying questions, and consider any reactions shared.
 
 ##### Policy: Personal data + Contact sheet
 Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
