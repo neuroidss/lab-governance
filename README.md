@@ -327,7 +327,7 @@ Domains:
 - Hiring and firing the Lead Link of GreenFox Academy in consensus with the CEO of Digital Natives as co-owner
 - Investment to GreenFox Academy
 
-### GreenFox Academy Teacher - Tojás, Anikó, Aze
+### GreenFox Academy Teacher - Tojás, Anikó, Aze, Feri, Banyó
 
 Purpose:
 - Deliver great education
