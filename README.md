@@ -34,7 +34,7 @@ Domains:
 Purpose: todo
 
 Domains:
-- Ownership system
+- Compensation system approval
 - Social and environmental responsibility (CSR) strategy and mindset
 
 ### Mr. Wolf - Peták
@@ -123,6 +123,7 @@ Domains:
 - Tax payments and optimization
 - Petty cash
 - Financial and controlling processes
+- Compensation system approval
 
 
 ### Corporate lawyer - Nora Kiss
@@ -502,8 +503,9 @@ Accountabilities:
 - Coaching partners in GTD on request
 
 Domains:
-- Employee/Partner compensation
-- Salary system and peer-reviews
+- Partner compensation system (including salary; share distribution; office and service benefits: food, health insurance, gym etc.)
+Restriction: getting approval from the Finance and Guardian of the Galaxy roles
+- Peer-reviews
 - Bootcamp
 - Probation time
 - Use of recruiter
