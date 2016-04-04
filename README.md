@@ -850,6 +850,20 @@ No one can use the petty cash without permission from the Finance and Controllin
 ##### Policy: Office guests
 - Share the door code with your guests when you invite them to help us focus and reduce office noise.
 
+##### Policy: Partner Naming Convention
+Name = prefix + key role(s) / expertise
+Prefixes
+- Partner: everybody
+- Founding: shareholders on day one
+- Managing: LL / CEO
+Examples:
+- Partner, Org Dev & Holacracy Coach
+- Partner, iOS Developer
+- Partner, Code & Community
+- Partner, Web & iOS Developer
+- Founding Partner, Mentor & Code
+- Founding & Managing Partner, BizDev & Strategy
+
 ## Domain of Office and Supply: Office company food
  - tea
  - coffee
