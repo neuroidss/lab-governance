@@ -542,6 +542,21 @@ The Sales role hands over the project once the deal is signed.
 If someone needs to work on a client job outside of the allocated timebox let the others (especially TLC lead link) know
 Dedicate weekly 4 hours for the tactical and governance meeting.
 
+##### Policy: Client facing circle template
+Purpose:
+- Satisfied client
+- Money / day
+
+Accountability
+- Following client contract
+- Keeping contact and communicating with the client (first point of contact)
+- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- Notifying sales if upsell or conflict resolution is needed
+
+
+Price per day hour per person
+Contract
+
 ##### Policy: Project leading
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project.
 
