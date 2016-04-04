@@ -511,6 +511,18 @@ Domains:
 
 ### Marketing-PR - Dani
 
+### Product Agency - 
+
+Purpose:
+- Successful client projects
+
+Accountabilities:
+- Getting clients
+- Delivering to clients
+- Getting paid from clients
+
+Domains:
+
 #### Purpose
 - Having continuous good reputation and reach
 - Inbound leads through good reputation
