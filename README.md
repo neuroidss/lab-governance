@@ -59,6 +59,7 @@ Accountabilities:
 - Tracking role based time allocation and reporting on request
 - Making dedicated time clear
 - Planning company-wide and national holidays and sending calendar invites to everyone
+- Tracking holidays, sick leaves and learning time
 
 Domains:
 - Company-wide time tracking system
@@ -500,6 +501,7 @@ Accountabilities:
 - Facilitating team learning
 - Coaching people out of underperformance
 - Coaching partners in GTD on request
+- Following up with Partners on sick leave about the Partner's health status and expected next work day
 
 Domains:
 - Employee/Partner compensation
