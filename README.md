@@ -546,7 +546,7 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project.
 
 ##### Policy: FTE definition
-FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave.
+FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave. This is a client facing definition to be used in the How We Work and Client Contract.
 
 ##### Policy: Human resource dedication
 - Partners can be dedicated to work on a Client projects
@@ -603,14 +603,15 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
 
-##### Policy: Vacation and Learning Time Limit
-If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of the [FTE definition](#policy-fte-definitions).
-
 ##### Policy: Holidays / Learning Time / Home office / Sick leave notification and approval
 - Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
 - Mark everything in your calendar as soon as you're aware of it.
+- Partners are obligated to take minimum the legally provided number of holidays.
+- There is no maximum to holidays and learning time, restricted with the below check-list.
 - Holidays / Learning Time self-approval check-list to make your absence safe
  - I've notified all my circle-mates over Slack not later then 2x workdsays of its length, but minimum 5 workdays and there was no objection
+ - No Partner in my Circles has objected
+ - Finance role has not objected due a potential cash flow issue
  - There is no big/key release, milestone, contract, meeting, which require me
  - There is no project start / end, which involves me
  - I have notified the resource clarity role.
@@ -619,8 +620,7 @@ If you are sold to a client, you can schedule additional vacation / learning tim
  - The fellow partners' holidays and planned sick leaves are not in conflict with mine
  - In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
 - Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
-- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
-- In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but can be declined, if your plan is not safe to fail.
+- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long. Above weekly 2 day / week your circle mates can object.
 
 ##### Policy: Work hours
 We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
