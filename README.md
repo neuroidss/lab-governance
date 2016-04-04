@@ -861,5 +861,6 @@ No one can use the petty cash without permission from the Finance and Controllin
  - cereals
  - 'szörp'
 
-## Domain of Biz: Relocation cost coverage
-The company covers the flight cost of the relocating Partners.
+## Domain of Biz: Relocation cost coverage for new Partners
+- Flight
+- Health insurance until not being employed do the visa application process, but is already in Hungary
