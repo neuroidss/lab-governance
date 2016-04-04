@@ -439,6 +439,30 @@ Accountability:
 
 Domain:
 
+### VSE - Deme Dani, Nagy Dani, Peták
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### VideoQuest - Nagy Dani
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### Konetik - Nagy Dani
+
+Purpose:
+
+Accountability:
+
+Domain:
+
 ## CIRCLES
 
 ### Emarsys - Banyo Marci
