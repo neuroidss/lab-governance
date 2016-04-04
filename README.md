@@ -13,7 +13,7 @@ Accountabilities:
  - Keeping governance records accurate language-wise.
  - Making guidelines what should be in the TLC tactical board
 
-### Admin - Virag, István
+### Admin - István
 Purpose:
 - Run the company operations
 
@@ -95,7 +95,7 @@ Accountabilities:
 Domains:
 - Partnerships
 
-### Finance and Controlling - Virag, István
+### Finance and Controlling - István
 
 Purpose:
 - Optimal financial operation
@@ -210,7 +210,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supply - Virag, István
+### Office and Supply -Jeszi, István
 
 Purpose: Unspecified
 
@@ -327,7 +327,7 @@ Domains:
 - Hiring and firing the Lead Link of GreenFox Academy in consensus with the CEO of Digital Natives as co-owner
 - Investment to GreenFox Academy
 
-### GreenFox Academy Teacher - Tojás, Anikó, Viktor
+### GreenFox Academy Teacher - Tojás, Anikó, Aze, Feri, Banyó
 
 Purpose:
 - Deliver great education
@@ -343,7 +343,7 @@ Accountabilities:
 Domains:
 - What and how to teach (syllabus)
 
-### New Office - Peták, Anikó, Juli
+### New Office - Peták, Anikó
 
 Purpose:
  - Perfect office: happy partners, location, work environment
@@ -360,7 +360,7 @@ Domain:
  - New office
  - Office design
 
-### Free Floating Developer - Dávid, Jeszi, Marci Bán, Ryan
+### Free Floating Developer - Dávid, Jeszi, Bán Marci
 
 Purpose:
 - Well spent developer time
@@ -371,7 +371,7 @@ Accountabilities:
 - Learning things that could be useful for further projects
 - Pitching their free time to LLs
 
-### Visibler - Erik, Viktor, Aze
+### Visibler - Erik, Viktor
 Purpose:
 - Satisfied Visibl
 
@@ -408,7 +408,7 @@ Domain:
 - Client relations
 
 
-### FlyerBee - Juli, Dani Deme, Dani Nagy, Peták
+### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták
 
 Purpose:
 
@@ -417,7 +417,7 @@ Accountability:
 Domain:
 
 
-### Detecon TV - Juli, Deme Dani
+### Detecon TV - Juli
 
 Purpose:
 
@@ -666,6 +666,7 @@ Above ones are NOT available for part time or during probation time.
  - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to virag.kurti@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
  - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
+ - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
 
 Devices
 - Cell phone up to 400 EUR + VAT. A more expensive phone can paid if it is a must have (for example an iPhone for an iOS developer). If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
@@ -740,7 +741,8 @@ Give permission to co-workers to modify your business calendar.
 
 You can book the meeting room to gain primary access by marking your meeting in the Meeting Room Calendar. https://calendar.google.com/calendar/embed?src=r5328r0nh8i3amjio867tia20o%40group.calendar.google.com&ctz=Europe/Budapest
 
-
+##### Policy: Making Hard-to-Change Decisions
+In any role, before you implement a decision that could have a significant impact on the organization and where it will be significantly difficult or expensive to undo that impact, you must first share your intent to do so with any partners who you believe could have useful information to inform the decision, or who fill roles likely to be significantly impacted by it. You must then delay your decision for a reasonable timeframe to allow those partners to consider the potential decision, respond to any clarifying questions, and consider any reactions shared.
 
 ##### Policy: Personal data + Contact sheet
 Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
