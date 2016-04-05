@@ -799,7 +799,7 @@ Comment on cards what you tell on tactical as update.
 Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy. https://github.com/lab-coop/lab-governance#policy-company-purchases
 
 ##### Policy: Client Team Onboarding Period
-Each client facing role / circle should define its own on-boarding timeframe of a new Partners, assigned to an ongoing project. In this period the client should not be invoiced for the new Partner's time, as the Partner could delivery with his/her full capabilities.
+Each client facing role / circle should define its own on-boarding timeframe of a new Partner, assigned to an already ongoing project. In this period the client should not be invoiced for the new Partner's time, as the Partner could delivery with his/her full capabilities.
 
 ##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
