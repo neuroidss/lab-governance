@@ -174,7 +174,7 @@ Accountabilities:
 Domains:
 - Clients
 
-### Venture builder - Peták
+### Venture builder - Peták, Feri
 Purpose:
 - Building Scaleable Tech Ventures
 
