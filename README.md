@@ -69,6 +69,7 @@ Domains:
 
 Purpose:
 - Stable business
+- Sustainable business
 
 Accountatabilities:
 - Creating and keeping the business plan
@@ -666,7 +667,7 @@ Services
 Above ones are NOT available for part time or during probation time.
  - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
- - You can order all the purchase any software and SAAS you need for your work. Advising process with Finance is required if the price is over 200 EUR / year.
+ - You can order all the purchase any software and SAAS you need for your work.
  - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
 
 Devices
@@ -691,6 +692,15 @@ Prey application has to be installed on each and every company cell phones and l
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 - Track all your payments with company invoice here. https://goo.gl/iVkFfA Make sure that you also follow the related SplitWise policy.
+
+##### Policy: Spending decision check list
+- Have I asked all the relevant roles and Partners for input?
+- Do we really need this?
+- Will this move our organization forward?
+- Am I ok with not getting the proportion of this money as divident?
+- Is it a good investment?
+- If above 200 EUR, has it been approved by the Finance and Controlling role cash flow wise?
+- If it is above 3000 EUR, has it been approved by Biz role?
 
 ##### Policy: Purchases with company invoice
 You can invoice the company for the below things (service, devices):
