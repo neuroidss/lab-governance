@@ -182,9 +182,12 @@ Accountabilities:
 - Facilitating idea pitches and hackathons
 - Helping the product team: to validate ideas, build MVP tests, make business model, find resources
 - Making spin-off business modell
+- Establishing acceleration / incubation program
+- Fundraising
 
 Domains:
 - Go-no-go of spin-offs through advising process
+- Business model and format of the venture builder / incubator / accelerator
 
 ### Strategy - Petak, Tojas
 
