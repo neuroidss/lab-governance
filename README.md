@@ -68,19 +68,17 @@ Domains:
 ### Biz - Petak
 
 Purpose:
-- Financial stability
+- Stable business
 
 Accountatabilities:
 - Creating and keeping the business plan
-- Planning and keeping cash-flow
-- Deciding about non-human insurance plans
 - Making business model
 
 Domains:
 - Business plan and model
 - Pricing
-- All company budgets to secure the cash-flow
 - Investment
+- Any spending over 3000 EUR
 
 ### Biz Dev - Petak
 
@@ -115,6 +113,9 @@ Accountabilities:
 - Dealing with the bank
 - Securing our financial operations and tax payments
 - Developing and operating financial and controlling processes
+- Planning and keeping cash-flow
+- Deciding about non-human insurance plans
+- Approving all spending over 200 EUR to secure the cash-flow
 
 Domains:
 - Accountant
@@ -640,7 +641,7 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - Up to 170 EUR + VAT / Full time Partner / month (incl. travel costs), 2040 EUR + VAT / Full Time Partner / year
 - Part time Partners can spend in proportion to their % of full time employment
 - A Partner's budget can be cummulated, so if a Partner does not use his/her budget in the given month or year, it can be used later on
-- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Biz role in order to secure cash flow
+- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Finance role in order to secure cash flow
 - Get an invoice for the company. Pay by company card/transfer if possible.
 - Learning budget includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
@@ -665,7 +666,7 @@ Services
 Above ones are NOT available for part time or during probation time.
  - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
- - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
+ - You can order all the purchase any software and SAAS you need for your work. Advising process with Finance is required if the price is over 200 EUR / year.
  - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
 
 Devices
