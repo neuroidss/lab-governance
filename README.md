@@ -238,7 +238,7 @@ Accountabilities:
 - Managing tech infrastructure
 - Recharging rechargable batteries
 - Taking used batteries to the appropirate dangerous waste deposit
-- Making the accounts of Partners who leave the company
+- Making the accounts of Partners who join the company
 - Removing the accounts of Partners who leave the company
 - Supportting the Partners with any technical challenge they face
 - Managing the purchase of tech equipment
