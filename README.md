@@ -230,12 +230,21 @@ Domains:
 
 ### Tech Support - Jeszi
 
-Purpose: Unspecified
+Purpose:
+- Seamless tech work environment
 
 Accountabilities:
 - Fixing tech stuff around office: TV, wifi, printer, updating computers
 - Managing tech infrastructure
-- Removing the accounts of people who leave the company
+- Recharging rechargable batteries
+- Taking used batteries to the appropirate dangerous waste deposit
+- Making the accounts of Partners who leave the company
+- Removing the accounts of Partners who leave the company
+- Supportting the Partners with any technical challenge they face
+- Managing the purchase of tech equipment
+- Having fall back phones, screens and laptops (min 1 fall back from each / 20 partner)
+- Managing the reparation of any device 
+- Keeping track of warranty documents
 
 Domains:
 - Choosing the best fit devices and service for each usecase
