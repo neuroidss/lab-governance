@@ -210,7 +210,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supply -Jeszi, István
+### Office and Supply - Jeszi, Aniko, Istvan
 
 Purpose: Unspecified
 
