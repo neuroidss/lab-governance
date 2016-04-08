@@ -439,6 +439,15 @@ Accountability:
 
 Domain:
 
+### Product Resource Manager
+
+Purpose:
+- Smooth client projects
+
+Accountability:
+- Handling escalations from product clients or product teams
+- Assigning Partners to the Circle’s Product Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit.
+
 ## CIRCLES
 
 ### Emarsys - Banyo Marci
@@ -511,18 +520,6 @@ Domains:
 
 ### Marketing-PR - Dani
 
-### Product Agency - 
-
-Purpose:
-- Successful client projects
-
-Accountabilities:
-- Getting clients
-- Delivering to clients
-- Getting paid from clients
-
-Domains:
-
 #### Purpose
 - Having continuous good reputation and reach
 - Inbound leads through good reputation
@@ -538,6 +535,9 @@ Domains:
 
 
 ## Domain: Client work
+
+##### Policy: Product Roles assignment
+Product Resource Manager role can assign Circle's Product Roles.
 
 ##### Policy: Third party client licenses
 On all client and venture building projects the role / circle needs to maintain a list of the used third party services and code licenses, including open soruce licenses, for example GNU, GPL, etc. This policy automatically gives an accountability to each client and venture building project. Except if a client explicitly states in writing that there is no need for this.
