@@ -122,6 +122,11 @@ Sick people aren't counted in the reestimation for that week.
 ##### Policy: Timesheet
 At the end of the day fill in the timesheet.
 
+##### Policy: Overtime
+Overtime should be accepted by client
+- If extra time is neccessary to reach the weekly goals, it should be permitted by Yahav, Tal or David before
+- In case of prio1 issue it is not neccessary to ask permission before, but client should be inform at least on next business day 
+
 ##### Policy: Standup
 The default time is 9:30 AM.
 It is mandatory for all the developers to attend, in case of home-office he/she should join on Hangouts.

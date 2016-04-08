@@ -13,7 +13,7 @@ Accountabilities:
  - Keeping governance records accurate language-wise.
  - Making guidelines what should be in the TLC tactical board
 
-### Admin - Virag, István
+### Admin - István
 Purpose:
 - Run the company operations
 
@@ -34,7 +34,6 @@ Domains:
 Purpose: todo
 
 Domains:
-- Ownership system
 - Social and environmental responsibility (CSR) strategy and mindset
 
 ### Mr. Wolf - Peták
@@ -54,11 +53,12 @@ Purpose:
 
 Accountabilities:
 - Tracking allocation information
-- Giving info to biz for return calibaration
+- Giving info to Finance role for return calibaration
 - Setting up and running time tracking system
 - Tracking role based time allocation and reporting on request
 - Making dedicated time clear
 - Planning company-wide and national holidays and sending calendar invites to everyone
+- Tracking sales leads for their future resource needs
 
 Domains:
 - Company-wide time tracking system
@@ -86,16 +86,16 @@ Domains:
 
 Purpose:
 - Good business relations with other companies
-- Strong partnerships
+- Strong business partnerships
 
 Accountabilities:
 - Managing the consurtium
 - Establishing business partnership
 
 Domains:
-- Partnerships
+- Business partnerships
 
-### Finance and Controlling - Virag, István
+### Finance and Controlling - István
 
 Purpose:
 - Optimal financial operation
@@ -174,7 +174,7 @@ Accountabilities:
 Domains:
 - Clients
 
-### Venture builder - Peták
+### Venture builder - Peták, Feri
 Purpose:
 - Building Scaleable Tech Ventures
 
@@ -210,7 +210,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supply - Virag, István
+### Office and Supply - Jeszi, Aniko, Istvan
 
 Purpose: Unspecified
 
@@ -236,6 +236,8 @@ Accountabilities:
 - Fixing tech stuff around office: TV, wifi, printer, updating computers
 - Managing tech infrastructure
 - Removing the accounts of people who leave the company
+- Ensuring that the Partners only use legal software
+- Facilitating the usage of FOSS
 
 Domains:
 - Choosing the best fit devices and service for each usecase
@@ -320,30 +322,33 @@ Accountabilities:
 - Approving financial reports
 - Accounting financial and human investment
 - Helping GreenFox Lead Link
-- Supporting GreenFox Academy's sales and business development efforts
 - Developing GreenFox Academy education design strategy
 
 Domains:
 - Hiring and firing the Lead Link of GreenFox Academy in consensus with the CEO of Digital Natives as co-owner
 - Investment to GreenFox Academy
 
-### GreenFox Academy Teacher - Tojás, Anikó, Viktor
+### GreenFox Academy Teacher - Tojás, Anikó, Aze, Feri, Banyó
 
 Purpose:
 - Deliver great education
 - Make 50 USD / h in long, 70 USD / h in short term projects
 
 Accountabilities:
-- Teaching at GreenFox Academy
-- Participating in sales events
-- Developing GreenFox Academy education design
-- Tracking time spent per project
-  in the spreadsheets linked in the asana project cards
+- Teaching at GreenFox Academy (Junior, Gawker, Tech4Biz etc.)
 
-Domains:
-- What and how to teach (syllabus)
+Domain:
 
-### New Office - Peták, Anikó, Juli
+### GreenFox Academy Sales & BizDev - Peták
+
+Purpose:
+
+Accountabilities:
+- Supporting GreenFox Academy's sales and business development efforts
+
+Domain:
+
+### New Office - Peták, Anikó
 
 Purpose:
  - Perfect office: happy partners, location, work environment
@@ -360,7 +365,7 @@ Domain:
  - New office
  - Office design
 
-### Free Floating Developer - Dávid, Jeszi, Marci Bán, Ryan
+### Free Floating Developer - Dávid, Jeszi, Bán Marci
 
 Purpose:
 - Well spent developer time
@@ -371,7 +376,7 @@ Accountabilities:
 - Learning things that could be useful for further projects
 - Pitching their free time to LLs
 
-### Visibler - Erik, Viktor, Aze
+### Visibler - Erik, Viktor
 Purpose:
 - Satisfied Visibl
 
@@ -388,27 +393,8 @@ Domain:
 - Visibl client relationship
 - technical resources of the Visibl project, including code and 3rd party services
 
-### Shiwaforce - Dani Nagy
 
-Purpose:
-- Satisfied Shiwaforce
-- Earn money
-- Upselling
-- User acquisition
-
-
-Accountability:
-- Making channel copy tests
-- Following the client contract
-- keeping contact and communicating with the client (first point of contact)
-- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
-- notifying sales if upsell or conflict resolution is needed
-
-Domain:
-- Client relations
-
-
-### FlyerBee - Juli, Dani Deme, Dani Nagy, Peták
+### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták
 
 Purpose:
 
@@ -417,7 +403,7 @@ Accountability:
 Domain:
 
 
-### Detecon TV - Juli, Deme Dani
+### Detecon TV - Juli
 
 Purpose:
 
@@ -436,6 +422,30 @@ Accountability:
 - Keeping contact and communicating with the client (first point of contact)
 - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - Notifying sales if upsell or conflict resolution is needed
+
+Domain:
+
+### VSE - Deme Dani, Nagy Dani, Peták
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### VideoQuest - Nagy Dani
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### Konetik - Nagy Dani
+
+Purpose:
+
+Accountability:
 
 Domain:
 
@@ -502,12 +512,7 @@ Accountabilities:
 - Coaching partners in GTD on request
 
 Domains:
-- Employee/Partner compensation
-- Salary system and peer-reviews
-- Bootcamp
-- Probation time
-- Use of recruiter
-- Hiring and firing process
+- Partner & Owner relations (except text of contracts)
 
 ### Marketing-PR - Dani
 
@@ -602,6 +607,9 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
+Checklist: Never mark checklist items as completed.
+Projects: Only outcomes are recorded on TLC tactical board as a project. Next actions are not recorded on the TLC board. Projects of sub-circles (that are relevant for update on the TLC level) should be linked to the TLC board, as well.
+
 
 ##### Policy: Vacation and Learning Time Limit
 If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of the [FTE definition](#policy-fte-definitions).
@@ -660,12 +668,13 @@ Services
  - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
  - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
- - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
+ - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes. However, the company only covers high-way tolls and parking costs, if the Partner was on business dutie, otherwise, if any of those was paid with the company cell phone, it needs to be reimbursed.
  - VOIP to make cheaper calls abroad.
 Above ones are NOT available for part time or during probation time.
- - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to virag.kurti@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
+ - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
  - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
+ - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
 
 Devices
 - Cell phone up to 400 EUR + VAT. A more expensive phone can paid if it is a must have (for example an iPhone for an iOS developer). If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
@@ -724,7 +733,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
 ##### Policy: Gigs
-- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company.
+- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company, except agreed otherwise (for example for part-time Partners).
 
 
 
@@ -740,7 +749,8 @@ Give permission to co-workers to modify your business calendar.
 
 You can book the meeting room to gain primary access by marking your meeting in the Meeting Room Calendar. https://calendar.google.com/calendar/embed?src=r5328r0nh8i3amjio867tia20o%40group.calendar.google.com&ctz=Europe/Budapest
 
-
+##### Policy: Making Hard-to-Change Decisions
+In any role, before you implement a decision that could have a significant impact on the organization and where it will be significantly difficult or expensive to undo that impact, you must first share your intent to do so with any partners who you believe could have useful information to inform the decision, or who fill roles likely to be significantly impacted by it. You must then delay your decision for a reasonable timeframe to allow those partners to consider the potential decision, respond to any clarifying questions, and consider any reactions shared.
 
 ##### Policy: Personal data + Contact sheet
 Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
@@ -794,7 +804,7 @@ Make sure every week, before the tactical meeting, that all your cards are up-to
 Comment on cards what you tell on tactical as update.
 
 ##### Policy: Copyright Compliance
-Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy. https://github.com/lab-coop/lab-governance#policy-company-purchases
+Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works (especially media content and software) on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy and consult with the Tech Support Role, if needed. https://github.com/lab-coop/lab-governance#policy-company-purchases
 
 ##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
@@ -859,5 +869,6 @@ No one can use the petty cash without permission from the Finance and Controllin
  - cereals
  - 'szörp'
 
-## Domain of Biz: Relocation cost coverage
-The company covers the flight cost of the relocating Partners.
+## Domain of Biz: Relocation cost coverage for new Partners
+- Flight
+- Health insurance until not being employed do the visa application process, but is already in Hungary
