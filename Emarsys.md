@@ -110,11 +110,6 @@ Inner schedule for inner demo:
 - Reestimation of the commitment
 - Estimation forward
 
-##### Policy: Sick leave
-If you are sick tell the team ASAP on Slack Emarsys channel. 
-The rest of the team should reestimate the sprint and tell the changes to Emarsys. 
-Sick people aren't counted in the reestimation for that week.
-
 ##### Policy: Timesheet
 At the end of the day fill in the timesheet.
 
