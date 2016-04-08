@@ -34,7 +34,6 @@ Domains:
 Purpose: todo
 
 Domains:
-- Ownership system
 - Social and environmental responsibility (CSR) strategy and mindset
 
 ### Mr. Wolf - Peták
@@ -86,14 +85,14 @@ Domains:
 
 Purpose:
 - Good business relations with other companies
-- Strong partnerships
+- Strong business partnerships
 
 Accountabilities:
 - Managing the consurtium
 - Establishing business partnership
 
 Domains:
-- Partnerships
+- Business partnerships
 
 ### Finance and Controlling - István
 
@@ -502,12 +501,7 @@ Accountabilities:
 - Coaching partners in GTD on request
 
 Domains:
-- Employee/Partner compensation
-- Salary system and peer-reviews
-- Bootcamp
-- Probation time
-- Use of recruiter
-- Hiring and firing process
+- Partner & Owner relations (except text of contracts)
 
 ### Marketing-PR - Dani
 
