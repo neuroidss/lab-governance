@@ -34,7 +34,6 @@ Domains:
 Purpose: todo
 
 Domains:
-- Ownership system
 - Social and environmental responsibility (CSR) strategy and mindset
 
 ### Mr. Wolf - Peták
@@ -54,11 +53,12 @@ Purpose:
 
 Accountabilities:
 - Tracking allocation information
-- Giving info to biz for return calibaration
+- Giving info to Finance role for return calibaration
 - Setting up and running time tracking system
 - Tracking role based time allocation and reporting on request
 - Making dedicated time clear
 - Planning company-wide and national holidays and sending calendar invites to everyone
+- Tracking sales leads for their future resource needs
 - Tracking holidays, sick leaves and learning time
 
 Domains:
@@ -87,14 +87,14 @@ Domains:
 
 Purpose:
 - Good business relations with other companies
-- Strong partnerships
+- Strong business partnerships
 
 Accountabilities:
 - Managing the consurtium
 - Establishing business partnership
 
 Domains:
-- Partnerships
+- Business partnerships
 
 ### Finance and Controlling - István
 
@@ -175,7 +175,7 @@ Accountabilities:
 Domains:
 - Clients
 
-### Venture builder - Peták
+### Venture builder - Peták, Feri
 Purpose:
 - Building Scaleable Tech Ventures
 
@@ -211,7 +211,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supply -Jeszi, István
+### Office and Supply - Jeszi, Aniko, Istvan
 
 Purpose: Unspecified
 
@@ -237,6 +237,8 @@ Accountabilities:
 - Fixing tech stuff around office: TV, wifi, printer, updating computers
 - Managing tech infrastructure
 - Removing the accounts of people who leave the company
+- Ensuring that the Partners only use legal software
+- Facilitating the usage of FOSS
 
 Domains:
 - Choosing the best fit devices and service for each usecase
@@ -321,7 +323,6 @@ Accountabilities:
 - Approving financial reports
 - Accounting financial and human investment
 - Helping GreenFox Lead Link
-- Supporting GreenFox Academy's sales and business development efforts
 - Developing GreenFox Academy education design strategy
 
 Domains:
@@ -335,14 +336,18 @@ Purpose:
 - Make 50 USD / h in long, 70 USD / h in short term projects
 
 Accountabilities:
-- Teaching at GreenFox Academy
-- Participating in sales events
-- Developing GreenFox Academy education design
-- Tracking time spent per project
-  in the spreadsheets linked in the asana project cards
+- Teaching at GreenFox Academy (Junior, Gawker, Tech4Biz etc.)
 
-Domains:
-- What and how to teach (syllabus)
+Domain:
+
+### GreenFox Academy Sales & BizDev - Peták
+
+Purpose:
+
+Accountabilities:
+- Supporting GreenFox Academy's sales and business development efforts
+
+Domain:
  
 ### New Office - Peták, Anikó
 
@@ -389,25 +394,6 @@ Domain:
 - Visibl client relationship
 - technical resources of the Visibl project, including code and 3rd party services
 
-### Shiwaforce - Dani Nagy
-
-Purpose:
-- Satisfied Shiwaforce
-- Earn money
-- Upselling
-- User acquisition
-
-
-Accountability:
-- Making channel copy tests
-- Following the client contract
-- keeping contact and communicating with the client (first point of contact)
-- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
-- notifying sales if upsell or conflict resolution is needed
-
-Domain:
-- Client relations
-
 
 ### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták
 
@@ -437,6 +423,30 @@ Accountability:
 - Keeping contact and communicating with the client (first point of contact)
 - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - Notifying sales if upsell or conflict resolution is needed
+
+Domain:
+
+### VSE - Deme Dani, Nagy Dani, Peták
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### VideoQuest - Nagy Dani
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### Konetik - Nagy Dani
+
+Purpose:
+
+Accountability:
 
 Domain:
 
@@ -504,12 +514,7 @@ Accountabilities:
 - Following up with Partners on sick leave about the Partner's health status and expected next work day
 
 Domains:
-- Employee/Partner compensation
-- Salary system and peer-reviews
-- Bootcamp
-- Probation time
-- Use of recruiter
-- Hiring and firing process
+- Partner & Owner relations (except text of contracts)
 
 ### Marketing-PR - Dani
 
@@ -604,6 +609,9 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
+Checklist: Never mark checklist items as completed.
+Projects: Only outcomes are recorded on TLC tactical board as a project. Next actions are not recorded on the TLC board. Projects of sub-circles (that are relevant for update on the TLC level) should be linked to the TLC board, as well.
+
 
 ##### Policy: Vacation and Learning Time Limit
 If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of the [FTE definition](#policy-fte-definitions).
@@ -662,7 +670,7 @@ Services
  - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
  - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
- - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
+ - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes. However, the company only covers high-way tolls and parking costs, if the Partner was on business dutie, otherwise, if any of those was paid with the company cell phone, it needs to be reimbursed.
  - VOIP to make cheaper calls abroad.
 Above ones are NOT available for part time or during probation time.
  - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
@@ -727,7 +735,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
 ##### Policy: Gigs
-- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company.
+- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company, except agreed otherwise (for example for part-time Partners).
 
 
 
@@ -798,7 +806,7 @@ Make sure every week, before the tactical meeting, that all your cards are up-to
 Comment on cards what you tell on tactical as update.
 
 ##### Policy: Copyright Compliance
-Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy. https://github.com/lab-coop/lab-governance#policy-company-purchases
+Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works (especially media content and software) on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy and consult with the Tech Support Role, if needed. https://github.com/lab-coop/lab-governance#policy-company-purchases
 
 ##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
