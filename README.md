@@ -721,7 +721,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
 ##### Policy: Gigs
-- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company.
+- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company, except agreed otherwise (for example for part-time Partners).
 
 
 
