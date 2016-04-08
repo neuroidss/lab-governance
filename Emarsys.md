@@ -14,7 +14,6 @@ Accountabilities:
 - overseeing dev process and reporting to customer
 - facilitating daily standups
 - estimating
-- reviewing all the code
 - answering outer tech questions
 - averting obstacles
 - collecting tech info
@@ -35,6 +34,16 @@ Accountabilities:
 
 Domains:
 - relations with EMS / PM / third parties
+
+### Lead Dev - Adam
+Purpose
+- Maintain code quality
+- Overcome on and avoid technical debt
+
+Accountabilities:
+- Reviewing all the code
+- Maintain coding quality and style guidelines
+- Maintain system documentation
 
 ### Dev - Adam, Denes, Laci, Simon
 Accountabilities:
