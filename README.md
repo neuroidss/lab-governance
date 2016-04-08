@@ -6,8 +6,8 @@ Purpose: Building Ventures. Together.
 ## ROLES
 
 ### Lead Link - Petak
-### Facilitator - Cassus
-### Secretary - Dani
+### Facilitator - Anikó (mandate: 8 July 2016)
+### Secretary - Cassus (mandate: 8 July 2016)
 Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
  - Keeping governance records accurate language-wise.
