@@ -626,6 +626,9 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
+Checklist: Never mark checklist items as completed.
+Projects: Only outcomes are recorded on TLC tactical board as a project. Next actions are not recorded on the TLC board. Projects of sub-circles (that are relevant for update on the TLC level) should be linked to the TLC board, as well.
+
 
 ##### Policy: Vacation and Learning Time Limit
 If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of the [FTE definition](#policy-fte-definitions).
