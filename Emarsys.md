@@ -49,19 +49,6 @@ Accountabilities:
 Accountabilities:
 - implementing software based on user stories which meets the DoD
 
-### Steward
-Accountabilities:
-- reviewing code in its domain at least weekly
-- ensuring quality in its domain
-
-#### Domains per person:
-- Angular & UI: Marci
-- SMPP: Marci
-- Workers & RabbitMQ: Laci
-- Web & API: Tojas
-- Integration: Tojas
-- Catch-all: Process Facilitator
-
 ## All functions & activities within the Circle
 
 ##### Policy: Dependency resolution
