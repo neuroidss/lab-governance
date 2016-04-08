@@ -347,7 +347,7 @@ Accountabilities:
 - Supporting GreenFox Academy's sales and business development efforts
 
 Domain:
- 
+
 ### New Office - Peták, Anikó
 
 Purpose:
@@ -414,10 +414,10 @@ Domain:
 
 ### Stream.it dev - Aze, Ryan, Marci Bán
 
-Purpose: 
-- fullfil client contract expecations
+Purpose:
+- fullfil client contract expectations
 
-Accountability: 
+Accountability:
 - Following the client contract
 - Keeping contact and communicating with the client (first point of contact)
 - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
@@ -563,7 +563,7 @@ FTE, full time employee is a measurement unit, it could be one or more person an
   - Legal representative
   - HR Circle LL
   - Resource Clarity
-  
+
 - Permission is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
@@ -722,7 +722,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - You have to use 'LabCoop' group for all your payments
 - Use the following prefixes in each expense report, which involves Supercluster: office food, office, pr, travel, sales / biz dev, hr. For example "[office food] sör".
 - Do not add costs to Splitwise, which have been paid with company card / cash
-- Only use HUF in Splitwise, covert all other on mid conversion price
+- Only use HUF in Splitwise, convert all other on mid conversion price
 
 ##### Policy: Company CSR
 - Every partner has 100 EUR each year to spend on any CSR activities or charity
