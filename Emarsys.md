@@ -2,12 +2,12 @@
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
-### Lead Link - Banyo Marci
+### Lead Link - Banyo
 ### Rep Link - Laci	
-### Facilitator - Ádám
-### Secretary - Dénes
+### Facilitator - Denes
+### Secretary - Denes
 
-### Process Facilitator - Dénes
+### Process Facilitator - Denes
 Purpose: stable velocity
 
 Accountabilities:
@@ -36,7 +36,7 @@ Accountabilities:
 Domains:
 - relations with EMS / PM / third parties
 
-### Dev - Ádám, Dénes, Laci, Simon
+### Dev - Adam, Denes, Laci, Simon
 Accountabilities:
 - implementing software based on user stories which meets the DoD
 
