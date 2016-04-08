@@ -701,6 +701,16 @@ Prey application has to be installed on each and every company cell phones and l
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 - Track all your payments with company invoice here. https://goo.gl/iVkFfA Make sure that you also follow the related SplitWise policy.
 
+##### Policy: Car usage 
+- Compensation in case of business trip by private car; petrol and highway cost + 9Ft/km (NAV standard) for amortization. Cost reinmbursement happens through splitwise 
+- Compensation in case of renting a car for business trip; max rental cost 20EUR/day + km fee + petrol and highway cost. If it's possible get invoice, if not, cost reinmbursement happens through splitwise 
+- Our prefared car rental service is beerides.com
+- Let financial role know about your car usage prior your travel if it's possible
+- Provide invoice of the car expenses to the finance role at the latest 3 workdays after return
+- The company is not liable for damages of the private car
+- The company is not liable for caused damages
+- The company is not liable for fines
+
 ##### Policy: Purchases with company invoice
 You can invoice the company for the below things (service, devices):
 - 1. services (taxi, flgiht ticket to London but to Mallorca, etc)
