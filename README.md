@@ -6,8 +6,8 @@ Purpose: Building Ventures. Together.
 ## ROLES
 
 ### Lead Link - Petak
-### Facilitator - Cassus
-### Secretary - Dani
+### Facilitator - Anikó (mandate: 8 July 2016)
+### Secretary - Cassus (mandate: 8 July 2016)
 Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
  - Keeping governance records accurate language-wise.
@@ -59,6 +59,7 @@ Accountabilities:
 - Making dedicated time clear
 - Planning company-wide and national holidays and sending calendar invites to everyone
 - Tracking sales leads for their future resource needs
+- Tracking holidays, sick leaves and learning time
 
 Domains:
 - Company-wide time tracking system
@@ -415,7 +416,7 @@ Domain:
 ### Stream.it dev - Aze, Ryan, Marci Bán
 
 Purpose:
-- fullfil client contract expecations
+- fullfil client contract expectations
 
 Accountability:
 - Following the client contract
@@ -510,6 +511,7 @@ Accountabilities:
 - Facilitating team learning
 - Coaching people out of underperformance
 - Coaching partners in GTD on request
+- Following up with Partners on sick leave about the Partner's health status and expected next work day
 
 Domains:
 - Partner & Owner relations (except text of contracts)
@@ -722,7 +724,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - You have to use 'LabCoop' group for all your payments
 - Use the following prefixes in each expense report, which involves Supercluster: office food, office, pr, travel, sales / biz dev, hr. For example "[office food] sör".
 - Do not add costs to Splitwise, which have been paid with company card / cash
-- Only use HUF in Splitwise, covert all other on mid conversion price
+- Only use HUF in Splitwise, convert all other on mid conversion price
 
 ##### Policy: Company CSR
 - Every partner has 100 EUR each year to spend on any CSR activities or charity
