@@ -322,7 +322,6 @@ Accountabilities:
 - Approving financial reports
 - Accounting financial and human investment
 - Helping GreenFox Lead Link
-- Supporting GreenFox Academy's sales and business development efforts
 - Developing GreenFox Academy education design strategy
 
 Domains:
@@ -336,14 +335,18 @@ Purpose:
 - Make 50 USD / h in long, 70 USD / h in short term projects
 
 Accountabilities:
-- Teaching at GreenFox Academy
-- Participating in sales events
-- Developing GreenFox Academy education design
-- Tracking time spent per project
-  in the spreadsheets linked in the asana project cards
+- Teaching at GreenFox Academy (Junior, Gawker, Tech4Biz etc.)
 
-Domains:
-- What and how to teach (syllabus)
+Domain:
+
+### GreenFox Academy Sales & BizDev - Peták
+
+Purpose:
+
+Accountabilities:
+- Supporting GreenFox Academy's sales and business development efforts
+
+Domain:
  
 ### New Office - Peták, Anikó
 
