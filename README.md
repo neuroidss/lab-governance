@@ -53,11 +53,12 @@ Purpose:
 
 Accountabilities:
 - Tracking allocation information
-- Giving info to biz for return calibaration
+- Giving info to Finance role for return calibaration
 - Setting up and running time tracking system
 - Tracking role based time allocation and reporting on request
 - Making dedicated time clear
 - Planning company-wide and national holidays and sending calendar invites to everyone
+- Tracking sales leads for their future resource needs
 
 Domains:
 - Company-wide time tracking system
