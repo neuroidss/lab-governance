@@ -36,9 +36,6 @@ Accountabilities:
 - Evolving the Member Grant Agreement to capture needed partner level agreements for a healthy organization
 - Notifying all Partners of any new or amended Partner expectations or constraints, including any enacted by a change to the attached Constitution
 - Onboarding new Partners to their expectations and priviledges
- 
-Domains:
-- Member Grant Agreements
 
 Note:
  Member Grant Agreements are written agreements signed by handshake between individual Partners and the Company. They are intended to capture expectations towards Partners (not towards Roles) and benefits, vacation time, learning time etc.
