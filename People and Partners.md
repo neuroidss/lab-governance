@@ -212,7 +212,7 @@ Through the process defined above, the valuation tied to any Badge set may be lo
 ##### Policy: Transitioning to Badge-Based Compensation
 Any role extending offers for new Partners to join the Organization may give those new Partners an initial compensation level based on a set of Badges the role-filler assumes the new Partner is likely to earn (additional governance may define or limit this authority further). Partner's compensation may not drop below this initial tier placement for a period of 3 months after joining the Organization (except due to a shift to a part-time relationship or removal from the Organization).
 
-Partners who joined the company before the roll-out of the Badge-based Compensation System may opt to keep their compensation level calculated under the old system until a badge matching the previous category and seniority level is provided for them.
+Partners who joined the company before the roll-out of the Badge-based Compensation System may opt to keep their compensation level calculated under the old system until they have enough Badges to provide a comparable or greater compensation level under the new system.
 
 ##### Policy: Part-time
 - If you are an `x%` part-time employee in the Lab, you get `x%` pay and `x%` ownership.
