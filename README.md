@@ -47,7 +47,7 @@ Accountabilities:
 Domains:
 - Action plan, if invited by a Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon
 
-### Resource clarity - Marci Banyo
+### Resource clarity - Marci Banyo, Istvan
 Purpose:
 - Clarity on our commitments and available resources
 
