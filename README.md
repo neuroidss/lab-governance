@@ -221,8 +221,7 @@ Accountabilities:
 - Fixing broken things in the office (except tech equipment)
 - Landloard realtions
 - Providing access to company food
-- Ordering tech devices and services
-- Managing Dell waranty service, CHS, UPS etc relations
+- Ordering non-tech devices and services
 
 Domains:
 - Office hygiene and safety
@@ -231,7 +230,8 @@ Domains:
 
 ### Tech Support - Jeszi
 
-Purpose: Unspecified
+Purpose:
+- Seamless tech work environment
 
 Accountabilities:
 - Fixing tech stuff around office: TV, wifi, printer, updating computers
@@ -239,6 +239,17 @@ Accountabilities:
 - Removing the accounts of people who leave the company
 - Ensuring that the Partners only use legal software
 - Facilitating the usage of FOSS
+- Recharging rechargable batteries
+- Taking used batteries to the appropirate dangerous waste deposit
+- Making the accounts of Partners who join the company
+- Removing the accounts of Partners who leave the company
+- Supportting the Partners with any technical challenge they face
+- Managing the purchase of tech equipment
+- Having fall back phones, screens and laptops (min 1 fall back from each / 20 partner)
+- Managing the reparation of any device
+- Keeping track of warranty documents and managing warranty services
+- Ordering non-tech tech devices and services
+- Managing CHS relations
 
 Domains:
 - Choosing the best fit devices and service for each usecase
