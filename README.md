@@ -61,7 +61,7 @@ Accountabilities:
  - Client admin
  - Financial admin
  - Send and pick up post
- - Booking hotels, flights, trains, conference tickets etc. based on the provided travel preferences and information. Partners do not have to use this service, but it is the partner's responsibility to book as early as possible to avoide overprice.
+ - Booking hotels, flights, trains, conference tickets etc. based on the provided travel preferences and information. Partners do not have to use this service, but it is the partner's responsibility to book as early as possible to avoid overprice.
 
 Domains:
  - Paperwork
@@ -78,10 +78,10 @@ Purpose:
 - Everything can be broken, but everything can be fixed
 
 Accountabilities:
- - Engaging on request, invited by any Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon.
+ - Engaging on request, invited by any Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situation.
 
 Domains:
-- Action plan, if invited by a Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon
+- Action plan, if invited by a Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situation
 
 ### Resource clarity - Marci Banyo, Istvan
 Purpose:
@@ -89,7 +89,7 @@ Purpose:
 
 Accountabilities:
 - Tracking allocation information
-- Giving info to Finance role for return calibaration
+- Giving info to Finance role for return calibration
 - Setting up and running time tracking system
 - Tracking role based time allocation and reporting on request
 - Making dedicated time clear
@@ -107,7 +107,7 @@ Domains:
 Purpose:
 - Financial stability
 
-Accountatabilities:
+Accountabilities:
 - Creating and keeping the business plan
 - Planning and keeping cash-flow
 - Deciding about non-human insurance plans
@@ -126,7 +126,7 @@ Purpose:
 - Strong business partnerships
 
 Accountabilities:
-- Managing the consurtium
+- Managing the consortium
 - Establishing business partnership
 
 Domains:
@@ -147,7 +147,7 @@ Accountabilities:
 - Managing every financial issue
 - Financial transactions
 - Settling SplitWise balances between Company and Partners
-- Handling Paypal, Transferwise and any other online payment system in use
+- Handling PayPal, Transferwise and any other online payment system in use
 - Reimbursing
 - Dealing with the bank
 - Securing our financial operations and tax payments
@@ -213,12 +213,12 @@ Domains:
 
 ### Venture builder - Peták, Feri
 Purpose:
-- Building Scaleable Tech Ventures
+- Building Scalable Tech Ventures
 
 Accountabilities:
 - Facilitating idea pitches and hackathons
 - Helping the product team: to validate ideas, build MVP tests, make business model, find resources
-- Making spin-off business modell
+- Making spin-off business model
 
 Domains:
 - Go-no-go of spin-offs through advising process
@@ -255,7 +255,7 @@ Accountabilities:
 - Buying food, medicine, hygiene products, office equipment to the office (Tesco)
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
-- Landloard realtions
+- Landlord relations
 - Providing access to company food
 - Ordering non-tech devices and services
 
@@ -275,11 +275,11 @@ Accountabilities:
 - Removing the accounts of people who leave the company
 - Ensuring that the Partners only use legal software
 - Facilitating the usage of FOSS
-- Recharging rechargable batteries
-- Taking used batteries to the appropirate dangerous waste deposit
+- Recharging rechargeable batteries
+- Taking used batteries to the appropriate dangerous waste deposit
 - Making the accounts of Partners who join the company
 - Removing the accounts of Partners who leave the company
-- Supportting the Partners with any technical challenge they face
+- Supporting the Partners with any technical challenge they face
 - Managing the purchase of tech equipment
 - Having fall back phones, screens and laptops (min 1 fall back from each / 20 partner)
 - Managing the reparation of any device
@@ -288,7 +288,7 @@ Accountabilities:
 - Managing CHS relations
 
 Domains:
-- Choosing the best fit devices and service for each usecase
+- Choosing the best fit devices and service for each use case
 
 
 ### Sales - Petak
@@ -303,12 +303,12 @@ Accountability:
  - Generating leads
  - Converting leads
  - Negotiating contract / terms and conditions
- - Cordinating with Biz analyst and Resource manager
+ - Coordinating with Biz analyst and Resource manager
  - Making offers
  - Pitching how we work
- - Matching the estimation with: cilent resources - Lab.Coop resources - timeframe
+ - Matching the estimation with: client resources - Lab.Coop resources - time frame
  - Rating client
- - Capturing client complaints and giving feedback to the team, when approached by the client with team isssues
+ - Capturing client complaints and giving feedback to the team, when approached by the client with team issues
  - Overseeing all client leads
 
 Domain:
@@ -323,9 +323,9 @@ Accountability:
  - Supporting sales
  - Defining service product (for example the MVP)
  - Creating initial product backlog and roadmap
- - Understing the code, its quality and stage compared to initial product backlog
+ - Understanding the code, its quality and stage compared to initial product backlog
  - Proposing initial stack / architecture
- - Analizing client's product
+ - Analyzing client's product
  - Rating client
  - Applying to jobs to start converting the recruiting company into clients
 
@@ -363,7 +363,7 @@ Domain:
 
 Purpose:
 - Great owner of GreenFox Academy
-- Help GreenFox Academy to be a great and profitable educational venutre
+- Help GreenFox Academy to be a great and profitable educational venture
 
 Accountabilities:
 - Planning Greenfox Academy strategy
@@ -419,8 +419,8 @@ Purpose:
 - Well spent developer time
 
 Accountabilities:
-- Contributing to the open source eco-system
-- Writing blogposts
+- Contributing to the open source ecosystem
+- Writing blog posts
 - Learning things that could be useful for further projects
 - Pitching their free time to LLs
 
@@ -463,7 +463,7 @@ Domain:
 ### Stream.it dev - Aze, Ryan, Marci Bán
 
 Purpose:
-- fullfil client contract expectations
+- fulfill client contract expectations
 
 Accountability:
 - Following the client contract
@@ -548,12 +548,12 @@ Purpose: The right amount of right people, who love to work together, efficientl
 
 Accountabilities:
 - Explaining ownership and Partner compensation system
-- Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
+- Keeping the onboaring process (including relevant materials) up-to-date, assigning roles to the steps of the process
 - Fulfill human resource needs of the organization
 - Facilitating team learning
 - Onboarding to tools we use (Asana, Slack, Google Drive...)
 - Proposing changes to the Ownership system
-- Conductng orderly peer-reviews
+- Conducting orderly peer-reviews
 - Organizing team retreats
 - Facilitating team learning
 - Coaching people out of underperformance
@@ -568,7 +568,7 @@ Domains:
 #### Purpose
 - Having continuous good reputation and reach
 - Inbound leads through good reputation
-- Strong brand (business, emloyer, professional branding)
+- Strong brand (business, employer, professional branding)
 
 #### Accountabilities
 - Blogging
@@ -582,11 +582,11 @@ Domains:
 ## Domain: Client work
 
 ##### Policy: Third party client licenses
-On all client and venture building projects the role / circle needs to maintain a list of the used third party services and code licenses, including open soruce licenses, for example GNU, GPL, etc. This policy automatically gives an accountability to each client and venture building project. Except if a client explicitly states in writing that there is no need for this.
+On all client and venture building projects the role / circle needs to maintain a list of the used third party services and code licenses, including open source licenses, for example GNU, GPL, etc. This policy automatically gives an accountability to each client and venture building project. Except if a client explicitly states in writing that there is no need for this.
 
-##### Policy: Bugfixing for clients
+##### Policy: Bug fixing for clients
 Risk of bugs is managed in the planning phase preferably.
-When time is needed for bugfixing it is communicated towards clients transparently, and financially dealt with according to the contract.
+When time is needed for bug fixing it is communicated towards clients transparently, and financially dealt with according to the contract.
 
 ##### Policy: Client relations
 Each project has a single lead responsible for the relationship.
@@ -626,7 +626,7 @@ FTE, full time employee is a measurement unit, it could be one or more person an
 ##### Policy: Client communications, quality assurance, bug handling
 Each product development role must:
 - Define bug priorities with the client. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
-- More, than 50% of the team can only go on holidays + training + sickleave , if it is pre-approved by the client.
+- More, than 50% of the team can only go on holidays + training + sick leave , if it is pre-approved by the client.
 - Follow the client contract
 - Keeping contact and communicating with the client (first point of contact)
 - Share an up to date contact list
@@ -667,7 +667,7 @@ If you are sold to a client, you can schedule additional vacation / learning tim
 - Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
 - Mark everything in your calendar as soon as you're aware of it.
 - Holidays / Learning Time self-approval check-list to make your absence safe
- - I've notified all my circle-mates over Slack not later then 2x workdsays of its length, but minimum 5 workdays and there was no objection
+ - I've notified all my circle-mates over Slack not later then 2x workdays of its length, but minimum 5 workdays and there was no objection
  - There is no big/key release, milestone, contract, meeting, which require me
  - There is no project start / end, which involves me
  - I have notified the resource clarity role.
@@ -675,12 +675,12 @@ If you are sold to a client, you can schedule additional vacation / learning tim
  - If needed, there is someone to take my Role or Task over, who I have exactly told what to do and what did I agree with the involved Roles or Client etc. with. If there is a substitute it's added to Github to the header of the given role.
  - The fellow partners' holidays and planned sick leaves are not in conflict with mine
  - In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
-- Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
+- Sick leave: notify ASAP and keep others up-to-date about your how being and expected first day of work.
 - Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
 - In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but can be declined, if your plan is not safe to fail.
 
 ##### Policy: Work hours
-We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
+We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responsibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
 
 
 
@@ -690,7 +690,7 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 ##### Policy: Business cost reimbursement
 - All costs during a business travel should be covered, including food, transportation, accommodation, representation costs.
 - Preferably paid by a company bank card. Always provide invoices.
-- Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
+- Costs of business meeting (coffees / lunches / dinners / beers etc.) and beer dates can be fully reimbursed.
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
