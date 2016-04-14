@@ -10,9 +10,9 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ## Roles
 
 ### Lead Link - Cassus
-### Rep Link - Tojas
-### Facilitator - Petak
-### Secretary - Cassus
+### Rep Link - Tojas (mandate until Apr 14 2016)
+### Facilitator - Petak (mandate until Apr 14 2016)
+### Secretary - Cassus (mandate until May 2 2016)
 Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
