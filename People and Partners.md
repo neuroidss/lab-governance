@@ -161,7 +161,20 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 - Follow this prcess for hiring https://app.asana.com/0/33571529181921/52945793670150
 - When you start the selection process with someone in the Recruitment pipeline, copy the subtasks from `= template =` to the person
 - Mark the subtasks done and comment about your results and impressions on the person-card as the person progresses through the hiring process.
-- Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all  of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
+
+Firing part:
+- Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
+
+*Secretary interpretation of the Firing part:*
+- Granting access to legal notice and firing to Roles outside the P&P circle (for roles in the P&P circle this part of the policy means no restrictions):
+  - Any role outside the P&P circle may give legal notice to a Partner when
+    - the Partner has been without a role for at least 1 month,
+    - or the Role senses that Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. 
+  - Any role outside the P&P circle may fire a Partner who was given legal notice one month prior.
+- Limiting acccess to legal notice and firing of any Role who has access to it (including the roles who got permission above):
+  - A Role may only fire a Partner after having approval from all partners filling the folling roles: PP LL, TLC Resource Clarity and TLC Biz.
+  - A Role may only fire a Partner who got a legal notice and has been without a role for at least 1 month before the legal notice if the Partner hasn't energized a Role after recieving the legal notice.
+- (These role-based permissions may be further limited by corporate law, outside Governance. For example which Partner may legally represent the company.)
 
 
 ## Domain: Recruitment Pipeline in Asana
