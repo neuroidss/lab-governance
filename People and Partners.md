@@ -78,6 +78,9 @@ Purpose: Highly discerning and conservative Badge grants to bootstrap just enoug
 Accountable For:
 - Assessing Partners for Badges upon their self-nomination, when there aren't yet enough people who actually hold the Badge and work with the Partner who can reasonably assess
 
+### Immigration
+Purpose: Smooth immigration and work permit processes
+
 ### Compensation Architect - Cassus
 Purpose: The right compensation system for the Organization and its Partners
 
