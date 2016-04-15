@@ -171,6 +171,13 @@ Accountabilities:
  - Facilitating weekly Dev learning workshop
  - Providing guidance on How and What to learn on request from @FreeFloatingDev
 
+### Gardener - Cassus
+**Purpose**: Partners are aware of their growth needs and opportunities
+
+**Accountabilities**:
+ - Talking with Partners about their growth needs and opportunities
+ - Recommending growth opportunities to Partners
+
 ### Tool developer - Cassus
 Purpose: Smooth and fast HR processes
 
