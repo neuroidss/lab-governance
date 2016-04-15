@@ -921,3 +921,8 @@ No one can use the petty cash without permission from the Finance and Controllin
 ## Domain of Biz: Relocation cost coverage for new Partners
 - Flight
 - Health insurance until not being employed do the visa application process, but is already in Hungary
+
+## Domain of Secretary: All constitutionally-required records of the Circle
+##### Policy: TLC tactical board
+Any role in the circle may capture their outcomes on the Board given you prefix the name with a ✪ symbol. Sub-circles may also link outcomes of the circle they want to be transparent about.
+No role may capture Next actions or general areas of work on the board.
