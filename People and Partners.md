@@ -28,7 +28,7 @@ _The Lead Link holds the Purpose of the overall Circle._
 
 _The Lead Link also holds all un-delegated Circle-level Domains and Accountabilities._
 
-### Rep Link - Tojas (mandate until Apr 14 2016)
+### Rep Link - Erik (mandate until Jul 15 2016)
 
 **Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
 
