@@ -201,7 +201,7 @@ If a Partner from their own personal preference chooses not to spend significant
 ##### Policy: Badge Valuation
 The "Badge Valuation Database" is a listing of specific sets of Badges, with each set mapped to a specific compensation level using the levels defined by Compensation Architect.
 
-The full-time compensation level for a Partner may only be set at `80% + (glue value) - (investment)` of the `personal market comp benchmark` or the pro-rated equivalent for a part-time commitment. The `personal market comp benchmark` is the highest pay level that matches a set of Badges the Partner holds. `glue value` may only be between 0 and 20%. In the normal case the `investment` is 20%.
+The full-time compensation level for a Partner may only be set at `80% + (glue value) - (investment)` of the `personal market compensation benchmark` or the prorated equivalent for a part-time commitment. The `personal market compensation benchmark` is the highest pay level that matches a set of Badges the Partner holds. `glue value` may only be between 0 and 20%. In the normal case the `investment` is 20%.
 
  Any Partner who is financially responsible for another person may choose to reduce their `investment` in the company from 20% to 10%. In this case their `investment` for the liquid ownership calculation may only be treated as the 10% they invest in the company, without any adjustments.
 
