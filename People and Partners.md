@@ -30,10 +30,10 @@ Accountabilities:
 - Attracting partner candidates
 
 ### Partner Agreement Steward
-Purpose: unspecified
+Purpose: Clear, explicit agreements between Partners and the Company
 
 Accountabilities:
-- Evolving agreements between individual Partners and the Company to capture expectations towards Partners (not towards Roles) and benefits, vacation time, learning time etc.
+- Evolving agreements between individual Partners and the Company
 - Notifying all Partners of changes in these agreements
 - Onboarding new Partners to these agreements
 
