@@ -4,7 +4,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 
-### Lead Link - Dani
+### Lead Link - Dani Nagy
 **Purpose:**
 _The Lead Link holds the Purpose of the overall Circle._
 
@@ -23,7 +23,7 @@ _The Lead Link holds the Purpose of the overall Circle._
 
 _The Lead Link also holds all un-delegated Circle-level Domains and Accountabilities._
 
-### Rep Link - Anikó, mandate: 14 Jan 2016
+### Rep Link - Dani Deme, mandate: 18 July 2016
 
 **Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
 
@@ -33,7 +33,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Seeking to understand Tensions conveyed by Sub-Circle Circle Members, and discerning those appropriate to process in the Super-Circle
 - Providing visibility to the Super-Circle into the health of the Sub-Circle, including reporting on any metrics or checklist items assigned to the whole Sub-Circle
 
-### Facilitator - Anikó, mandate: 14 Jan 2016
+### Facilitator - Anikó, mandate: 18 July 2016
 
 **Purpose:** Circle governance and operational practices aligned with the Constitution.
 
@@ -42,7 +42,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Facilitating the Circle’s constitutionally-required meetings
 - Auditing the meetings and records of Sub-Circles as needed, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
 
-### Secretary - Dani, mandate: 14 Jan 2016
+### Secretary - Dani Nagy, mandate: 18 July 2016
 
 **Purpose:** Steward and stabilize the Circle’s formal records and record-keeping process.
 
@@ -57,7 +57,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Interpreting Governance and the Constitution upon request
 - Merging the Async pull request if there are no objections in the given period. (See [Async governance process](#async-governance-process))
 
-### Lab Marketing - Dani
+### Lab Marketing - Dani Nagy
 
 Purpose: undefined
 
@@ -125,7 +125,7 @@ Domains:
 ####Domains
 - Lab's public service apperance
 
-### Lab Branding - Deme Dani
+### Lab Branding - Dani Deme
 
 ####Purpose
 - Have a cool appreance
