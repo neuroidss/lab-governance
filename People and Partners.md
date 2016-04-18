@@ -173,7 +173,7 @@ Accountabilities:
 Purpose: Professional and expert developers
 
 Accountabilities:
- - Facilitating weekly Dev learning workshop
+ - Facilitating Dev learning workshops
  - Providing guidance on How and What to learn on request from @FreeFloatingDev
 
 ### Gardener - Cassus
