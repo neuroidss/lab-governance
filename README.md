@@ -424,6 +424,16 @@ Accountabilities:
 - Learning things that could be useful for further projects
 - Pitching their free time to LLs
 
+### KodGarazs Teacher - Jeszi, Bán Marci
+
+Purpose:
+-Deliver great education
+-Happy and skilled kids
+
+Accountabilities:
+-Teaching at KodGarazs
+
+
 ### Visibler - Erik, Viktor
 Purpose:
 - Satisfied Visibl
