@@ -169,7 +169,7 @@ Purpose: Community of happy and healthy Partners
 Accountabilities:
 - Organizing team events
 
-### Dev mentor - Tojas
+### Dev mentor - Gólya Ádám
 Purpose: Professional and expert developers
 
 Accountabilities:
