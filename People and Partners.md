@@ -77,7 +77,7 @@ Accountabilities:
 - Adding partner candidates to the [Recruitment Pipleline](https://app.asana.com/0/33571529181921)
 - Marking the subtasks done in Asana and commenting about your results and impressions on the person-card to track interactions with the candidate
 
-### Partner Agreement Steward
+### Partner Agreement Steward - Erik
 Purpose: Clear, explicit agreements between Partners and the Company
 
 Accountabilities:
@@ -137,7 +137,7 @@ Purpose: Highly discerning and conservative Badge grants to bootstrap just enoug
 Accountable For:
 - Assessing Partners for Badges upon their self-nomination, when there aren't yet enough people who actually hold the Badge and work with the Partner who can reasonably assess
 
-### Immigration
+### Immigration - Petak
 Purpose: Smooth immigration and work permit processes
 
 ### Compensation Architect - Cassus
