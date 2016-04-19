@@ -952,6 +952,8 @@ No role may capture Next actions or general areas of work on the board.
 
 ## Notes
 ### Note about domain Partner & Owner relations
-While the company has a domain over the companie's part of these relations, the these relations are still by nature mostly legal agreements between the different parties and also subject to hungarian law.
+While the company has a domain over the companie's part of these relations, these relations are still by nature mostly legal agreements between the different parties and also subject to hungarian law.
 - Partner relations and more specificly employee relations are framed by employee agreements and the hungarian employment law "Munka törvénykönyve"
-- Owner relations are framed by the syndicate agreement and company law.
+- Owner relations are framed by the Syndicate Agreement and Articles of Association.
+- High level ownership questions are decided by the majority shareholders.
+- The following power structures (from strongest to lowest power in the following order) regulate all our Partner & Owner relations: 1. labour, civil, corporate etc. law; 2. Articles of Association 3. Syndicate Agreement 4. Employment Agreement 5. Governance (Holacracy).
