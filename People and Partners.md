@@ -2,9 +2,9 @@
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Strategy
-- Improve the quality of how we work together even over growth
-- Recruit professional people we can learn from even over fast growth
-- Sufficient freelancer pool even over having new partners
+- Improve the quality of how we work together until we are ready to grow again // only get new partners if there is a major and persistent pain that a new partner would solve
+- Building a sufficient freelancer pool even over having new partners
+- If we hire - Recruit experienced people we can learn from to have sufficient mentoring capacity before we hire more novice people with high potential
 - Have impact in one area quickly even over having small improvements across the board.
 
 ## Roles
