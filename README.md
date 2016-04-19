@@ -949,3 +949,9 @@ No one can use the petty cash without permission from the Finance and Controllin
 ##### Policy: TLC tactical board
 Any role in the circle may capture their outcomes on the Board given you prefix the name with a ✪ symbol. Sub-circles may also link outcomes of the circle they want to be transparent about.
 No role may capture Next actions or general areas of work on the board.
+
+## Notes
+### Note about domain Partner & Owner relations
+While the company has a domain over the companie's part of these relations, the these relations are still by nature mostly legal agreements between the different parties and also subject to hungarian law.
+- Partner relations and more specificly employee relations are framed by employee agreements and the hungarian employment law "Munka törvénykönyve"
+- Owner relations are framed by the syndicate agreement and company law.
