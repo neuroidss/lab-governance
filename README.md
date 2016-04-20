@@ -165,7 +165,7 @@ Domains:
 ### Corporate lawyer - Nora Kiss
 
 Purpose:
-- Legally safe company
+- Legally safe company and Legal representative
 - Well written contracts
 
 Accountabilities:
@@ -180,9 +180,7 @@ Domains:
 
 ### Legal representative - Peták
 
-Purpose:
-- Well matched business needs and legal documents
-- Legally safe company
+Purpose: Well matched business needs and company legal safety
 
 Accountabilities:
 - Final reviewing and signing contracts
@@ -198,8 +196,7 @@ Accountabilities:
 Domains:
 - Choose corporate lawyer
 - Signatory right
-- Decisions with legal implications
-- Text of contracts (both internal and external)
+- Legal decisions, especially the text of any contract on behalf of the company
 
 
 ### OrgDev Consulting Branch - Cassus
