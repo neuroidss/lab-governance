@@ -287,6 +287,11 @@ A role may only grant extra compensation to a Partner who has an `x%` part-time 
 - the Partner has signed an employment contract on `y%` part-time,
 - the period starts after the last divident pay.
 
+## Domain of Secretary: All constitutionally-required records of the Circle
+
+#### Policy: PP tactical board
+
+Any role in the circle may capture their outcomes on the Board given you prefix the name with a ✪ symbol. Sub-circles may also link outcomes of the circle they want to be transparent about. No role may capture Next actions or general areas of work on the board.
 
 ## Notes
 - Bootcamp process template: https://app.asana.com/0/45872219775035/list
