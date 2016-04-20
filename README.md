@@ -624,27 +624,6 @@ Every project lead has to take responsibility in organizing meetings, liaising w
 ##### Policy: FTE definition
 FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month.
 
-##### Policy: Human resource dedication
-- Partners can be dedicated to work on a Client projects
-  - Each week (in average) works on the Client Project for the time agreed with the Client
-- For changing dedication, permission is necessary from the following roles:
-  - Biz
-  - Sales
-  - Recruiter
-  - Legal representative
-  - HR Circle LL
-  - Resource Clarity
-
-- Permission is necessary (with the above roles) in case of changes of:
-  - FTE
-  - Roles in direct contact with the client
-  - Contract
-  - Price, pricing
-  - Project timeframe
-- The above listed roles can block the above listed changes up to 2 weeks before the legal minimum stated (usually 4 weeks), if the roles decide within their domains that the upcoming change is not safe to fail. Moreover, it is highly preferred not to change within 6 months, and to change at the time of contract change.
-- Minimum 6 months on a client project, except agreed otherwise with the client.
-- No more than 1 person should be replaced within one month, except agreed otherwise with the client.
-
 ##### Policy: Client communications, quality assurance, bug handling
 Each product development role must:
 - Define bug priorities with the client. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
@@ -683,30 +662,6 @@ Checklist: Never mark checklist items as completed.
 Projects: Only outcomes are recorded on TLC tactical board as a project. Next actions are not recorded on the TLC board. Projects of sub-circles (that are relevant for update on the TLC level) should be linked to the TLC board, as well.
 
 
-##### Policy: Vacation and Learning Time Limit
-If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of the [FTE definition](#policy-fte-definitions).
-
-##### Policy: Holidays / Learning Time / Home office / Sick leave notification and approval
-- Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
-- Mark everything in your calendar as soon as you're aware of it.
-- Holidays / Learning Time self-approval check-list to make your absence safe
- - I've notified all my circle-mates over Slack not later then 2x workdays of its length, but minimum 5 workdays and there was no objection
- - There is no big/key release, milestone, contract, meeting, which require me
- - There is no project start / end, which involves me
- - I have notified the resource clarity role.
- - If the leave is longer than 5 work days, Resource Clarity has acknowledged my leave.
- - If needed, there is someone to take my Role or Task over, who I have exactly told what to do and what did I agree with the involved Roles or Client etc. with. If there is a substitute it's added to Github to the header of the given role.
- - The fellow partners' holidays and planned sick leaves are not in conflict with mine
- - In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
-- Sick leave: notify ASAP and keep others up-to-date about your how being and expected first day of work.
-- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
-- In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but can be declined, if your plan is not safe to fail.
-
-##### Policy: Work hours
-We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responsibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
-
-
-
 
 ## Domain: Company resources (mandatory for all roles and circles)
 
@@ -715,51 +670,6 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - Preferably paid by a company bank card. Always provide invoices.
 - Costs of business meeting (coffees / lunches / dinners / beers etc.) and beer dates can be fully reimbursed.
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
-
-##### Policy: Company financed learning (for everyone and all circles in the Lab)
-- Up to 170 EUR + VAT / Full time Partner / month (incl. travel costs), 2040 EUR + VAT / Full Time Partner / year
-- Part time Partners can spend in proportion to their % of full time employment
-- A Partner's budget can be cummulated, so if a Partner does not use his/her budget in the given month or year, it can be used later on
-- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Biz role in order to secure cash flow
-- Get an invoice for the company. Pay by company card/transfer if possible.
-- Learning budget includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
-- Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
-- Make a brownbag talk about your learning if applicable
-- If a Partner spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
-- Learning budget over 2040 EUR / year is the domain of the Biz role as it becomes an investment for the company.
-- If a Partner leaves the company and his/her cummulative learning budget balance is over the 170 EUR / month average, the Partner need to pay back the budget overuse proportionally to the company. For example the Partner has worked 20 months for the company and has spent 4400 EUR on learning, then the Partner owes 1000 EUR to the company. (20*170=3400 vs. 4400)
-- In case a Partner does not want to use a larger learning budget, as the agreed one (just as described above), s/he has the option to access the budget against his or her preferred dividend stocks. (For example 10k HUF budget overuse would mean getting 10k less preferred dividend stocks in that given quarter or year.) In this case there is no employment commitment or repayment obligation.
-- A team training, workshop, course etc.'s cost needs to be administrated in splits between the participants. For example: English lesson.
-- Secretary Interpretation: Exam/certification fees can also be financed from the learning budget.
-
-##### Policy: Employee Benefits (for everyone and all circles in the Lab)
-
-Services
- - Dinner if working after 8pm
- - Uber home of working later than 10pm
- - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
- - Personal income tax report filed by the company's accountant.
-   NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
- - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes. However, the company only covers high-way tolls and parking costs, if the Partner was on business dutie, otherwise, if any of those was paid with the company cell phone, it needs to be reimbursed.
- - VOIP to make cheaper calls abroad.
-Above ones are NOT available for part time or during probation time.
- - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
-Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
- - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
- - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
-
-Devices
-- Cell phone up to 400 EUR + VAT. A more expensive phone can paid if it is a must have (for example an iPhone for an iOS developer). If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
-Only on request.
-Above ones are NOT available for part time or during probation time.
-- Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
-- External screen, automatically for the office and on request for home.
-
-##### Policy: Insurance deductible
-- Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible. Deductible is 10% of the damage, but minimum 10k HUF / damage. Detailed insurance terms and conditions: https://drive.google.com/open?id=0B6JxQVzWxgy4eUdZdGJ0bkdKU1RXQTQzM1ROWHRrNEZ2azVj
-
-##### Policy: Device security
-Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
 
 ##### Policy: Company purchases
 - If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
@@ -770,20 +680,6 @@ Prey application has to be installed on each and every company cell phones and l
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 - Track all your payments with company invoice here. https://goo.gl/iVkFfA Make sure that you also follow the related SplitWise policy.
-
-##### Policy: Purchases with company invoice
-You can invoice the company for the below things (service, devices):
-- 1. services (taxi, flgiht ticket to London but to Mallorca, etc)
-- 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF).
-
-Restrictions:
-- If using the company card, you have to pre-validate with the finance and admin roles.
-- If requested, you have to be able to bring that device to the company.
-- If you leave the company, you have to consult with finance and admin roles to take it from the company inventory.
-
-##### Policy: Usage of company services
-You can use the below services through the company:
-- Travel insurance
 
 ##### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
@@ -804,28 +700,13 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - List your spending in CSR Cost and Time Tracking https://goo.gl/5VOOi8
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
-##### Policy: Gigs
-- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company, except agreed otherwise (for example for part-time Partners).
-
-
-
-
 ## Domain: other Company-Wide policies (mandatory by default for all roles and circles)
 
 ##### Policy: Calendar and meetings
-Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. Have your calendar email address at "Personal data + Contact sheet" sheet: https://goo.gl/NTI6Dl
-
-In case you work part-time share your other work calendar's free-busy status and add it to the above contact sheet or mark the time periods as "busy" when you know in advance that you are going to be unavailable for the Lab in your Lab calendar.
-
-Give permission to co-workers to modify your business calendar.
-
 You can book the meeting room to gain primary access by marking your meeting in the Meeting Room Calendar. https://calendar.google.com/calendar/embed?src=r5328r0nh8i3amjio867tia20o%40group.calendar.google.com&ctz=Europe/Budapest
 
 ##### Policy: Making Hard-to-Change Decisions
 In any role, before you implement a decision that could have a significant impact on the organization and where it will be significantly difficult or expensive to undo that impact, you must first share your intent to do so with any partners who you believe could have useful information to inform the decision, or who fill roles likely to be significantly impacted by it. You must then delay your decision for a reasonable timeframe to allow those partners to consider the potential decision, respond to any clarifying questions, and consider any reactions shared.
-
-##### Policy: Personal data + Contact sheet
-Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
 
 ##### Policy: Account Logins
 Store all service user names, account emails, passwords etc. in the Logins sheet. https://goo.gl/xHOHkq
@@ -874,32 +755,6 @@ Private:
 ##### Policy: Transparent task progress report
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
-
-##### Policy: Copyright Compliance
-Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works (especially media content and software) on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy and consult with the Tech Support Role, if needed. https://github.com/lab-coop/lab-governance#policy-company-purchases
-
-##### Policy: Conflict resolution process
-Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
-
-Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.
-
- 1. Whatever the topic, the process starts with one person asking another to gain agreement: In a first phase, they sit together and try to sort it out privately. Both parties should use NonViolent Communication practices to communicate clear Observation, Feelings, Needs, Requests and Responses
-
-   - Observation: the facts (what we are seeing, hearing, or touching) as distinct from our evaluation of meaning and significance. NVC discourages static generalizations. It is said that "When we combine observation with evaluation others are apt to hear criticism and resist what we are saying." Instead, a focus on observations specific to time and context is recommended.
-   - Feelings: emotions or sensations, free of thought and story. These are to be distinguished from thoughts (e.g., "I feel I didn't get a fair deal") and from words colloquially used as feelings but which convey what we think we are (e.g., "inadequate"), how we think others are evaluating us (e.g., "unimportant"), or what we think others are doing to us (e.g., "misunderstood", "ignored"). Feelings are said to reflect whether we are experiencing our needs as met or unmet. Identifying feelings is said to allow us to more easily connect with one another, and allowing ourselves to be vulnerable by expressing our feelings can help resolve conflicts.
-   - Needs: universal human needs, as distinct from particular strategies for meeting needs.
-   - Request: request for a specific action, free of demand. Requests are distinguished from demands in that one is open to hearing a response of "no" without this triggering an attempt to force the matter. If one makes a request and receives a "no" it is recommended not that one give up, but that one empathize with what is preventing the other person from saying "yes," before deciding how to continue the conversation. It is recommended that requests use clear, positive, concrete action language.
-   - Response: The receiving person has to respond clearly to the request:
-     - with a "yes"
-     - needs that prevent you from saying yes,
-     - and/or a counterproposal.
-
-
- 1. If they can’t find a solution agreeable to both of them, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution.
-
- 1. If mediation fails, a panel of topic-relevant colleagues is convened. The panel’s role, again, is to listen and help shape agreement. It cannot force a decision, but usually carries enough moral weight for matters to come to a conclusion.
-
- 1. In an ultimate step, the Top Level Circle Lead Link, can be called into the panel, to further reinforce the panel’s moral weight (but not to impose a solution).
 
 ## Domain of Strategy: Advisor selection and dismissal
 - Three months probation period before signing anything, prolongation on mutual agreement
