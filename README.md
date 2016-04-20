@@ -79,7 +79,6 @@ Domains:
 - Business plan and model
 - Pricing
 - Investment
-- Any spending over 3000 EUR
 
 ### Biz Dev - Petak
 
@@ -116,7 +115,7 @@ Accountabilities:
 - Developing and operating financial and controlling processes
 - Planning and keeping cash-flow
 - Deciding about non-human insurance plans
-- Approving all spending over 200 EUR to secure the cash-flow
+- Deciding on all spending over 200 EUR to secure the cash-flow
 
 Domains:
 - Accountant
@@ -684,7 +683,6 @@ Above ones are NOT available for part time or during probation time.
 Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
 
 ##### Policy: Company purchases
-- If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
 - After the probation time any partner can access and use the company credit cards.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Partners may _not_ combine their budgets to purchase something more expensive together
@@ -693,7 +691,7 @@ Prey application has to be installed on each and every company cell phones and l
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 - Track all your payments with company invoice here. https://goo.gl/iVkFfA Make sure that you also follow the related SplitWise policy.
 
-##### Policy: Spending decision check list
+Partners can make purchaes on behalf of the company if they get YES answers to all the below questions:
 - Have I asked all the relevant roles and Partners for input?
 - Do we really need this?
 - Will this move our organization forward?
