@@ -74,6 +74,7 @@ Purpose:
 Accountatabilities:
 - Creating and keeping the business plan
 - Making business model
+- Deciding on all spending over 3000 EUR to secure the business
 
 Domains:
 - Business plan and model
@@ -116,6 +117,7 @@ Accountabilities:
 - Planning and keeping cash-flow
 - Deciding about non-human insurance plans
 - Deciding on all spending over 200 EUR to secure the cash-flow
+- Tracking approved future spending in the CashFlow
 
 Domains:
 - Accountant
