@@ -1,7 +1,9 @@
 # Lab (TLC - Top Level Circle)
 
-Purpose: Building Ventures. Together.
+Purpose:
 
+As an umbrella organization of an agency, venture builder, school, consulting branches and more: Building Ventures. Together.
+As a digital product agency: Successful, scalable, usable digital products with happy owners and users.
 
 ## ROLES
 
