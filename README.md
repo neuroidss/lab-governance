@@ -165,23 +165,22 @@ Domains:
 ### Corporate lawyer - Nora Kiss
 
 Purpose:
-- Keep the company safe
+- Legally safe company and Legal representative
 - Well written contracts
 
 Accountabilities:
 - Making sure that accounting and financial practices are legal
 - Reviewing, writing legal documents
 - Supporting negotiations
+- Supporting Legal representative
+- Managing the company's legal operations
 
 Domains:
-- Text of contracts (both internal and external)
 
 
 ### Legal representative - Peták
 
-Purpose:
-- Legal operations
-- Match business needs and legal documentation
+Purpose: Well matched business needs and company legal safety
 
 Accountabilities:
 - Final reviewing and signing contracts
@@ -197,6 +196,7 @@ Accountabilities:
 Domains:
 - Choose corporate lawyer
 - Signatory right
+- Legal decisions, especially the text of any contract on behalf of the company
 
 
 ### OrgDev Consulting Branch - Cassus
