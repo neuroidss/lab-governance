@@ -585,6 +585,7 @@ Accountabilities:
 - Coaching partners in GTD on request
 - Following up with Partners on sick leave about the Partner's health status and expected next work day
 - Tracking compensation parameters and Partner investment historically
+- Collecting human resource needs and maintaining a compiled view of them
 
 Domains:
 - Partner & Owner relations (except text of contracts)
