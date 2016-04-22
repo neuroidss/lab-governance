@@ -2,19 +2,65 @@
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Strategy
-- Improve the quality of how we work together even over growth
-- Recruit professional people we can learn from even over fast growth
-- Sufficient freelancer pool even over having new partners
+- Improve the quality of how we work together until we are ready to grow again // only get new partners if there is a major and persistent pain that a new partner would solve
+- Building a sufficient freelancer pool even over having new partners
+- If we hire - Recruit experienced people we can learn from to have sufficient mentoring capacity before we hire more novice people with high potential
 - Have impact in one area quickly even over having small improvements across the board.
 
 ## Roles
 
 ### Lead Link - Cassus
-### Rep Link - Tojas
-### Facilitator - Petak
-### Secretary - Cassus
-Accountabilities:
- - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
+**Purpose:**
+_The Lead Link holds the Purpose of the overall Circle._
+
+**Domains:**
+
+- Role assignments within the Circle
+
+**Accountabilities:**
+
+- Structuring the Governance of the Circle to enact its Purpose and Accountabilities
+- Assigning Partners to the Circle’s Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit
+- Allocating the Circle’s resources across its various Projects and/or Roles
+- Establishing priorities and Strategies for the Circle
+- Defining metrics for the circle
+- Removing constraints within the Circle to the Super-Circle enacting its Purpose and Accountabilities
+
+_The Lead Link also holds all un-delegated Circle-level Domains and Accountabilities._
+
+### Rep Link - Erik (mandate until Jul 15 2016)
+
+**Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
+
+**Accountabilities:**
+
+- Removing constraints within the broader Organization that limit the Sub-Circle
+- Seeking to understand Tensions conveyed by Sub-Circle Circle Members, and discerning those appropriate to process in the Super-Circle
+- Providing visibility to the Super-Circle into the health of the Sub-Circle, including reporting on any metrics or checklist items assigned to the whole Sub-Circle
+
+### Facilitator - Petak (mandate until Apr 14 2016)
+
+**Purpose:** Circle governance and operational practices aligned with the Constitution.
+
+**Accountabilities:**
+
+- Facilitating the Circle’s constitutionally-required meetings
+- Auditing the meetings and records of Sub-Circles as needed, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
+
+### Secretary - Cassus (mandate until May 2 2016)
+
+**Purpose:** Steward and stabilize the Circle’s formal records and record-keeping process.
+
+**Domains:**
+
+- All constitutionally-required records of the Circle
+
+**Accountabilities:**
+
+- Scheduling the Circle’s required meetings, and notifying all Core Circle Members of scheduled times and locations
+- Capturing and publishing the outputs of the Circle’s required meetings, and maintaining a compiled view of the Circle’s current Governance, checklist items, and metrics
+- Interpreting Governance and the Constitution upon request
+- Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Organization Developer (OrgDev) - Cassus
 Purpose: Organization that can scale while keeping it’s agility.
@@ -28,6 +74,16 @@ Purpose: Introduce great people to Lab.Coop
 
 Accountabilities:
 - Attracting partner candidates
+- Adding partner candidates to the [Recruitment Pipleline](https://app.asana.com/0/33571529181921)
+- Marking the subtasks done in Asana and commenting about your results and impressions on the person-card to track interactions with the candidate
+
+### Partner Agreement Steward - Erik
+Purpose: Clear, explicit agreements between Partners and the Company
+
+Accountabilities:
+- Evolving agreements between individual Partners and the Company
+- Notifying all Partners of changes in these agreements
+- Onboarding new Partners to these agreements
 
 ### Recruiter - Cassus
 Purpose: Hire great people
@@ -62,6 +118,9 @@ Accountabilities:
 
 Purpose: Hire the right people
 
+Accountable For:
+ - Marking the subtasks done in Asana and commenting about your results and impressions on the person-card after the interview
+
 ### Badge Librarian - Cassus
 Purpose: Badges that represent clear, clean, and useful distinctions for the organization
 
@@ -77,6 +136,9 @@ Purpose: Highly discerning and conservative Badge grants to bootstrap just enoug
 
 Accountable For:
 - Assessing Partners for Badges upon their self-nomination, when there aren't yet enough people who actually hold the Badge and work with the Partner who can reasonably assess
+
+### Immigration - Petak
+Purpose: Smooth immigration and work permit processes
 
 ### Compensation Architect - Cassus
 Purpose: The right compensation system for the Organization and its Partners
@@ -107,12 +169,19 @@ Purpose: Community of happy and healthy Partners
 Accountabilities:
 - Organizing team events
 
-### Dev mentor - Tojas
+### Dev mentor - Gólya Ádám
 Purpose: Professional and expert developers
 
 Accountabilities:
  - Facilitating weekly Dev learning workshop
  - Providing guidance on How and What to learn on request from @FreeFloatingDev
+
+### Gardener - Cassus
+**Purpose**: Partners are aware of their growth needs and opportunities
+
+**Accountabilities**:
+ - Talking with Partners about their growth needs and opportunities
+ - Recommending growth opportunities to Partners
 
 ### Tool developer - Cassus
 Purpose: Smooth and fast HR processes
@@ -154,35 +223,28 @@ Accountabilities:
 ## Domain: All functions & activities within the Circle
 
 ##### Policy: Async governance process
-We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
+See [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
 
-##### Policy: Hiring and Firing Process
-- Managed in Asana.
-- Follow this prcess for hiring https://app.asana.com/0/33571529181921/52945793670150
-- When you start the selection process with someone in the Recruitment pipeline, copy the subtasks from `= template =` to the person
-- Mark the subtasks done and comment about your results and impressions on the person-card as the person progresses through the hiring process.
-- Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all  of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
+##### Policy: Firing Process
+- Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
+
+*Secretary interpretation*
+- Granting access to legal notice and firing to Roles outside the P&P circle (for roles in the P&P circle this part of the policy means no restrictions):
+  - Any role outside the P&P circle may give legal notice to a Partner when
+    - the Partner has been without a role for at least 1 month,
+    - or the Role senses that Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. 
+  - Any role outside the P&P circle may fire a Partner who was given legal notice one month prior.
+- Limiting acccess to legal notice and firing of any Role who has access to it (including the roles who got permission above):
+  - A Role may only fire a Partner after having approval from all partners filling the folling roles: PP LL, TLC Resource Clarity and TLC Biz.
+  - A Role may only fire a Partner who got a legal notice and has been without a role for at least 1 month before the legal notice if the Partner hasn't energized a Role after recieving the legal notice.
+- (These role-based permissions may be further limited by corporate law, outside Governance. For example which Partner may legally represent the company.)
 
 
 ## Domain: Recruitment Pipeline in Asana
 ### Policy: Recruitment Pipeline in Asana
-Anyone can impact it.
+Any role can impact it.
 
-## Domain: Bootcamp (newcommer onboarding)
-### Policy: Bootcamp single source of truth
-- Bootcamp process template: https://app.asana.com/0/45872219775035/list
-
-## Domain: Ownership system and Employee/Partner compensation
-
-##### Policy: Probation time and ownership cliff
-- Probation time is 3 months, when it comes to ownership there is a one year cliff.
-- After probation time, each partner gains access to company credit cards.
-- Peer review should happen at the end of each months of the probation time, which can impact seniorty and glue, so salary increase or decrease could happen as we learn more about a new partner.
-
-## Domain: Salary system and peer-reviews
-
-##### Policy: Employee money
-Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1voxCpH29Lr8OlSuG7JL51BQSAwQPfVzkdpkM7aR9GbU/edit#gid=118044564
+## Domain: Compensation
 
 ##### Policy: Defining Badges
 The Organization's official “Badge Library” lists “Badges” that are available for Partners to earn in recognition of their skills, talents, capacities, and achievements. Each Badge definition must include a description of the skill, talent, capacity, or achievement that the Badge represents, and may optionally include a process or another mechanism for Partners to gain the Badge and/or lose the Badge.
@@ -199,9 +261,13 @@ The Badge grant will automatically expire 6 months after grant, unless renewed v
 If a Partner from their own personal preference chooses not to spend significant time in some area of work then that Partner looses the badges relating to that area of work. If a Partner does not spend significant time in a Role to align with Organizational priorities and not by personal preference, the partner does not loose badges.
 
 ##### Policy: Badge Valuation
-The "Badge Valuation Database" is a listing of specific sets of Badges, with each set mapped to a specific compensation tier using the tiers defined by Compensation Architect. The full-time compensation level for a Partner may only be set at the highest tier that matches a set of Badges the Partner holds (or the pro-rated equivalent for a part-time commitment).
+The "Badge Valuation Database" is a listing of specific sets of Badges, with each set mapped to a specific compensation level using the levels defined by Compensation Architect.
 
-Compensation changes for Partners can only take effect in quarterly batches, after dividend pay.
+The full-time compensation level for a Partner may only be set at `80% + (glue value) - (investment)` of the `personal market compensation benchmark` or the prorated equivalent for a part-time commitment. The `personal market compensation benchmark` is the highest pay level that matches a set of Badges the Partner holds. `glue value` may only be between 0 and 20%. In the normal case the `investment` is 20%.
+
+ Any Partner who is financially responsible for another person may choose to reduce their `investment` in the company from 20% to 10%. In this case their `investment` for the liquid ownership calculation may only be treated as the 10% they invest in the company, without any adjustments.
+
+Compensation changes for Partners may only take effect in quarterly batches, after dividend pay.
 
 The Badge Valuation Database may only be modified via a Proposal that results in no Objections from all @Compensation_Guardian's, using the Integrative Decision-Making Process. This Proposal may be made asynchronously to just the @Compensation_Guardian's, using the Constitution's rules for asynchronous processing, or via a special "Badge Valuation Meeting" scheduled by any Partner. All @Compensation_Guardian's must be invited to this meeting, as well as this Circle's elected Facilitator, and it may only be scheduled for 30 minutes. A majority of the @Compensation_Guardian's must attend for the meeting to proceed, and even with a majority it may not proceed if any @Compensation_Guardian requests a reschedule.
 
@@ -212,31 +278,27 @@ Through the process defined above, the valuation tied to any Badge set may be lo
 ##### Policy: Transitioning to Badge-Based Compensation
 Any role extending offers for new Partners to join the Organization may give those new Partners an initial compensation level based on a set of Badges the role-filler assumes the new Partner is likely to earn (additional governance may define or limit this authority further). Partner's compensation may not drop below this initial tier placement for a period of 3 months after joining the Organization (except due to a shift to a part-time relationship or removal from the Organization).
 
-Partners who joined the company before the roll-out of the Badge-based Compensation System may opt to keep their compensation level calculated under the old system until a badge matching the previous category and seniority level is provided for them.
-
-##### Policy: Part-time
-- If you are an `x%` part-time employee in the Lab, you get `x%` pay and `x%` ownership.
-- You can't go above 100%
+Partners who joined the company before the roll-out of the Badge-based Compensation System may opt to keep their compensation level calculated under the old system until they have enough Badges to provide a comparable or greater compensation level under the new system.
 
 ##### Policy: Part-time ratio retroactive adjustments
-If your commitment was `x%` part-time but you spent significantly more `y%` of your efforts on the Lab you can retroactively adjust your part-time ratio.
+A role may only grant extra compensation to a Partner who has an `x%` part-time agreement but spent significantly more `y%` of their energy in the company during a period if
+- `y%` is not greater than 100%
+- A and B agree that during the period the Partner has performed as if the Patner were in a `y%` commitment to the company (where A and B are the two partners in the Company who the Partner most worked with),
+- the Partner has signed an employment contract on `y%` part-time,
+- the period starts after the last divident pay.
 
-You may only change your part-time ratio
-- with the explicit support of the two people you most worked with,
-- only after you signed a new employment contract on `y%` part-time,
-- for periods after last divident pay.
+## Domain of Secretary: All constitutionally-required records of the Circle
 
-##### Policy: Salary process
-Assessments based on Level and Glue indicators.
- 1. self assessment
- 2. peer feedback with name (you'll only see your responses)
- 3. no more edits/responses, results internally published
- 4. display results + pitch + questions
- 5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
+#### Policy: PP tactical board
 
-##### Policy: Peer review frequency
-Peer reviews are every 3 months after the divident payments.
+Any role in the circle may capture their outcomes on the Board given you prefix the name with a ✪ symbol. Sub-circles may also link outcomes of the circle they want to be transparent about. No role may capture Next actions or general areas of work on the board.
 
-##### Policy: Learning - FedExDay
-There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd month. (First occasion: 2015-07-03) Every kind of project is welcomed (does not have to be Lab related). The teams have to arrive with a proposal and deliver the full project at the end of the day.
+## Notes
+- Bootcamp process template: https://app.asana.com/0/45872219775035/list
 
+##### Note: Probation time and ownership cliff
+- Probation time is 3 months, when it comes to ownership there is a one year cliff.
+- After probation time, each partner gains access to company credit cards.
+
+##### Note: Employee money
+Compensation formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1Szta4qwa2yZlb4M8jZbOpJ7t1ZFREmOJ4NS-q3WTtyI/edit#gid=118044564
