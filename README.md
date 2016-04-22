@@ -311,7 +311,6 @@ Accountability:
  - Coordinating with Biz analyst and Resource manager
  - Making offers
  - Pitching how we work
- - Matching the estimation with: client resources - Lab.Coop resources - time frame
  - Rating client
  - Capturing client complaints and giving feedback to the team, when approached by the client with team issues
  - Overseeing all client leads
@@ -433,11 +432,12 @@ Accountabilities:
 
 Purpose:
 - Smooth client projects
+- Matched human resources and projects
 
 Accountability:
 - Handling escalations from product clients or product teams
 - Assigning Partners to the Circle’s Product Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit.
-- Matching resources with projects
+
 
 ### KodGarazs Teacher - Jeszi, Bán Marci
 
