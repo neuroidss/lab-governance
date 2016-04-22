@@ -661,6 +661,11 @@ Each product development role must:
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
 4. Any core circle member can merge the pull request if there are no objections in the given period.
 
+
+##### Policy: Co-ownership and compensation Slides
+Only edit the [Co-ownership and compensation Slides](https://docs.google.com/presentation/d/1UtY2qj4aU0jCzbaAzH2JaUCWdzSfluWCg6AL22MOd_8/edit)
+if you add a comment about what you changed next to the slide you modified.
+
 ##### Policy: Long policies
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy is complex than pre-governance discussions are preferable.
 
