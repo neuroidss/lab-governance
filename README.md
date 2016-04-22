@@ -1,17 +1,55 @@
 # Lab (TLC - Top Level Circle)
 
-Purpose: Building Ventures. Together.
+Purpose:
 
+As an umbrella organization of an agency, venture builder, school, consulting branches and more: Building Ventures. Together.
+As a digital product agency: Successful, scalable, usable digital products with happy owners and users.
 
 ## ROLES
 
 ### Lead Link - Petak
-### Facilitator - Cassus
-### Secretary - Dani
-Accountabilities:
- - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
- - Keeping governance records accurate language-wise.
- - Making guidelines what should be in the TLC tactical board
+**Purpose:**
+_The Lead Link holds the Purpose of the overall Circle._
+
+**Domains:**
+
+- Role assignments within the Circle
+
+**Accountabilities:**
+
+- Structuring the Governance of the Circle to enact its Purpose and Accountabilities
+- Assigning Partners to the Circle’s Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit
+- Allocating the Circle’s resources across its various Projects and/or Roles
+- Establishing priorities and Strategies for the Circle
+- Defining metrics for the circle
+- Removing constraints within the Circle to the Super-Circle enacting its Purpose and Accountabilities
+
+_The Lead Link also holds all un-delegated Circle-level Domains and Accountabilities._
+
+### Facilitator - Anikó (mandate: 8 July 2016)
+
+**Purpose:** Circle governance and operational practices aligned with the Constitution.
+
+**Accountabilities:**
+
+- Facilitating the Circle’s constitutionally-required meetings
+- Auditing the meetings and records of Sub-Circles as needed, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
+
+### Secretary - Cassus (mandate: 8 July 2016)
+**Purpose:** Steward and stabilize the Circle’s formal records and record-keeping process.
+
+**Domains:**
+
+- All constitutionally-required records of the Circle
+
+**Accountabilities:**
+
+- Scheduling the Circle’s required meetings, and notifying all Core Circle Members of scheduled times and locations
+- Capturing and publishing the outputs of the Circle’s required meetings, and maintaining a compiled view of the Circle’s current Governance, checklist items, and metrics
+- Interpreting Governance and the Constitution upon request
+- Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
+- Keeping governance records accurate language-wise.
+- Making guidelines what should be in the TLC tactical board
 
 ### Admin - István
 Purpose:
@@ -25,7 +63,7 @@ Accountabilities:
  - Client admin
  - Financial admin
  - Send and pick up post
- - Booking hotels, flights, trains, conference tickets etc. based on the provided travel preferences and information. Partners do not have to use this service, but it is the partner's responsibility to book as early as possible to avoide overprice.
+ - Booking hotels, flights, trains, conference tickets etc. based on the provided travel preferences and information. Partners do not have to use this service, but it is the partner's responsibility to book as early as possible to avoid overprice.
 
 Domains:
  - Paperwork
@@ -34,7 +72,6 @@ Domains:
 Purpose: todo
 
 Domains:
-- Ownership system
 - Social and environmental responsibility (CSR) strategy and mindset
 
 ### Mr. Wolf - Peták
@@ -43,22 +80,24 @@ Purpose:
 - Everything can be broken, but everything can be fixed
 
 Accountabilities:
- - Engaging on request, invited by any Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon.
+ - Engaging on request, invited by any Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situation.
 
 Domains:
-- Action plan, if invited by a Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situatuon
+- Action plan, if invited by a Role, in situations, which are hard to resolve, risky and complex, moreover require quick and holistic understanding of the situation
 
-### Resource clarity - Marci Banyo
+### Resource clarity - Marci Banyo, Istvan
 Purpose:
 - Clarity on our commitments and available resources
 
 Accountabilities:
 - Tracking allocation information
-- Giving info to biz for return calibaration
+- Giving info to Finance role for return calibration
 - Setting up and running time tracking system
 - Tracking role based time allocation and reporting on request
 - Making dedicated time clear
 - Planning company-wide and national holidays and sending calendar invites to everyone
+- Tracking sales leads for their future resource needs
+- Tracking holidays, sick leaves and learning time
 
 Domains:
 - Company-wide time tracking system
@@ -68,32 +107,31 @@ Domains:
 ### Biz - Petak
 
 Purpose:
-- Financial stability
+- Stable business
+- Sustainable business
 
-Accountatabilities:
+Accountabilities:
 - Creating and keeping the business plan
-- Planning and keeping cash-flow
-- Deciding about non-human insurance plans
 - Making business model
+- Deciding on all spending over 3000 EUR to secure the business
 
 Domains:
 - Business plan and model
 - Pricing
-- All company budgets to secure the cash-flow
 - Investment
 
 ### Biz Dev - Petak
 
 Purpose:
 - Good business relations with other companies
-- Strong partnerships
+- Strong business partnerships
 
 Accountabilities:
-- Managing the consurtium
+- Managing the consortium
 - Establishing business partnership
 
 Domains:
-- Partnerships
+- Business partnerships
 
 ### Finance and Controlling - István
 
@@ -110,11 +148,15 @@ Accountabilities:
 - Managing every financial issue
 - Financial transactions
 - Settling SplitWise balances between Company and Partners
-- Handling Paypal, Transferwise and any other online payment system in use
+- Handling PayPal, Transferwise and any other online payment system in use
 - Reimbursing
 - Dealing with the bank
 - Securing our financial operations and tax payments
 - Developing and operating financial and controlling processes
+- Planning and keeping cash-flow
+- Deciding about non-human insurance plans
+- Deciding on all spending over 200 EUR to secure the cash-flow
+- Tracking approved future spending in the CashFlow
 
 Domains:
 - Accountant
@@ -128,23 +170,22 @@ Domains:
 ### Corporate lawyer - Nora Kiss
 
 Purpose:
-- Keep the company safe
+- Legally safe company and Legal representative
 - Well written contracts
 
 Accountabilities:
 - Making sure that accounting and financial practices are legal
 - Reviewing, writing legal documents
 - Supporting negotiations
+- Supporting Legal representative
+- Managing the company's legal operations
 
 Domains:
-- Text of contracts (both internal and external)
 
 
 ### Legal representative - Peták
 
-Purpose:
-- Legal operations
-- Match business needs and legal documentation
+Purpose: Well matched business needs and company legal safety
 
 Accountabilities:
 - Final reviewing and signing contracts
@@ -160,6 +201,7 @@ Accountabilities:
 Domains:
 - Choose corporate lawyer
 - Signatory right
+- Legal decisions, especially the text of any contract on behalf of the company
 
 
 ### OrgDev Consulting Branch - Cassus
@@ -176,12 +218,12 @@ Domains:
 
 ### Venture builder - Peták, Feri
 Purpose:
-- Building Scaleable Tech Ventures
+- Building Scalable Tech Ventures
 
 Accountabilities:
 - Facilitating idea pitches and hackathons
 - Helping the product team: to validate ideas, build MVP tests, make business model, find resources
-- Making spin-off business modell
+- Making spin-off business model
 - Establishing acceleration / incubation program
 - Fundraising
 
@@ -213,7 +255,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supply -Jeszi, István
+### Office and Supply - Jeszi, Aniko, Istvan
 
 Purpose: Unspecified
 
@@ -221,10 +263,9 @@ Accountabilities:
 - Buying food, medicine, hygiene products, office equipment to the office (Tesco)
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
-- Landloard realtions
+- Landlord relations
 - Providing access to company food
-- Ordering tech devices and services
-- Managing Dell waranty service, CHS, UPS etc relations
+- Ordering non-tech devices and services
 
 Domains:
 - Office hygiene and safety
@@ -233,15 +274,29 @@ Domains:
 
 ### Tech Support - Jeszi
 
-Purpose: Unspecified
+Purpose:
+- Seamless tech work environment
 
 Accountabilities:
 - Fixing tech stuff around office: TV, wifi, printer, updating computers
 - Managing tech infrastructure
 - Removing the accounts of people who leave the company
+- Ensuring that the Partners only use legal software
+- Facilitating the usage of FOSS
+- Recharging rechargeable batteries
+- Taking used batteries to the appropriate dangerous waste deposit
+- Making the accounts of Partners who join the company
+- Removing the accounts of Partners who leave the company
+- Supporting the Partners with any technical challenge they face
+- Managing the purchase of tech equipment
+- Having fall back phones, screens and laptops (min 1 fall back from each / 20 partner)
+- Managing the reparation of any device
+- Keeping track of warranty documents and managing warranty services
+- Ordering non-tech tech devices and services
+- Managing CHS relations
 
 Domains:
-- Choosing the best fit devices and service for each usecase
+- Choosing the best fit devices and service for each use case
 
 
 ### Sales - Petak
@@ -256,12 +311,12 @@ Accountability:
  - Generating leads
  - Converting leads
  - Negotiating contract / terms and conditions
- - Cordinating with Biz analyst and Resource manager
+ - Coordinating with Biz analyst and Resource manager
  - Making offers
  - Pitching how we work
- - Matching the estimation with: cilent resources - Lab.Coop resources - timeframe
+ - Matching the estimation with: client resources - Lab.Coop resources - time frame
  - Rating client
- - Capturing client complaints and giving feedback to the team, when approached by the client with team isssues
+ - Capturing client complaints and giving feedback to the team, when approached by the client with team issues
  - Overseeing all client leads
 
 Domain:
@@ -276,9 +331,9 @@ Accountability:
  - Supporting sales
  - Defining service product (for example the MVP)
  - Creating initial product backlog and roadmap
- - Understing the code, its quality and stage compared to initial product backlog
+ - Understanding the code, its quality and stage compared to initial product backlog
  - Proposing initial stack / architecture
- - Analizing client's product
+ - Analyzing client's product
  - Rating client
  - Applying to jobs to start converting the recruiting company into clients
 
@@ -316,14 +371,13 @@ Domain:
 
 Purpose:
 - Great owner of GreenFox Academy
-- Help GreenFox Academy to be a great and profitable educational venutre
+- Help GreenFox Academy to be a great and profitable educational venture
 
 Accountabilities:
 - Planning Greenfox Academy strategy
 - Approving financial reports
 - Accounting financial and human investment
 - Helping GreenFox Lead Link
-- Supporting GreenFox Academy's sales and business development efforts
 - Developing GreenFox Academy education design strategy
 
 Domains:
@@ -337,15 +391,19 @@ Purpose:
 - Make 50 USD / h in long, 70 USD / h in short term projects
 
 Accountabilities:
-- Teaching at GreenFox Academy
-- Participating in sales events
-- Developing GreenFox Academy education design
-- Tracking time spent per project
-  in the spreadsheets linked in the asana project cards
+- Teaching at GreenFox Academy (Junior, Gawker, Tech4Biz etc.)
 
-Domains:
-- What and how to teach (syllabus)
- 
+Domain:
+
+### GreenFox Academy Sales & BizDev - Peták
+
+Purpose:
+
+Accountabilities:
+- Supporting GreenFox Academy's sales and business development efforts
+
+Domain:
+
 ### New Office - Peták, Anikó
 
 Purpose:
@@ -369,10 +427,29 @@ Purpose:
 - Well spent developer time
 
 Accountabilities:
-- Contributing to the open source eco-system
-- Writing blogposts
+- Contributing to the open source ecosystem
+- Writing blog posts
 - Learning things that could be useful for further projects
 - Pitching their free time to LLs
+
+### Product Resource Manager
+
+Purpose:
+- Smooth client projects
+
+Accountability:
+- Handling escalations from product clients or product teams
+- Assigning Partners to the Circle’s Product Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit.
+
+### KodGarazs Teacher - Jeszi, Bán Marci
+
+Purpose:
+-Deliver great education
+-Happy and skilled kids
+
+Accountabilities:
+-Teaching at KodGarazs
+
 
 ### Visibler - Erik, Viktor
 Purpose:
@@ -390,25 +467,6 @@ Accountabilities:
 Domain:
 - Visibl client relationship
 - technical resources of the Visibl project, including code and 3rd party services
-
-### Shiwaforce - Dani Nagy
-
-Purpose:
-- Satisfied Shiwaforce
-- Earn money
-- Upselling
-- User acquisition
-
-
-Accountability:
-- Making channel copy tests
-- Following the client contract
-- keeping contact and communicating with the client (first point of contact)
-- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
-- notifying sales if upsell or conflict resolution is needed
-
-Domain:
-- Client relations
 
 
 ### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták
@@ -431,14 +489,38 @@ Domain:
 
 ### Stream.it dev - Aze, Ryan, Marci Bán
 
-Purpose: 
-- fullfil client contract expecations
+Purpose:
+- fulfill client contract expectations
 
-Accountability: 
+Accountability:
 - Following the client contract
 - Keeping contact and communicating with the client (first point of contact)
 - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - Notifying sales if upsell or conflict resolution is needed
+
+Domain:
+
+### VSE - Deme Dani, Nagy Dani, Peták
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### VideoQuest - Nagy Dani
+
+Purpose:
+
+Accountability:
+
+Domain:
+
+### Konetik - Nagy Dani
+
+Purpose:
+
+Accountability:
 
 Domain:
 
@@ -493,31 +575,27 @@ Purpose: The right amount of right people, who love to work together, efficientl
 
 Accountabilities:
 - Explaining ownership and Partner compensation system
-- Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
+- Keeping the onboaring process (including relevant materials) up-to-date, assigning roles to the steps of the process
 - Fulfill human resource needs of the organization
 - Facilitating team learning
 - Onboarding to tools we use (Asana, Slack, Google Drive...)
 - Proposing changes to the Ownership system
-- Conductng orderly peer-reviews
+- Conducting orderly peer-reviews
 - Organizing team retreats
 - Facilitating team learning
 - Coaching people out of underperformance
 - Coaching partners in GTD on request
+- Following up with Partners on sick leave about the Partner's health status and expected next work day
 
 Domains:
-- Employee/Partner compensation
-- Salary system and peer-reviews
-- Bootcamp
-- Probation time
-- Use of recruiter
-- Hiring and firing process
+- Partner & Owner relations (except text of contracts)
 
 ### Marketing-PR - Dani
 
 #### Purpose
 - Having continuous good reputation and reach
 - Inbound leads through good reputation
-- Strong brand (business, emloyer, professional branding)
+- Strong brand (business, employer, professional branding)
 
 #### Accountabilities
 - Blogging
@@ -530,12 +608,15 @@ Domains:
 
 ## Domain: Client work
 
-##### Policy: Third party client licenses
-On all client and venture building projects the role / circle needs to maintain a list of the used third party services and code licenses, including open soruce licenses, for example GNU, GPL, etc. This policy automatically gives an accountability to each client and venture building project. Except if a client explicitly states in writing that there is no need for this.
+##### Policy: Product Roles assignment
+Product Resource Manager role can assign Circle's Product Roles.
 
-##### Policy: Bugfixing for clients
+##### Policy: Third party client licenses
+On all client and venture building projects the role / circle needs to maintain a list of the used third party services and code licenses, including open source licenses, for example GNU, GPL, etc. This policy automatically gives an accountability to each client and venture building project. Except if a client explicitly states in writing that there is no need for this.
+
+##### Policy: Bug fixing for clients
 Risk of bugs is managed in the planning phase preferably.
-When time is needed for bugfixing it is communicated towards clients transparently, and financially dealt with according to the contract.
+When time is needed for bug fixing it is communicated towards clients transparently, and financially dealt with according to the contract.
 
 ##### Policy: Client relations
 Each project has a single lead responsible for the relationship.
@@ -549,7 +630,7 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project.
 
 ##### Policy: FTE definition
-FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave.
+FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month.
 
 ##### Policy: Human resource dedication
 - Partners can be dedicated to work on a Client projects
@@ -561,7 +642,7 @@ FTE, full time employee is a measurement unit, it could be one or more person an
   - Legal representative
   - HR Circle LL
   - Resource Clarity
-  
+
 - Permission is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
@@ -575,7 +656,7 @@ FTE, full time employee is a measurement unit, it could be one or more person an
 ##### Policy: Client communications, quality assurance, bug handling
 Each product development role must:
 - Define bug priorities with the client. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
-- More, than 50% of the team can only go on holidays + training + sickleave , if it is pre-approved by the client.
+- More, than 50% of the team can only go on holidays + training + sick leave , if it is pre-approved by the client.
 - Follow the client contract
 - Keeping contact and communicating with the client (first point of contact)
 - Share an up to date contact list
@@ -594,7 +675,8 @@ Each product development role must:
 2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance. You can mark the requests on the GitHub by comments.
    - You can show your support with :+1: ( that is _colon_ + "+1" + _colon_ )
    - If you have a Clarifying Question and it block you from deciding if you have an Objection mark your question with :question: ( that is _colon_ + "question" + _colon_ ). This blocks the proposal until the proposer clarifies.
-   - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current form of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
+   - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that you see a reason why adopting the current form of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
+   - At any point before an asynchronous Proposal is adopted, any Core Circle Member may stop the asynchronous processing by adding a with :boom: ( that is _colon_ + "boom" + _colon_ ) mark requesting the Proposer escalate the Proposal to a Governance Meeting.
    - If you had have questions and/or objections, and those got resolved, you need to mark the proposal good-to-go by :white_check_mark: (that is  _colon_ + "white_check_mark" + _colon_ ).
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
@@ -605,6 +687,9 @@ Policy proposals longer than 10 sentences must be shared at least 48h before the
 
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/33571529181923/list) for top level circle boards
+Checklist: Never mark checklist items as completed.
+Projects: Only outcomes are recorded on TLC tactical board as a project. Next actions are not recorded on the TLC board. Projects of sub-circles (that are relevant for update on the TLC level) should be linked to the TLC board, as well.
+
 
 ##### Policy: Vacation and Learning Time Limit
 If you are sold to a client, you can schedule additional vacation / learning time if the 3 month moving average of holidays that only exist in Hungary, vacation time, learning time, and sick leave, is within the bounds of the [FTE definition](#policy-fte-definitions).
@@ -613,7 +698,7 @@ If you are sold to a client, you can schedule additional vacation / learning tim
 - Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
 - Mark everything in your calendar as soon as you're aware of it.
 - Holidays / Learning Time self-approval check-list to make your absence safe
- - I've notified all my circle-mates over Slack not later then 2x workdsays of its length, but minimum 5 workdays and there was no objection
+ - I've notified all my circle-mates over Slack not later then 2x workdays of its length, but minimum 5 workdays and there was no objection
  - There is no big/key release, milestone, contract, meeting, which require me
  - There is no project start / end, which involves me
  - I have notified the resource clarity role.
@@ -621,12 +706,12 @@ If you are sold to a client, you can schedule additional vacation / learning tim
  - If needed, there is someone to take my Role or Task over, who I have exactly told what to do and what did I agree with the involved Roles or Client etc. with. If there is a substitute it's added to Github to the header of the given role.
  - The fellow partners' holidays and planned sick leaves are not in conflict with mine
  - In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
-- Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
+- Sick leave: notify ASAP and keep others up-to-date about your how being and expected first day of work.
 - Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
 - In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but can be declined, if your plan is not safe to fail.
 
 ##### Policy: Work hours
-We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
+We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responsibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
 
 
 
@@ -636,14 +721,14 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 ##### Policy: Business cost reimbursement
 - All costs during a business travel should be covered, including food, transportation, accommodation, representation costs.
 - Preferably paid by a company bank card. Always provide invoices.
-- Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
+- Costs of business meeting (coffees / lunches / dinners / beers etc.) and beer dates can be fully reimbursed.
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
 - Up to 170 EUR + VAT / Full time Partner / month (incl. travel costs), 2040 EUR + VAT / Full Time Partner / year
 - Part time Partners can spend in proportion to their % of full time employment
 - A Partner's budget can be cummulated, so if a Partner does not use his/her budget in the given month or year, it can be used later on
-- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Biz role in order to secure cash flow
+- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Finance role in order to secure cash flow
 - Get an invoice for the company. Pay by company card/transfer if possible.
 - Learning budget includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
@@ -663,12 +748,12 @@ Services
  - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
  - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
- - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
+ - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes. However, the company only covers high-way tolls and parking costs, if the Partner was on business dutie, otherwise, if any of those was paid with the company cell phone, it needs to be reimbursed.
  - VOIP to make cheaper calls abroad.
 Above ones are NOT available for part time or during probation time.
  - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
- - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
+ - You can order all the purchase any software and SAAS you need for your work.
  - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
 
 Devices
@@ -685,7 +770,6 @@ Above ones are NOT available for part time or during probation time.
 Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
 
 ##### Policy: Company purchases
-- If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
 - After the probation time any partner can access and use the company credit cards.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Partners may _not_ combine their budgets to purchase something more expensive together
@@ -693,6 +777,15 @@ Prey application has to be installed on each and every company cell phones and l
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 - Track all your payments with company invoice here. https://goo.gl/iVkFfA Make sure that you also follow the related SplitWise policy.
+
+Partners can make purchaes on behalf of the company if they get YES answers to all the below questions:
+- Have I asked all the relevant roles and Partners for input?
+- Do we really need this?
+- Will this move our organization forward?
+- Am I ok with not getting the proportion of this money as divident?
+- Is it a good investment?
+- If above 200 EUR, has it been approved by the Finance and Controlling role cash flow wise?
+- If it is above 3000 EUR, has it been approved by Biz role?
 
 ##### Policy: Purchases with company invoice
 You can invoice the company for the below things (service, devices):
@@ -717,7 +810,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - You have to use 'LabCoop' group for all your payments
 - Use the following prefixes in each expense report, which involves Supercluster: office food, office, pr, travel, sales / biz dev, hr. For example "[office food] sör".
 - Do not add costs to Splitwise, which have been paid with company card / cash
-- Only use HUF in Splitwise, covert all other on mid conversion price
+- Only use HUF in Splitwise, convert all other on mid conversion price
 
 ##### Policy: Company CSR
 - Every partner has 100 EUR each year to spend on any CSR activities or charity
@@ -728,7 +821,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
 ##### Policy: Gigs
-- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company.
+- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company, except agreed otherwise (for example for part-time Partners).
 
 
 
@@ -799,7 +892,7 @@ Make sure every week, before the tactical meeting, that all your cards are up-to
 Comment on cards what you tell on tactical as update.
 
 ##### Policy: Copyright Compliance
-Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy. https://github.com/lab-coop/lab-governance#policy-company-purchases
+Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works (especially media content and software) on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy and consult with the Tech Support Role, if needed. https://github.com/lab-coop/lab-governance#policy-company-purchases
 
 ##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
@@ -867,3 +960,16 @@ No one can use the petty cash without permission from the Finance and Controllin
 ## Domain of Biz: Relocation cost coverage for new Partners
 - Flight
 - Health insurance until not being employed do the visa application process, but is already in Hungary
+
+## Domain of Secretary: All constitutionally-required records of the Circle
+##### Policy: TLC tactical board
+Any role in the circle may capture their outcomes on the Board given you prefix the name with a ✪ symbol. Sub-circles may also link outcomes of the circle they want to be transparent about.
+No role may capture Next actions or general areas of work on the board.
+
+## Notes
+### Note about domain Partner & Owner relations
+While the company has a domain over the companie's part of these relations, these relations are still by nature mostly legal agreements between the different parties and also subject to hungarian law.
+- Partner relations and more specificly employee relations are framed by employee agreements and the hungarian employment law "Munka törvénykönyve"
+- Owner relations are framed by the Syndicate Agreement and Articles of Association.
+- High level ownership questions are decided by the majority shareholders.
+- The following power structures (from strongest to lowest power in the following order) regulate all our Partner & Owner relations: 1. labour, civil, corporate etc. law; 2. Articles of Association 3. Syndicate Agreement 4. Employment Agreement 5. Governance (Holacracy).
