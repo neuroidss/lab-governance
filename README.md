@@ -680,22 +680,21 @@ Projects: Only outcomes are recorded on TLC tactical board as a project. Next ac
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company purchases
-- After the probation time any partner can access and use the company credit cards.
-- Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
-- Partners may _not_ combine their budgets to purchase something more expensive together
-- Preferably paid by a company bank card. Always provide invoices. Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
-- Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
-- Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
-- Track all your payments with company invoice here. https://goo.gl/iVkFfA Make sure that you also follow the related SplitWise policy.
+Any Role may spend company money if
+- You think we really need this
+- You think this would move our organization forward
+- You think it's a good investment
+- You would be okay with not getting the proportion of this money as divident
+- You have asked all the relevant roles and Partners for input?
+- If above 200 EUR, you have approval from the Finance and Controlling role cash-flow wise
+- If above 3000 EUR, you have approval from Biz role
+- You have a next action to add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
+- Have a next action to give the invoice to the Finance role and upload it to the Google Drive (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 
-Partners can make purchaes on behalf of the company if they get YES answers to all the below questions:
-- Have I asked all the relevant roles and Partners for input?
-- Do we really need this?
-- Will this move our organization forward?
-- Am I ok with not getting the proportion of this money as divident?
-- Is it a good investment?
-- If above 200 EUR, has it been approved by the Finance and Controlling role cash flow wise?
-- If it is above 3000 EUR, has it been approved by Biz role?
+Company credit cards may only be used by Partners after their probation time. (You can use Splitwise)
+
+- Partners may _not_ combine their budgets to purchase something more expensive together.
+
 
 ##### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
