@@ -290,7 +290,7 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - Up to 170 EUR + VAT / Full time Partner / month (incl. travel costs), 2040 EUR + VAT / Full Time Partner / year
 - Part time Partners can spend in proportion to their % of full time employment
 - A Partner's budget can be cummulated, so if a Partner does not use his/her budget in the given month or year, it can be used later on
-- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Biz role in order to secure cash flow
+- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Finance role in order to secure cash flow
 - Get an invoice for the company. Pay by company card/transfer if possible.
 - Learning budget includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
@@ -315,7 +315,7 @@ Services
 Above ones are NOT available for part time or during probation time.
  - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
- - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
+ - You can order all the purchase any software and SAAS you need for your work.
  - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
 
 Devices
@@ -355,6 +355,13 @@ In case you work part-time share your other work calendar's free-busy status and
 
 Give permission to co-workers to modify your business calendar.
 
+##### Policy: Company CSR
+- Every partner has 100 EUR each year to spend on any CSR activities or charity
+- Every partner has yearly one day to spend on any, freely choosen CSR activity
+- Pick your cause, aim, organization as you think it is the best way to help an important aim
+- Splitwise your cost with Supercluster for the reimbursment
+- List your spending in CSR Cost and Time Tracking https://goo.gl/5VOOi8
+
 ##### Policy: Personal data + Contact sheet
 Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
 
@@ -383,8 +390,6 @@ Since the disagreement is private, all parties are expected to respect confident
  1. If mediation fails, a panel of topic-relevant colleagues is convened. The panel’s role, again, is to listen and help shape agreement. It cannot force a decision, but usually carries enough moral weight for matters to come to a conclusion.
 
  1. In an ultimate step, the Top Level Circle Lead Link, can be called into the panel, to further reinforce the panel’s moral weight (but not to impose a solution).
-
-
 
 ## Domain: Recruitment Pipeline in Asana
 ### Policy: Recruitment Pipeline in Asana

@@ -1,7 +1,9 @@
 # Lab (TLC - Top Level Circle)
 
-Purpose: Building Ventures. Together.
+Purpose:
 
+As an umbrella organization of an agency, venture builder, school, consulting branches and more: Building Ventures. Together.
+As a digital product agency: Successful, scalable, usable digital products with happy owners and users.
 
 ## ROLES
 
@@ -105,18 +107,17 @@ Domains:
 ### Biz - Petak
 
 Purpose:
-- Financial stability
+- Stable business
+- Sustainable business
 
 Accountabilities:
 - Creating and keeping the business plan
-- Planning and keeping cash-flow
-- Deciding about non-human insurance plans
 - Making business model
+- Deciding on all spending over 3000 EUR to secure the business
 
 Domains:
 - Business plan and model
 - Pricing
-- All company budgets to secure the cash-flow
 - Investment
 
 ### Biz Dev - Petak
@@ -152,6 +153,10 @@ Accountabilities:
 - Dealing with the bank
 - Securing our financial operations and tax payments
 - Developing and operating financial and controlling processes
+- Planning and keeping cash-flow
+- Deciding about non-human insurance plans
+- Deciding on all spending over 200 EUR to secure the cash-flow
+- Tracking approved future spending in the CashFlow
 
 Domains:
 - Accountant
@@ -165,23 +170,22 @@ Domains:
 ### Corporate lawyer - Nora Kiss
 
 Purpose:
-- Keep the company safe
+- Legally safe company and Legal representative
 - Well written contracts
 
 Accountabilities:
 - Making sure that accounting and financial practices are legal
 - Reviewing, writing legal documents
 - Supporting negotiations
+- Supporting Legal representative
+- Managing the company's legal operations
 
 Domains:
-- Text of contracts (both internal and external)
 
 
 ### Legal representative - Peták
 
-Purpose:
-- Legal operations
-- Match business needs and legal documentation
+Purpose: Well matched business needs and company legal safety
 
 Accountabilities:
 - Final reviewing and signing contracts
@@ -197,6 +201,7 @@ Accountabilities:
 Domains:
 - Choose corporate lawyer
 - Signatory right
+- Legal decisions, especially the text of any contract on behalf of the company
 
 
 ### OrgDev Consulting Branch - Cassus
@@ -672,7 +677,6 @@ Projects: Only outcomes are recorded on TLC tactical board as a project. Next ac
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company purchases
-- If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
 - After the probation time any partner can access and use the company credit cards.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Partners may _not_ combine their budgets to purchase something more expensive together
@@ -680,6 +684,15 @@ Projects: Only outcomes are recorded on TLC tactical board as a project. Next ac
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 - Track all your payments with company invoice here. https://goo.gl/iVkFfA Make sure that you also follow the related SplitWise policy.
+
+Partners can make purchaes on behalf of the company if they get YES answers to all the below questions:
+- Have I asked all the relevant roles and Partners for input?
+- Do we really need this?
+- Will this move our organization forward?
+- Am I ok with not getting the proportion of this money as divident?
+- Is it a good investment?
+- If above 200 EUR, has it been approved by the Finance and Controlling role cash flow wise?
+- If it is above 3000 EUR, has it been approved by Biz role?
 
 ##### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
@@ -693,11 +706,6 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - Only use HUF in Splitwise, convert all other on mid conversion price
 
 ##### Policy: Company CSR
-- Every partner has 100 EUR each year to spend on any CSR activities or charity
-- Every partner has yearly one day to spend on any, freely choosen CSR activity
-- Pick your cause, aim, organization as you think it is the best way to help an important aim
-- Splitwise your cost with Supercluster for the reimbursment
-- List your spending in CSR Cost and Time Tracking https://goo.gl/5VOOi8
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
 ## Domain: other Company-Wide policies (mandatory by default for all roles and circles)
