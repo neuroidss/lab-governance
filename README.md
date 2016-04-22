@@ -584,6 +584,7 @@ Accountabilities:
 - Coaching people out of underperformance
 - Coaching partners in GTD on request
 - Following up with Partners on sick leave about the Partner's health status and expected next work day
+- Tracking compensation parameters and Partner investment historically
 
 Domains:
 - Partner & Owner relations (except text of contracts)
