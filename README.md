@@ -649,6 +649,9 @@ Each product development role must:
  - Proposals are announced and written down in English.
  - Put your proposal in words before the governance meeting in a Pull Request.
 
+##### Policy: Free floating developers
+Any Partner can add or remove a Free Floating Developer role assignment to themselves.
+
 ##### Policy: Async governance process (TLC)
 1. Create a pull request from your proposal. Put your tension in the description of the pull request.
 2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance. You can mark the requests on the GitHub by comments.
