@@ -627,7 +627,17 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project.
 
 ##### Policy: FTE definition
-FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month.
+FTE, full time employee, is a measurement unit that indicates the amount of work performed by one Lab.Coop partner who is dedicated in a "full-time" capacity to a client project.
+
+In general, this "full-time" dedicatation, as a guideline, means on average 80% of that partner's total Lab.Coop capacity, leaving an unallocated 20% to encompass governance, learning, and sick-leave.
+
+Thus, this means that any given Lab.Coop partner who is dedicated to a client as an FTE works on average:
+- For the client: **4** days / week, **8** billable hours / day, **128** hours / month.
+- On governance + learning + sick-leave: **1** day / week, **8** hours / day, **32** hours / month.
+
+However, it is the *client teams' responsibility* to communicate with the client over how this guideline is to be implemented (e.g., does the team work Mon.-Thurs. 8 hours / day?, or Mon.-Fri. 6.4 hours / day?, etc.).
+
+Also, how time-boxing / daily timesheets are used to implement this FTE guideline (and invoice the client appropriately) is also the client teams' and their client's decision, although they must fulfill all obligations specified in their particular client contract.
 
 ##### Policy: Human resource dedication
 - Partners can be dedicated to work on a Client projects
