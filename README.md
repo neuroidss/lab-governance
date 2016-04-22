@@ -679,33 +679,36 @@ Projects: Only outcomes are recorded on TLC tactical board as a project. Next ac
 - Costs of business meeting (coffees / lunches / dinners / beers etc.) and beer dates can be fully reimbursed.
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
+##### Policy: Company credit cards
+Don't give access to the company credit cards to a Partner before their probation time is over.
+
 ##### Policy: Company purchases
 Any Role may spend company money if
 - You think we really need this
 - You think this would move our organization forward
 - You think it's a good investment
-- You would be okay with not getting the proportion of this money as divident
-- You have asked all the relevant roles and Partners for input?
+- You as an owner would be okay with not getting the proportion of this money as divident
+- You have asked relevant Roles for input
 - If above 200 EUR, you have approval from the Finance and Controlling role cash-flow wise
 - If above 3000 EUR, you have approval from Biz role
 - You have a next action to add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Have a next action to give the invoice to the Finance role and upload it to the Google Drive (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 
-Company credit cards may only be used by Partners after their probation time. (You can use Splitwise)
-
 - Partners may _not_ combine their budgets to purchase something more expensive together.
 
-
-##### Policy: Financial Liability Accounting
-To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
+##### Policy: Splitwise
+You can use [Splitwise](https://www.splitwise.com) to account different financial liabilities:
 - You owe the company
 - You paid something on behalf of the company, so the company owes you
 - Someone in the team paid you something personal, like lunch
-- Company and partner-to-partner reimbursment happens over 10k HUF and in 10k bulks, independently from the directon of the payment (company >>> partner, partner >>> company, partner >>> partner)
-- You have to use 'LabCoop' group for all your payments
-- Use the following prefixes in each expense report, which involves Supercluster: office food, office, pr, travel, sales / biz dev, hr. For example "[office food] sör".
-- Do not add costs to Splitwise, which have been paid with company card / cash
-- Only use HUF in Splitwise, convert all other on mid conversion price
+
+You may only use it if you
+- use 'LabCoop' group for all your payments
+- use HUF (you can convert all other on mid conversion price)
+
+Do not add costs to Splitwise, which have been paid with company card or company cash
+
+If you paid something on behalf of the company, you can only add the cost to SplitWise with one of these prefixes: office food, office, pr, travel, sales / biz dev, hr. For example "[office food] sör".
 
 ##### Policy: Company CSR
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
