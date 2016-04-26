@@ -400,7 +400,7 @@ Accountabilities:
 
 Domain:
 
-### New Office - Peták, Anikó
+### New Office - Peták, Anikó, Jeszi
 
 Purpose:
  - Perfect office: happy partners, location, work environment
