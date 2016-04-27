@@ -197,6 +197,7 @@ Accountabilities:
 - Shadowing a Facilitator on a Gov or Tactical meeting on request to help the Faci learn and the process flow
 - Monitoring the holacracy practice of Roles; offering feedback to enhance the quality of the practice
 - Providing Holacarcy articles and resources on request from Marketing
+- Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways
 
 ### Shaman - Aniko
 Purpose: Strong tribe
