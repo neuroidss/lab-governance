@@ -197,7 +197,12 @@ Accountabilities:
 - Shadowing a Facilitator on a Gov or Tactical meeting on request to help the Faci learn and the process flow
 - Monitoring the holacracy practice of Roles; offering feedback to enhance the quality of the practice
 - Providing Holacarcy articles and resources on request from Marketing
-- Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways
+
+### Teflon - Cassus, Erik
+Purpose: Partners can process their company-related tensions
+
+Accountabilities:
+ - Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways (eg. find a role that cares)
 
 ### Shaman - Aniko
 Purpose: Strong tribe
@@ -206,14 +211,6 @@ Accountabilities:
 - Greeting new people into the community
 - Conducting rituals on significant events of the person in the community
 - Conducting appreciation spaces
-
-### Tribal RepLink - Erik
-Purpose: Tensions in the Tribal/Community/Personal space relevant to process in the circle are channeled out and resolved.
-
-Accountabilities:
-- Removing constraints within the broader Organization that limit the Tribe/Community/People
-- Seeking to understand Tensions conveyed by Tribe Members, and discerning those appropriate to process in the circle
-
 
 ### English lesson organizer - David
 Purpose: Unspecified.
