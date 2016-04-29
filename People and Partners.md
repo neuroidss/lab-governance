@@ -270,7 +270,10 @@ If you are sold to a client, you can schedule additional vacation / learning tim
 - Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holidays / Learning Time / Home office / Sick leave
 - Mark everything in your calendar as soon as you're aware of it.
 - Holidays / Learning Time self-approval check-list to make your absence safe
- - I've notified all my circle-mates over Slack not later then 2x workdays of its length, but minimum 5 workdays and there was no objection
+ - I've notified all my circle-mates on Slack of my holiday plans
+   - I also wrote in the same Slack message that I've put the holiday in my work calendar. (eg. "I plan to be on holiday from X to Y. It's also in my calendar.")
+   - I did this no later then 2x workdays of its length, but minimum 5 workdays
+   - There was no objection
  - There is no big/key release, milestone, contract, meeting, which require me
  - There is no project start / end, which involves me
  - I have notified the resource clarity role.
