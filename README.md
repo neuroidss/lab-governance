@@ -72,6 +72,7 @@ Domains:
 Purpose: todo
 
 Domains:
+- Compensation system
 - Social and environmental responsibility (CSR) strategy and mindset
 
 ### Mr. Wolf - Peták
@@ -165,6 +166,7 @@ Domains:
 - Tax payments and optimization
 - Petty cash
 - Financial and controlling processes
+- Cash flow safety
 
 
 ### Corporate lawyer - Nora Kiss
@@ -197,11 +199,13 @@ Accountabilities:
 - Acting, if any action would break the law or legal obligations
 - Checking the good standing of a company before signing a contract with it
 - Reminding clients and partners, if they would not follow any of the agreements / contract, moreover would not fulfill any of their legal duties
+- Reviewing policies from the legal point of view
 
 Domains:
 - Choose corporate lawyer
 - Signatory right
 - Legal decisions, especially the text of any contract on behalf of the company
+- Text of contracts
 
 
 ### OrgDev Consulting Branch - Cassus
