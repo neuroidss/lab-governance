@@ -123,7 +123,7 @@ Domains:
 - Tax payments and optimization
 - Petty cash
 - Financial and controlling processes
-- Partner loan
+- Partner loan and advanced salary
 
 
 ### Corporate lawyer - Nora Kiss
@@ -796,8 +796,8 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
-##### Policy: Partner Loan
-Each Partner has the right to ask for a loan from the company for up to 3 months of net. sum. compensation for up to a 3 months period. Interest rate: double of the national base rate.
+##### Policy: Partner Loan and Advanced Salary
+Each Partner has the right to ask for a loan or advancced salary from the company for up to 3 months of net. sum. compensation for up to a 3 months period. Interest rate in case of loan: National Bank base interest rate + 5%.
 
 ##### Policy: Copyright Compliance
 Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy. https://github.com/lab-coop/lab-governance#policy-company-purchases
