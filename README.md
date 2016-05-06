@@ -499,6 +499,20 @@ Accountability:
 - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - Notifying sales if upsell or conflict resolution is needed
 
+
+### Client Work
+
+Purpose:
+- Satisfy clients
+
+Accountability:
+- Defining the onboarding time of the new partners
+- Keeping contact and communicating with the client (first point of contact)
+- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- Notifying sales if upsell or conflict resolution is needed
+- Defining bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
+Note: onboarding time is time when someone new to the team is not paid for by the client, because they are still learning and becoming productive.
+
 Domain:
 
 ### VSE - Deme Dani, Nagy Dani, Peták
