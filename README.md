@@ -72,7 +72,6 @@ Domains:
 Purpose: todo
 
 Domains:
-- Compensation system
 - Social and environmental responsibility (CSR) strategy and mindset
 
 ### Mr. Wolf - Peták
@@ -609,7 +608,8 @@ Accountabilities:
 - Calculating compensation for Partners
 
 Domains:
-- Partner & Owner relations (except text of contracts)
+- Partner & Owner relations
+Note: changes to the text of contracts, to the cash-flow and changes to the compensation system that impact the business model have related domains in TLC, and those changes need to be checked.
 
 ### Marketing-PR - Dani
 
