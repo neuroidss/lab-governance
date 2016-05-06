@@ -168,30 +168,35 @@ Domains:
 - Cash flow safety
 
 
-### Corporate lawyer - Nora Kiss
+### Legal adviser, Attorney - Nora Kiss
+Note: in our language this role equals with 'corporate lawyer'
 
 Purpose:
-- Legally safe company and Legal representative
+- Legally safe company
+- Legally safe Representative of the company
 - Well written contracts
 
 Accountabilities:
 - Making sure that accounting and financial practices are legal
 - Reviewing, writing legal documents
 - Supporting negotiations
-- Supporting Legal representative
+- Supporting Representative of the company
 - Managing the company's legal operations
+- Legally representing the company
 
 Domains:
 
 
-### Legal representative - Peták
+### Representative of the company - Peták
+Note: in the legal terminology this role is the 'executive officer' and 'general director', which legally represents the company with any third parties
 
-Purpose: Well matched business needs and company legal safety
+Purpose:
+- Well matched business needs and company legal safety
 
 Accountabilities:
 - Final reviewing and signing contracts
 - Check partner and client company backgrounds before signing the contract
-- Working with the corporate lawyer
+- Working with the Legal adviser, Attorney
 - Negotiating legal documents
 - Managing legal issues
 - Overseeing sure the company's operations and the Partners' work, if it is all legal and follows all the legal obligations
@@ -201,11 +206,9 @@ Accountabilities:
 - Reviewing policies from the legal point of view
 
 Domains:
-- Choose corporate lawyer
+- Choose Legal adviser, Attorney
 - Signatory right
 - Legal decisions, especially the text of any contract on behalf of the company
-- Text of contracts
-
 
 ### OrgDev Consulting Branch - Cassus
 
