@@ -476,7 +476,7 @@ Domain:
 - technical resources of the Visibl project, including code and 3rd party services
 
 
-### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták
+### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták, Jeszi, Bán Marci
 
 Purpose:
 
