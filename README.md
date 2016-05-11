@@ -166,6 +166,7 @@ Domains:
 - Petty cash
 - Financial and controlling processes
 - Cash flow safety
+- Partner loan and advanced salary
 
 
 ### Legal adviser, Attorney - Nora Kiss
@@ -798,6 +799,9 @@ Private:
 ##### Policy: Transparent task progress report
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
+
+##### Policy: Partner Loan and Advanced Salary
+Each Partner has the right to ask for a loan or advancced salary from the company for up to 3 months of net. sum. compensation for up to a 3 months period. Interest rate in case of loan: National Bank base interest rate + 5%.
 
 ## Domain of Strategy: Advisor selection and dismissal
 - Three months probation period before signing anything, prolongation on mutual agreement
