@@ -165,44 +165,51 @@ Domains:
 - Tax payments and optimization
 - Petty cash
 - Financial and controlling processes
+- Cash flow safety
+- Partner loan and advanced salary
 
 
-### Corporate lawyer - Nora Kiss
+### Legal adviser, Attorney - Nora Kiss
+Note: in our language this role equals with 'corporate lawyer'
 
 Purpose:
-- Legally safe company and Legal representative
+- Legally safe company
+- Legally safe Representative of the company
 - Well written contracts
 
 Accountabilities:
 - Making sure that accounting and financial practices are legal
 - Reviewing, writing legal documents
 - Supporting negotiations
-- Supporting Legal representative
+- Supporting Representative of the company
 - Managing the company's legal operations
+- Legally representing the company
 
 Domains:
 
 
-### Legal representative - Peták
+### Representative of the company - Peták
+Note: in the legal terminology this role is the 'executive officer' and 'general director', which legally represents the company with any third parties
 
-Purpose: Well matched business needs and company legal safety
+Purpose:
+- Well matched business needs and company legal safety
 
 Accountabilities:
 - Final reviewing and signing contracts
 - Check partner and client company backgrounds before signing the contract
-- Working with the corporate lawyer
+- Working with the Legal adviser, Attorney
 - Negotiating legal documents
 - Managing legal issues
 - Overseeing sure the company's operations and the Partners' work, if it is all legal and follows all the legal obligations
 - Acting, if any action would break the law or legal obligations
 - Checking the good standing of a company before signing a contract with it
 - Reminding clients and partners, if they would not follow any of the agreements / contract, moreover would not fulfill any of their legal duties
+- Reviewing policies from the legal point of view
 
 Domains:
-- Choose corporate lawyer
+- Choose Legal adviser, Attorney
 - Signatory right
 - Legal decisions, especially the text of any contract on behalf of the company
-
 
 ### OrgDev Consulting Branch - Cassus
 
@@ -224,9 +231,12 @@ Accountabilities:
 - Facilitating idea pitches and hackathons
 - Helping the product team: to validate ideas, build MVP tests, make business model, find resources
 - Making spin-off business model
+- Establishing acceleration / incubation program
+- Fundraising
 
 Domains:
 - Go-no-go of spin-offs through advising process
+- Business model and format of the venture builder / incubator / accelerator
 
 ### Strategy - Petak, Tojas
 
@@ -311,7 +321,6 @@ Accountability:
  - Coordinating with Biz analyst and Resource manager
  - Making offers
  - Pitching how we work
- - Matching the estimation with: client resources - Lab.Coop resources - time frame
  - Rating client
  - Capturing client complaints and giving feedback to the team, when approached by the client with team issues
  - Overseeing all client leads
@@ -401,7 +410,7 @@ Accountabilities:
 
 Domain:
 
-### New Office - Peták, Anikó
+### New Office - Peták, Anikó, Jeszi
 
 Purpose:
  - Perfect office: happy partners, location, work environment
@@ -433,10 +442,12 @@ Accountabilities:
 
 Purpose:
 - Smooth client projects
+- Matched human resources and projects
 
 Accountability:
 - Handling escalations from product clients or product teams
 - Assigning Partners to the Circle’s Product Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit.
+
 
 ### KodGarazs Teacher - Jeszi, Bán Marci
 
@@ -466,7 +477,7 @@ Domain:
 - technical resources of the Visibl project, including code and 3rd party services
 
 
-### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták
+### FlyerBee - Juli, Dani Deme, Dani Nagy, Dávid, Peták, Jeszi, Bán Marci
 
 Purpose:
 
@@ -494,6 +505,20 @@ Accountability:
 - Keeping contact and communicating with the client (first point of contact)
 - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - Notifying sales if upsell or conflict resolution is needed
+
+
+### Client Work
+
+Purpose:
+- Satisfy clients
+
+Accountability:
+- Defining the onboarding time of the new partners
+- Keeping contact and communicating with the client (first point of contact)
+- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- Notifying sales if upsell or conflict resolution is needed
+- Defining bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
+Note: onboarding time is time when someone new to the team is not paid for by the client, because they are still learning and becoming productive.
 
 Domain:
 
@@ -580,12 +605,15 @@ Accountabilities:
 - Conducting orderly peer-reviews
 - Organizing team retreats
 - Facilitating team learning
-- Coaching people out of underperformance
 - Coaching partners in GTD on request
 - Following up with Partners on sick leave about the Partner's health status and expected next work day
+- Tracking compensation parameters and Partner investment historically
+- Collecting human resource needs and maintaining a compiled view of them
+- Calculating compensation for Partners
 
 Domains:
-- Partner & Owner relations (except text of contracts)
+- Partner & Owner relations
+Note: changes to the text of contracts, to the cash-flow and changes to the compensation system that impact the business model have related domains in TLC, and those changes need to be checked.
 
 ### Marketing-PR - Dani
 
@@ -629,27 +657,6 @@ Every project lead has to take responsibility in organizing meetings, liaising w
 ##### Policy: FTE definition
 FTE, full time employee is a measurement unit, it could be one or more person and in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave. This is a client facing definition to be used in the How We Work and Client Contract.
 
-##### Policy: Human resource dedication
-- Partners can be dedicated to work on a Client projects
-  - Each week (in average) works on the Client Project for the time agreed with the Client
-- For changing dedication, permission is necessary from the following roles:
-  - Biz
-  - Sales
-  - Recruiter
-  - Legal representative
-  - HR Circle LL
-  - Resource Clarity
-
-- Permission is necessary (with the above roles) in case of changes of:
-  - FTE
-  - Roles in direct contact with the client
-  - Contract
-  - Price, pricing
-  - Project timeframe
-- The above listed roles can block the above listed changes up to 2 weeks before the legal minimum stated (usually 4 weeks), if the roles decide within their domains that the upcoming change is not safe to fail. Moreover, it is highly preferred not to change within 6 months, and to change at the time of contract change.
-- Minimum 6 months on a client project, except agreed otherwise with the client.
-- No more than 1 person should be replaced within one month, except agreed otherwise with the client.
-
 ##### Policy: Client communications, quality assurance, bug handling
 Each product development role must:
 - Define bug priorities with the client. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
@@ -667,6 +674,9 @@ Each product development role must:
  - Proposals are announced and written down in English.
  - Put your proposal in words before the governance meeting in a Pull Request.
 
+##### Policy: Free floating developers
+Any Partner can add or remove a Free Floating Developer role assignment to themselves.
+
 ##### Policy: Async governance process (TLC)
 1. Create a pull request from your proposal. Put your tension in the description of the pull request.
 2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance. You can mark the requests on the GitHub by comments.
@@ -678,6 +688,11 @@ Each product development role must:
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
 4. Any core circle member can merge the pull request if there are no objections in the given period.
+
+
+##### Policy: Co-ownership and compensation Slides
+Only edit the [Co-ownership and compensation Slides](https://docs.google.com/presentation/d/1UtY2qj4aU0jCzbaAzH2JaUCWdzSfluWCg6AL22MOd_8/edit)
+if you add a comment about what you changed next to the slide you modified.
 
 ##### Policy: Long policies
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy is complex than pre-governance discussions are preferable.
@@ -721,51 +736,6 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - Costs of business meeting (coffees / lunches / dinners / beers etc.) and beer dates can be fully reimbursed.
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
-##### Policy: Company financed learning (for everyone and all circles in the Lab)
-- Up to 170 EUR + VAT / Full time Partner / month (incl. travel costs), 2040 EUR + VAT / Full Time Partner / year
-- Part time Partners can spend in proportion to their % of full time employment
-- A Partner's budget can be cummulated, so if a Partner does not use his/her budget in the given month or year, it can be used later on
-- If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Finance role in order to secure cash flow
-- Get an invoice for the company. Pay by company card/transfer if possible.
-- Learning budget includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
-- Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
-- Make a brownbag talk about your learning if applicable
-- If a Partner spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
-- Learning budget over 2040 EUR / year is the domain of the Biz role as it becomes an investment for the company.
-- If a Partner leaves the company and his/her cummulative learning budget balance is over the 170 EUR / month average, the Partner need to pay back the budget overuse proportionally to the company. For example the Partner has worked 20 months for the company and has spent 4400 EUR on learning, then the Partner owes 1000 EUR to the company. (20*170=3400 vs. 4400)
-- In case a Partner does not want to use a larger learning budget, as the agreed one (just as described above), s/he has the option to access the budget against his or her preferred dividend stocks. (For example 10k HUF budget overuse would mean getting 10k less preferred dividend stocks in that given quarter or year.) In this case there is no employment commitment or repayment obligation.
-- A team training, workshop, course etc.'s cost needs to be administrated in splits between the participants. For example: English lesson.
-- Secretary Interpretation: Exam/certification fees can also be financed from the learning budget.
-
-##### Policy: Employee Benefits (for everyone and all circles in the Lab)
-
-Services
- - Dinner if working after 8pm
- - Uber home of working later than 10pm
- - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
- - Personal income tax report filed by the company's accountant.
-   NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
- - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes. However, the company only covers high-way tolls and parking costs, if the Partner was on business dutie, otherwise, if any of those was paid with the company cell phone, it needs to be reimbursed.
- - VOIP to make cheaper calls abroad.
-Above ones are NOT available for part time or during probation time.
- - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to frigyik.marta@mpk.hu and to istvan.kocse@lab.coop at least 5 workday before your trip. You have to travel with your insurance plastic card, which you can get from the Admin role.
-Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
- - You can order all the purchase any software and SAAS you need for your work.
- - Reimbursement for medicine/doctor's visits for partners who do not have health insurance.
-
-Devices
-- Cell phone up to 400 EUR + VAT. A more expensive phone can paid if it is a must have (for example an iPhone for an iOS developer). If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
-Only on request.
-Above ones are NOT available for part time or during probation time.
-- Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
-- External screen, automatically for the office and on request for home.
-
-##### Policy: Insurance deductible
-- Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible. Deductible is 10% of the damage, but minimum 10k HUF / damage. Detailed insurance terms and conditions: https://drive.google.com/open?id=0B6JxQVzWxgy4eUdZdGJ0bkdKU1RXQTQzM1ROWHRrNEZ2azVj
-
-##### Policy: Device security
-Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
-
 ##### Policy: Company purchases
 - After the probation time any partner can access and use the company credit cards.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
@@ -784,20 +754,6 @@ Partners can make purchaes on behalf of the company if they get YES answers to a
 - If above 200 EUR, has it been approved by the Finance and Controlling role cash flow wise?
 - If it is above 3000 EUR, has it been approved by Biz role?
 
-##### Policy: Purchases with company invoice
-You can invoice the company for the below things (service, devices):
-- 1. services (taxi, flgiht ticket to London but to Mallorca, etc)
-- 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF).
-
-Restrictions:
-- If using the company card, you have to pre-validate with the finance and admin roles.
-- If requested, you have to be able to bring that device to the company.
-- If you leave the company, you have to consult with finance and admin roles to take it from the company inventory.
-
-##### Policy: Usage of company services
-You can use the below services through the company:
-- Travel insurance
-
 ##### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
 - You owe the company
@@ -810,35 +766,15 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - Only use HUF in Splitwise, convert all other on mid conversion price
 
 ##### Policy: Company CSR
-- Every partner has 100 EUR each year to spend on any CSR activities or charity
-- Every partner has yearly one day to spend on any, freely choosen CSR activity
-- Pick your cause, aim, organization as you think it is the best way to help an important aim
-- Splitwise your cost with Supercluster for the reimbursment
-- List your spending in CSR Cost and Time Tracking https://goo.gl/5VOOi8
 - If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
-
-##### Policy: Gigs
-- The organizations needs to give time to the Partners to complete smaller gigs, conference speaking and teaching opportunities, moreover any similar side projects. As these can be delivered in the Partners' work hours and in many cases are accountabilities of several roles, all should be invoiced by the company, except agreed otherwise (for example for part-time Partners).
-
-
-
 
 ## Domain: other Company-Wide policies (mandatory by default for all roles and circles)
 
 ##### Policy: Calendar and meetings
-Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. Have your calendar email address at "Personal data + Contact sheet" sheet: https://goo.gl/NTI6Dl
-
-In case you work part-time share your other work calendar's free-busy status and add it to the above contact sheet or mark the time periods as "busy" when you know in advance that you are going to be unavailable for the Lab in your Lab calendar.
-
-Give permission to co-workers to modify your business calendar.
-
 You can book the meeting room to gain primary access by marking your meeting in the Meeting Room Calendar. https://calendar.google.com/calendar/embed?src=r5328r0nh8i3amjio867tia20o%40group.calendar.google.com&ctz=Europe/Budapest
 
 ##### Policy: Making Hard-to-Change Decisions
 In any role, before you implement a decision that could have a significant impact on the organization and where it will be significantly difficult or expensive to undo that impact, you must first share your intent to do so with any partners who you believe could have useful information to inform the decision, or who fill roles likely to be significantly impacted by it. You must then delay your decision for a reasonable timeframe to allow those partners to consider the potential decision, respond to any clarifying questions, and consider any reactions shared.
-
-##### Policy: Personal data + Contact sheet
-Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
 
 ##### Policy: Account Logins
 Store all service user names, account emails, passwords etc. in the Logins sheet. https://goo.gl/xHOHkq
@@ -888,31 +824,8 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
-##### Policy: Copyright Compliance
-Partners must follow all the relevant copyright policies and licenses while accessing, using, reusing, downloading, distributing etc. any 'work', including, but not exclusively software or digital content. It is the Partner's responsibility to only store legal works (especially media content and software) on any company owned device or via the company's Internet connection. In case a Partner needs to purchase for example a software or content, s/he needs to follow the relevant Company Purchases policy and consult with the Tech Support Role, if needed. https://github.com/lab-coop/lab-governance#policy-company-purchases
-
-##### Policy: Conflict resolution process
-Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
-
-Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.
-
- 1. Whatever the topic, the process starts with one person asking another to gain agreement: In a first phase, they sit together and try to sort it out privately. Both parties should use NonViolent Communication practices to communicate clear Observation, Feelings, Needs, Requests and Responses
-
-   - Observation: the facts (what we are seeing, hearing, or touching) as distinct from our evaluation of meaning and significance. NVC discourages static generalizations. It is said that "When we combine observation with evaluation others are apt to hear criticism and resist what we are saying." Instead, a focus on observations specific to time and context is recommended.
-   - Feelings: emotions or sensations, free of thought and story. These are to be distinguished from thoughts (e.g., "I feel I didn't get a fair deal") and from words colloquially used as feelings but which convey what we think we are (e.g., "inadequate"), how we think others are evaluating us (e.g., "unimportant"), or what we think others are doing to us (e.g., "misunderstood", "ignored"). Feelings are said to reflect whether we are experiencing our needs as met or unmet. Identifying feelings is said to allow us to more easily connect with one another, and allowing ourselves to be vulnerable by expressing our feelings can help resolve conflicts.
-   - Needs: universal human needs, as distinct from particular strategies for meeting needs.
-   - Request: request for a specific action, free of demand. Requests are distinguished from demands in that one is open to hearing a response of "no" without this triggering an attempt to force the matter. If one makes a request and receives a "no" it is recommended not that one give up, but that one empathize with what is preventing the other person from saying "yes," before deciding how to continue the conversation. It is recommended that requests use clear, positive, concrete action language.
-   - Response: The receiving person has to respond clearly to the request:
-     - with a "yes"
-     - needs that prevent you from saying yes,
-     - and/or a counterproposal.
-
-
- 1. If they can’t find a solution agreeable to both of them, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution.
-
- 1. If mediation fails, a panel of topic-relevant colleagues is convened. The panel’s role, again, is to listen and help shape agreement. It cannot force a decision, but usually carries enough moral weight for matters to come to a conclusion.
-
- 1. In an ultimate step, the Top Level Circle Lead Link, can be called into the panel, to further reinforce the panel’s moral weight (but not to impose a solution).
+##### Policy: Partner Loan and Advanced Salary
+Each Partner has the right to ask for a loan or advancced salary from the company for up to 3 months of net. sum. compensation for up to a 3 months period. Interest rate in case of loan: National Bank base interest rate + 5%.
 
 ## Domain of Strategy: Advisor selection and dismissal
 - Three months probation period before signing anything, prolongation on mutual agreement
