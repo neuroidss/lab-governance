@@ -469,3 +469,16 @@ Each product development role must:
 - More, than 50% of the team can only go on holidays + training + sick leave , if it is pre-approved by the client.
 - Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
+##### Note of Recruiter: Part-time criteria
+(My best guesses so far, open for input and change)
+
+Part-time is okay if the person gives gives the company at least 60% focus time. Less focus time carries a high risk of painfully slow integration (if ever happens). Coordination overhead also grows with less focus time.
+
+> "if they leave unfinished work in a way that its expensive for others continue it, then its not really useful to have a 50% dev because you can't give them time-critical tasks because of the risk that they start a 4.5 day weekend without finishing. If their unfinished work is continuable by others, then I would definitely hire them."
+> -- Erik
+
+University is okay if it ends soon.
+
+Non-profit / hobbi / volunteer side projects are fine.
+
+For-profit, For-equity side projects are not okay due to the cost of boundary managment, they indicate low commitment. They are okay temporarly as they are phased out.
