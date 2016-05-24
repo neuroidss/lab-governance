@@ -163,7 +163,7 @@ Accountable For:
 - Reviewing evidence submitted by any Partner that a Partner has earned or lost a Badge, given the process or mechanism defined in the Badge, and updating Badge and compensation records if clear and compelling evidence indicates a Badge has been earned or lost
 - Tracking time-based and event-based triggers that expire Badges, and, upon an expiration, notifying affected parties and updating relevant records
 
-### Adventures - Banyo, BanMarci, Aniko
+### Adventures - Banyo, BanMarci, Aniko, Tojas (focus: FedEx day)
 Purpose: Community of happy and healthy Partners
 
 Accountabilities:
