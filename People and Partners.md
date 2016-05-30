@@ -205,7 +205,8 @@ Accountabilities:
  - Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways (eg. find a role that cares)
 
 ### Shaman - Aniko
-Purpose: Strong tribe
+Purpose: Strong tribe   
+Partners work together on improving community health, by providing information, feedback and appreciation, surfacing tensions and providing room for improvement for each other
 
 Accountabilities:
 - Greeting new people into the community
