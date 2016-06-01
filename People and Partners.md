@@ -307,15 +307,16 @@ We do not have fixed office hours, like 9to5. It is flexible and partners schedu
 - Part time Partners can spend in proportion to their % of full time employment
 - A Partner's budget can be cummulated, so if a Partner does not use his/her budget in the given month or year, it can be used later on
 - If monthly learning spending is ≥ Number of Partners * 170 EUR + VAT, than it requires approval from the Finance role in order to secure cash flow
-- Get an invoice for the company. Pay by company card/transfer if possible.
+- You can only spend company money on learning if you get an invoice for the company.
 - Learning budget includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
-- Make a brownbag talk about your learning if applicable
 - If a Partner spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
 - Learning budget over 2040 EUR / year is the domain of the Biz role as it becomes an investment for the company.
 - If a Partner leaves the company and his/her cummulative learning budget balance is over the 170 EUR / month average, the Partner need to pay back the budget overuse proportionally to the company. For example the Partner has worked 20 months for the company and has spent 4400 EUR on learning, then the Partner owes 1000 EUR to the company. (20*170=3400 vs. 4400)
 - In case a Partner does not want to use a larger learning budget, as the agreed one (just as described above), s/he has the option to access the budget against his or her preferred dividend stocks. (For example 10k HUF budget overuse would mean getting 10k less preferred dividend stocks in that given quarter or year.) In this case there is no employment commitment or repayment obligation.
 - A team training, workshop, course etc.'s cost needs to be administrated in splits between the participants. For example: English lesson.
+- Pay by company card/transfer if possible.
+- Make a brownbag talk about your learning if applicable
 - Secretary Interpretation: Exam/certification fees can also be financed from the learning budget.
 
 ##### Policy: Employee Benefits (for everyone and all circles in the Lab)
