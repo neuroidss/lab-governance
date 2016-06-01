@@ -78,12 +78,16 @@ Accountabilities:
 - Marking the subtasks done in Asana and commenting about your results and impressions on the person-card to track interactions with the candidate
 
 ### Partner Agreement Steward - Erik
-Purpose: Clear, explicit agreements between Partners and the Company
+Purpose: Promises made by partners to the company and each other are clear. *Promises made by the company to partners are deliberately excluded. They are mostly handled by other roles.*
 
 Accountabilities:
-- Evolving agreements between individual Partners and the Company
-- Notifying all Partners of changes in these agreements
+- Clarifying the partner agreement evolution process
 - Onboarding new Partners to these agreements
+
+Accountabilities related to the agreement process:
+- Asking all current partners to sign new versions of the standard agreement
+- Working one-on-one to create modified agreements for partners who refuse to sign the standard agreement
+- Publishing the diff between the actual agreement and the standard, in cases where a partner refused to sign the standard agreement
 
 ### Recruiter - Cassus
 Purpose: Hire great people
@@ -231,7 +235,7 @@ See [Async governance process as TLC](README.md#policy-async-governance-process-
 - Granting access to legal notice and firing to Roles outside the P&P circle (for roles in the P&P circle this part of the policy means no restrictions):
   - Any role outside the P&P circle may give legal notice to a Partner when
     - the Partner has been without a role for at least 1 month,
-    - or the Role senses that Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. 
+    - or the Role senses that Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month.
   - Any role outside the P&P circle may fire a Partner who was given legal notice one month prior.
 - Limiting acccess to legal notice and firing of any Role who has access to it (including the roles who got permission above):
   - A Role may only fire a Partner after having approval from all partners filling the folling roles: PP LL, TLC Resource Clarity and TLC Biz.
