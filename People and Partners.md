@@ -185,13 +185,6 @@ Accountabilities:
  - Facilitating Dev learning workshops
  - Providing guidance on How and What to learn on request from @FreeFloatingDev
 
-### Gardener - Cassus
-**Purpose**: Partners are aware of their growth needs and opportunities
-
-**Accountabilities**:
- - Talking with Partners about their growth needs and opportunities
- - Recommending growth opportunities to Partners
-
 ### Tool developer - Cassus
 Purpose: Smooth and fast HR processes
 
@@ -213,6 +206,15 @@ Purpose: Partners can process their company-related tensions
 Accountabilities:
  - Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways (eg. find a role that cares)
 
+### Mentor
+Purpose:
+
+Accountabilities:
+- Talking with you about your (as mentee) growth needs and opportunities
+- Recommending growth opportunities to you
+- Helping to solve your problems in a way that next time you are more capable of solving it
+- Meeting with you regularly for a 1on1
+
 ### Shaman - Aniko
 Purpose: Strong tribe
 
@@ -232,6 +234,9 @@ Accountabilities:
 
 ##### Policy: Async governance process
 See [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
+
+##### Policy: Mentors
+Any Partner can assign themself to the Mentor role (with the focus of the mentee) if another partner asked you to be their mentor
 
 ##### Policy: Firing Process
 - Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
