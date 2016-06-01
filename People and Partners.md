@@ -78,16 +78,14 @@ Accountabilities:
 - Marking the subtasks done in Asana and commenting about your results and impressions on the person-card to track interactions with the candidate
 
 ### Partner Agreement Steward - Erik
-Purpose: Promises made by partners to the company and each other are clear. *Promises made by the company to partners are deliberately excluded. They are mostly handled by other roles.*
+Purpose: Promises made by partners to the company are clear.
 
 Accountabilities:
-- Clarifying the partner agreement evolution process
+- Explaining and operating partner agreement processes
 - Onboarding new Partners to these agreements
 
-Accountabilities related to the agreement process:
-- Asking all current partners to sign new versions of the standard agreement
-- Working one-on-one to create modified agreements for partners who refuse to sign the standard agreement
-- Publishing the diff between the actual agreement and the standard, in cases where a partner refused to sign the standard agreement
+Note about the purpose:
+Promises made by the company to partners are deliberately excluded. They are mostly handled by other roles.
 
 ### Recruiter - Cassus
 Purpose: Hire great people
