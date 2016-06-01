@@ -78,12 +78,14 @@ Accountabilities:
 - Marking the subtasks done in Asana and commenting about your results and impressions on the person-card to track interactions with the candidate
 
 ### Partner Agreement Steward - Erik
-Purpose: Clear, explicit agreements between Partners and the Company
+Purpose: Promises made by partners to the company are clear.
 
 Accountabilities:
-- Evolving agreements between individual Partners and the Company
-- Notifying all Partners of changes in these agreements
+- Explaining and operating partner agreement processes
 - Onboarding new Partners to these agreements
+
+Note about the purpose:
+Promises made by the company to partners are deliberately excluded. They are mostly handled by other roles.
 
 ### Recruiter - Cassus
 Purpose: Hire great people
@@ -231,7 +233,7 @@ See [Async governance process as TLC](README.md#policy-async-governance-process-
 - Granting access to legal notice and firing to Roles outside the P&P circle (for roles in the P&P circle this part of the policy means no restrictions):
   - Any role outside the P&P circle may give legal notice to a Partner when
     - the Partner has been without a role for at least 1 month,
-    - or the Role senses that Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. 
+    - or the Role senses that Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month.
   - Any role outside the P&P circle may fire a Partner who was given legal notice one month prior.
 - Limiting acccess to legal notice and firing of any Role who has access to it (including the roles who got permission above):
   - A Role may only fire a Partner after having approval from all partners filling the folling roles: PP LL, TLC Resource Clarity and TLC Biz.
