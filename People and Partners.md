@@ -165,7 +165,14 @@ Accountable For:
 - Reviewing evidence submitted by any Partner that a Partner has earned or lost a Badge, given the process or mechanism defined in the Badge, and updating Badge and compensation records if clear and compelling evidence indicates a Badge has been earned or lost
 - Tracking time-based and event-based triggers that expire Badges, and, upon an expiration, notifying affected parties and updating relevant records
 
-### Adventures - Banyo, BanMarci, Aniko, Tojas (focus: FedEx day)
+### FedEx day organizer - Tojas
+Purpose: Regular events were we hack together
+
+Accountabilities:
+- organizing FedEx day events
+- maintaining and evolving a list of what work is needed and when that work needs to be done both before and during the event
+
+### Adventures - Banyo, BanMarci, Aniko
 Purpose: Community of happy and healthy Partners
 
 Accountabilities:
