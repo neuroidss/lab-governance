@@ -495,7 +495,7 @@ Accountability:
 Domain:
 
 
-### Stream.it dev - Aze, Ryan, Marci Bán
+### Stream.it dev - Aze, Marci Bán
 
 Purpose:
 - fulfill client contract expectations
