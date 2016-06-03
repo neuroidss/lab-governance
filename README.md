@@ -64,6 +64,7 @@ Accountabilities:
  - Financial admin
  - Send and pick up post
  - Booking hotels, flights, trains, conference tickets etc. based on the provided travel preferences and information. Partners do not have to use this service, but it is the partner's responsibility to book as early as possible to avoid overprice.
+ - Updating the shareholder book to reflect share transfers
 
 Domains:
  - Paperwork
@@ -157,6 +158,7 @@ Accountabilities:
 - Deciding about non-human insurance plans
 - Deciding on all spending over 200 EUR to secure the cash-flow
 - Tracking approved future spending in the CashFlow
+- Setting up and evolving how we spend and allocate money
 
 Domains:
 - Accountant
@@ -167,6 +169,7 @@ Domains:
 - Financial and controlling processes
 - Cash flow safety
 - Partner loan and advanced salary
+- Money spending and money allocation
 
 
 ### Legal adviser, Attorney - Nora Kiss
@@ -715,16 +718,6 @@ Projects: Only outcomes are recorded on TLC tactical board as a project. Next ac
 ##### Policy: Company credit cards
 Don't give access to the company credit cards to a Partner before their probation time is over.
 
-##### Policy: Company purchases
-Any Role may spend company money if
-- If above 200 EUR, you have approval from the Finance and Controlling role cash-flow wise
-- If above 3000 EUR, you have approval from Biz role
-- If you purchase an asset, you have a next action to add the it to the asset inventory at https://goo.gl/AzyIEF
-- Have a next action to give the invoice to the Finance role and upload it to the Google Drive (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
-- You have asked relevant Roles for input
-- You think this would move our organization forward and it's a good investment
-- You as an owner would be okay with not getting the proportion of this money as divident
-
 ##### Policy: Splitwise
 You can use [Splitwise](https://www.splitwise.com) to account different financial liabilities:
 - You owe the company
@@ -849,6 +842,19 @@ No one can use the petty cash without permission from the Finance and Controllin
 ##### Policy: TLC tactical board
 Any role in the circle may capture their outcomes on the Board given you prefix the name with a ✪ symbol. Sub-circles may also link outcomes of the circle they want to be transparent about.
 No role may capture Next actions or general areas of work on the board.
+
+## Domain of Secretary: Financial and controlling processes
+##### Policy: Company purchases
+
+Any Role may spend company money if
+- If above 200 EUR, you have approval from the Finance and Controlling role cash-flow wise
+- If above 3000 EUR, you have approval from Biz role
+- If you purchase an asset, you have a next action to add the it to the asset inventory at https://goo.gl/AzyIEF
+- Have a next action to give the invoice to the Finance role and upload it to the Google Drive (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
+- You have asked relevant Roles for input
+- You think this would move our organization forward and it's a good investment
+- You as an owner would be okay with not getting the proportion of this money as divident
+
 
 ## Notes
 ### Note about domain Partner & Owner relations
