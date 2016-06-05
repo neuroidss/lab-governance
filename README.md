@@ -58,6 +58,7 @@ Purpose:
 Accountabilities:
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
+ - When it is time to renew the contract with an ongoing client, pestering all parties to sign the renewal
  - Keeping internal administration on track
  - HR admin
  - Client admin
