@@ -843,7 +843,7 @@ No one can use the petty cash without permission from the Finance and Controllin
 Any role in the circle may capture their outcomes on the Board given you prefix the name with a ✪ symbol. Sub-circles may also link outcomes of the circle they want to be transparent about.
 No role may capture Next actions or general areas of work on the board.
 
-## Domain of Secretary: Financial and controlling processes
+## Domain of Finance and Controlling: Financial and controlling processes
 ##### Policy: Company purchases
 
 Any Role may spend company money if
