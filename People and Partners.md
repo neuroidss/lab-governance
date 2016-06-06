@@ -87,6 +87,11 @@ Accountabilities:
 Note about the purpose:
 Promises made by the company to partners are deliberately excluded. They are mostly handled by other roles.
 
+Note about what it means to agree:
+"Agreement" means a partner has signed an document on HelloSign. No other signatures are needed.
+
+A standard agreement comes out of the agreement evolution process, and I ask all partners to sign this. If someone refuses, I work with them individually to find an agreement they're willing to sign. I will send the diff for each custom agreement to all LLs, and publish them.
+
 ### Recruiter - Cassus
 Purpose: Hire great people
 
