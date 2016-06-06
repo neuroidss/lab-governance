@@ -226,7 +226,7 @@ Accountabilities:
 Domains:
 - Clients
 
-### Venture builder - Peták, Feri
+### Venture builder - Peták
 Purpose:
 - Building Scalable Tech Ventures
 
@@ -357,7 +357,7 @@ Purpose:
 Accountability:
  - Estimating initial product backlog
 
-### How We Work and Service Design - Feri
+### How We Work and Service Design - unfilled
 
 Purpose:
  - Great processes
@@ -393,7 +393,7 @@ Domains:
 - Hiring and firing the Lead Link of GreenFox Academy in consensus with the CEO of Digital Natives as co-owner
 - Investment to GreenFox Academy
 
-### GreenFox Academy Teacher - Tojás, Anikó, Aze, Feri, Banyó
+### GreenFox Academy Teacher - Tojás, Anikó, Aze, Banyó
 
 Purpose:
 - Deliver great education
