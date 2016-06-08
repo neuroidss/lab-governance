@@ -220,6 +220,13 @@ Accountabilities:
 - Helping to solve your problems in a way that next time you are more capable of solving it
 - Meeting with you regularly for a 1on1
 
+### Feedback Fish - 
+Purpose: Partners get enough feedback to grow
+
+Accountabilities:
+- Evolving the Lab.Coop person feedback practices
+- Organizing feedback sessions
+
 ### Shaman - Aniko
 Purpose: Strong tribe   
 Partners work together on improving community health, by providing information, feedback and appreciation, surfacing tensions and providing room for improvement for each other
