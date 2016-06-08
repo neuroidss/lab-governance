@@ -170,13 +170,6 @@ Accountable For:
 - Reviewing evidence submitted by any Partner that a Partner has earned or lost a Badge, given the process or mechanism defined in the Badge, and updating Badge and compensation records if clear and compelling evidence indicates a Badge has been earned or lost
 - Tracking time-based and event-based triggers that expire Badges, and, upon an expiration, notifying affected parties and updating relevant records
 
-### FedEx day organizer - Tojas
-Purpose: Regular events were we hack together
-
-Accountabilities:
-- organizing FedEx day events
-- maintaining and evolving a list of what work is needed and when that work needs to be done both before and during the event
-
 ### Adventures - Banyo, BanMarci, Aniko
 Purpose: Community of happy and healthy Partners
 
@@ -221,20 +214,21 @@ Accountabilities:
 - Meeting with you regularly for a 1on1
 
 ### Shaman - Aniko
-Purpose: Strong tribe   
-Partners work together on improving community health, by providing information, feedback and appreciation, surfacing tensions and providing room for improvement for each other
+Purpose: Meaningful time together
 
 Accountabilities:
 - Greeting new people into the community
 - Conducting rituals on significant events of the person in the community
-- Conducting appreciation spaces
 
-### English lesson organizer - David
+### Recurring event organizer - David (focus: English lesson), Aniko (focus: appreciation spaces), Cassus (focus: dialog), Tojas (FedEx day)
 Purpose: Unspecified.
 
 Accountabilities:
+- Scheduling the events
+- inviting people
+- booking location or meeting room
+- maintaining and evolving a list of what work is needed and when that work needs to be done both before and during the event
 
-- Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
 
 ## Domain: All functions & activities within the Circle
 
