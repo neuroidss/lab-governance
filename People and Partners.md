@@ -220,7 +220,7 @@ Accountabilities:
 - Greeting new people into the community
 - Conducting rituals on significant events of the person in the community
 
-### Recurring event organizer - David (focus: English lesson), Aniko (focus: appreciation spaces), Cassus (focus: dialog), Tojas (FedEx day)
+### Recurring event organizer - David (focus: English lesson), Aniko (focus: appreciation spaces), Cassus (focus: dialog), Tojas (FedEx day, Show and Tell)
 Purpose: Unspecified.
 
 Accountabilities:
