@@ -384,11 +384,9 @@ In case you work part-time share your other work calendar's free-busy status and
 Give permission to co-workers to modify your business calendar.
 
 ##### Policy: Company CSR
-- Every partner has 100 EUR each year to spend on any CSR activities or charity
 - Every partner has yearly one day to spend on any, freely choosen CSR activity
 - Pick your cause, aim, organization as you think it is the best way to help an important aim
-- Splitwise your cost with Supercluster for the reimbursment
-- List your spending in CSR Cost and Time Tracking https://goo.gl/5VOOi8
+- List work in CSR Time Tracking https://goo.gl/5VOOi8
 
 ##### Policy: Personal data + Contact sheet
 Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
