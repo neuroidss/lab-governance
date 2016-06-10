@@ -356,6 +356,7 @@ Purpose:
 
 Accountability:
  - Estimating initial product backlog
+ - Evolving the estimation template and guidelines for estimation
 
 ### How We Work and Service Design - Feri
 
