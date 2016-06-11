@@ -217,6 +217,7 @@ Purpose: Mentors do great work
 Accountabilities:
 - Evolving the soft and hard skill tree
 - Scheduling regular mentor supervision meetings
+- Evolving a list of recommended trainings, coaches, therapist to help people choose growth opportunities
 
 ### Mentor
 Purpose:
