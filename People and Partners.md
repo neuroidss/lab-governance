@@ -183,7 +183,7 @@ Purpose: Community of happy and healthy Partners
 Accountabilities:
 - Organizing team events
 
-### Dev mentor - Gólya Ádám
+### Dev mentor - Gólya Ádám, Egg
 Purpose: Professional and expert developers
 
 Accountabilities:
