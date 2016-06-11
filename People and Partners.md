@@ -211,6 +211,13 @@ Purpose: Partners can process their company-related tensions
 Accountabilities:
  - Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways (eg. find a role that cares)
 
+### Mentor supervisor
+Purpose: Mentors do a great work
+
+Accountabilities:
+- Evolving the soft and hard skill tree
+- Scheduling regular mentor supervision meetings
+
 ### Mentor
 Purpose:
 
