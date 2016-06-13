@@ -170,18 +170,14 @@ Accountable For:
 - Reviewing evidence submitted by any Partner that a Partner has earned or lost a Badge, given the process or mechanism defined in the Badge, and updating Badge and compensation records if clear and compelling evidence indicates a Badge has been earned or lost
 - Tracking time-based and event-based triggers that expire Badges, and, upon an expiration, notifying affected parties and updating relevant records
 
-### FedEx day organizer - Tojas
-Purpose: Regular events were we hack together
-
-Accountabilities:
-- organizing FedEx day events
-- maintaining and evolving a list of what work is needed and when that work needs to be done both before and during the event
-
 ### Adventures - Banyo, BanMarci, Aniko
-Purpose: Community of happy and healthy Partners
+Purpose: Fun recreational events
+
+### Ownership Evolver -
+Purpose: Easy to explain, fair, attractive, motivating ownership system
 
 Accountabilities:
-- Organizing team events
+ - Proposing changes to the Ownership system
 
 ### Dev mentor - Gólya Ádám, Egg
 Purpose: Professional and expert developers
@@ -211,6 +207,14 @@ Purpose: Partners can process their company-related tensions
 Accountabilities:
  - Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways (eg. find a role that cares)
 
+### Feedback Fish
+Purpose: Partners get enough feedback to grow
+
+Accountabilities:
+ - Evolving the Lab.Coop feedback practices
+ - Organizing feedback sessions
+
+
 ### Mentor
 Purpose:
 
@@ -221,28 +225,31 @@ Accountabilities:
 - Meeting with you regularly for a 1on1
 
 ### Shaman - Aniko
-Purpose: Strong tribe   
-Partners work together on improving community health, by providing information, feedback and appreciation, surfacing tensions and providing room for improvement for each other
+Purpose: Meaningful time together
 
 Accountabilities:
-- Greeting new people into the community
-- Conducting rituals on significant events of the person in the community
-- Conducting appreciation spaces
+ - Greeting new people into the community
+ - Conducting rituals on significant events of the person in the community
 
-### English lesson organizer - David
-Purpose: Unspecified.
+### Recurring events - David (focus: English lesson), Aniko (focus: appreciation spaces), Cassus (focus: dialog), Tojas (FedEx day, Show and Tell)
+Purpose: Unspecified
 
 Accountabilities:
-
-- Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
+- Scheduling the events
+- inviting people
+- booking location or meeting room
+- maintaining and evolving a list of what work is needed and when that work needs to be done both before and during the event
 
 ## Domain: All functions & activities within the Circle
 
 ##### Policy: Async governance process
 See [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
 
-##### Policy: Mentors
+##### Policy: Mentor selection
 Any Partner can assign themself to the Mentor role (with the focus of the mentee) if another partner asked you to be their mentor
+
+##### Policy: Core circle member exclusion
+Only one Partner who fills the Mentor role may be a Core Circle Member, the LeadLink selects that partner.
 
 ##### Policy: Firing Process
 - Anybody can be fired with one month notice period, who (1) has been without a role for at least 1 months, or (2) Partner's roles all together do not require at least 50% of the agreed work time in the last 1 month. Firing decision needs to be approved by all of these roles: HR LL, Resource Clarity and Biz. If the Partner gets a role within the notice period, than the firing process stops.
@@ -292,10 +299,14 @@ Clearly distinguish (in writing, talking, calendar, timesheet etc.) between Holi
 Mark everything in your calendar as soon as you're aware of it.
 
 **Holidays / Learning Time** self-approval check-list to make your absence safe:
-- I've notified all my circle-mates on Slack of my holiday plans
+- I've notified partners on #holiday-availability Slack channel of my holiday plans
     - I also wrote in the same Slack message that I've put the holiday in my work calendar. (eg. "I plan to be on holiday from X to Y. It's also in my calendar.")
     - I did this no later then 2x workdays of its length, but minimum 5 workdays
     - There was no objection
+
+- Before going on holiday I wrote on #holiday-availability Slack channel a list of all my roles and which partner agreed to substitute me in the role (or "call me" if we should call you)
+
+
 - There is no big/key release, milestone, contract, meeting, which require me
 - There is no project start / end, which involves me
 - I have notified the resource clarity role.
@@ -440,12 +451,11 @@ If a Partner from their own personal preference chooses not to spend significant
 ##### Policy: Badge Valuation
 The "Badge Valuation Database" is a listing of specific sets of Badges, with each set mapped to a specific compensation level using the levels defined by Compensation Architect.
 
-The full-time compensation level for a Partner may only be set at `100% - (investment %)` of the `personal market compensation benchmark` or the prorated equivalent for a part-time commitment. The `personal market compensation benchmark` is the highest pay level that matches a set of Badges the Partner holds. In the normal case the `investment` is 20%.
+The full-time compensation level for a Partner may only be set at 100% - (investment %) of the personal market compensation benchmark or the prorated equivalent for a part-time commitment. The personal market compensation benchmark is the highest pay level that matches a set of Badges the Partner holds. In the normal case the investment is 20%.
 
-Any Partner who is financially responsible for another person may choose to reduce their `investment` in the company from 20% to 10%. In this case their `investment` for the liquid ownership calculation may only be treated as the 10% they invest in the company, without any adjustments.
+Any Partner who is financially responsible for another person may choose to reduce their investment in the company from 20% to 10%. In this case their investment for the liquid ownership calculation may only be treated as the 10% they invest in the company, without any adjustments.
 
-If a partner's compensation level would decrease, the compensation level can only be calculated with no more than 10% monthly decrease except if the Partner agrees to a faster or immediate decrease.
-_(Intent is to avoid sudden 0 pay penalty for a partner's negligance)_
+If a partner's compensation level would decrease, the compensation level can only be calculated with no more than 10% monthly decrease except if the Partner agrees to a faster or immediate decrease. (Intent is to avoid sudden 0 pay penalty for a partner's negligance)
 
 Compensation changes for Partners may only take effect in quarterly batches, after dividend pay.
 
