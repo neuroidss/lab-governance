@@ -62,7 +62,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Interpreting Governance and the Constitution upon request
 - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
-### Attention admin - 
+### Attention admin -
 
 Purpose: Clarity on our commitments and available attention
 
@@ -214,6 +214,14 @@ Purpose: Partners can process their company-related tensions
 
 Accountabilities:
  - Talking with Partners upon request to help them get unstuck, build perspective on their needs and tension processing pathways (eg. find a role that cares)
+
+### Mentor supervisor - Egg
+Purpose: Mentors do great work
+
+Accountabilities:
+- Evolving the soft and hard skill tree
+- Scheduling regular mentor supervision meetings
+- Evolving a list of recommended trainings, coaches, therapist to help people choose growth opportunities
 
 ### Feedback Fish
 Purpose: Partners get enough feedback to grow
