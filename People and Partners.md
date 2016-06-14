@@ -62,6 +62,14 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Interpreting Governance and the Constitution upon request
 - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
+### Attention admin - 
+
+Purpose: Clarity on our commitments and available attention
+
+Accountabilities:
+- Gathering how much energy people spent and plan to spend in PP roles
+
+
 ### Organization Developer (OrgDev) - Cassus
 Purpose: Organization that can scale while keeping it’s agility.
 
