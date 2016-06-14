@@ -100,6 +100,10 @@ Note about what it means to agree:
 
 A standard agreement comes out of the agreement evolution process, and I ask all partners to sign this. If someone refuses, I work with them individually to find an agreement they're willing to sign. I will send the diff for each custom agreement to all LLs, and publish them.
 
+Note:
+
+A draft of the standard agreement and other works in progress live here: https://drive.google.com/open?id=0BykXySylAD-0bEx1X3pzdGRnMGM
+
 ### Recruiter - Cassus
 Purpose: Hire great people
 
