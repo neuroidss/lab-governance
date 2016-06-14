@@ -432,7 +432,7 @@ Domain:
  - New office
  - Office design
 
-### Free Floating Developer - Dávid, Jeszi, Bán Marci
+### Free Floating Developer - Dávid, Jeszi, Bán Marci, Ryan
 
 Purpose:
 - Well spent developer time
