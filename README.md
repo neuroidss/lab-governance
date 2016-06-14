@@ -242,6 +242,14 @@ Domains:
 - Go-no-go of spin-offs through advising process
 - Business model and format of the venture builder / incubator / accelerator
 
+### Retro Rabbit - 
+
+Purpose: Teams regularly do retrospectives and post-mortems on big events by themselves
+
+Accountabilities:
+- Nagging teams to do retros and post-mortems
+- Facilitating retros and post-mortems on request
+
 ### Strategy - Petak, Tojas
 
 Purpose:
