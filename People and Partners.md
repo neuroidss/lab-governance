@@ -497,6 +497,10 @@ A role may only grant extra compensation to a Partner who has an `x%` part-time 
 - the Partner has signed an employment contract on `y%` part-time,
 - the period starts after the last divident pay.
 
+##### Policy: Part-time Partner Rules
+Working as a part-time Partners is only acceptable, if the other part-time occupancy is non-profit / hobbi / volunteer / family. For-profit / for-equity side projects / work is not acceptable.
+For the existing part-time Partners with for-profit / for-equity side projects / work there is a 3 month grace / transition period.
+
 ## Domain of Secretary: All constitutionally-required records of the Circle
 
 #### Policy: PP tactical board
@@ -529,8 +533,6 @@ Part-time is okay if the person gives gives the company at least 60% focus time.
 > "if they leave unfinished work in a way that its expensive for others continue it, then its not really useful to have a 50% dev because you can't give them time-critical tasks because of the risk that they start a 4.5 day weekend without finishing. If their unfinished work is continuable by others, then I would definitely hire them."
 > -- Erik
 
+Part-time for profit work beside the Lab is not acceptable, due the cost of boundary managment, challenges of integration and lack of focus.
+
 University is okay if it ends soon.
-
-Non-profit / hobbi / volunteer side projects are fine.
-
-For-profit, For-equity side projects are not okay due to the cost of boundary managment, they indicate low commitment. They are okay temporarly as they are phased out.
