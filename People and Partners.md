@@ -521,6 +521,9 @@ Each product development role must:
 - More, than 50% of the team can only go on holidays + training + sick leave , if it is pre-approved by the client.
 - Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
+##### AANR - Alliterating Animal Name Roles
+Each single word role must have an alliterating animal name. New roles must not added if not complient with the naming conveition.
+
 ##### Note of Recruiter: Part-time criteria
 (My best guesses so far, open for input and change)
 
